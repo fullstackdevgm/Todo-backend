@@ -1,0 +1,1727 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Todo Cloud\n"
+"POT-Creation-Date: 2016-01-29 12:27+0300\n"
+"PO-Revision-Date: 2016-01-29 12:29+0300\n"
+"Last-Translator: Kopot Vladimir <phpwolf007@gmail.com>\n"
+"Language-Team: Appigo\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext_noop;_e\n"
+"X-Poedit-Basepath: ../../../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: TodoOnline/content/LandingPageContent.php:35
+msgid "Sign Up"
+msgstr "Aanmelden"
+
+#: TodoOnline/content/AppSettingsContentAccount.php:139
+msgid "Name"
+msgstr "Naam"
+
+#: TodoOnline/content/AppSettingsContentAccount.php:167
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: TodoOnline/content/AppSettingsContentAccount.php:192
+msgid "Password"
+msgstr "Paswoord"
+
+#~ msgid "Work"
+#~ msgstr "Werk"
+
+#~ msgid "Label"
+#~ msgstr "Label"
+
+#~ msgid "Appleseed"
+#~ msgstr "Appleseed"
+
+#~ msgid "Thing One"
+#~ msgstr "Eerste Ding"
+
+#~ msgid "Done"
+#~ msgstr "Klaar"
+
+#~ msgid "Enter Passcode"
+#~ msgstr "Wachtwoordcode invoeren"
+
+#~ msgid "Think"
+#~ msgstr "Denken"
+
+#~ msgid "The PDF will be attached to the email."
+#~ msgstr "De pdf zal bij de e-mail worden gevoegd."
+
+#~ msgid "Black Italic"
+#~ msgstr "Zwart Cursief"
+
+#~ msgid "Arrow Flags"
+#~ msgstr "Pijlmarkeringen"
+
+#~ msgid "Free (your version):"
+#~ msgstr "Gratis (uw versie):"
+
+#~ msgid "More Info"
+#~ msgstr "Meer info"
+
+#~ msgid ""
+#~ "A passcode is used to lock boards that contain sensitive information. The "
+#~ "same passcode is used for all locked boards"
+#~ msgstr ""
+#~ "Prikborden met gevoelige informatie kunnen met een wachtwoordcode worden "
+#~ "vergrendeld. De wachtwoordcode is hetzelfde voor alle prikborden."
+
+#~ msgid ""
+#~ "An error occurred in retrieving update information. Please try again "
+#~ "later."
+#~ msgstr ""
+#~ "Bij het ophalen van update-informatie deed zich een fout voor. Probeer "
+#~ "alstublieft later opnieuw."
+
+#~ msgid "View your entire board by using a two finger pinch to zoom"
+#~ msgstr ""
+#~ "Geef uw volledige prikbord weer door met twee vingers een knijpbeweging "
+#~ "te maken om te zoomen"
+
+#~ msgid "Network:"
+#~ msgstr "Netwerk:"
+
+#~ msgid "Corkulous "
+#~ msgstr "Corkulous "
+
+#~ msgid "Join a Shared Board"
+#~ msgstr "Aanmelden voor gedeeld prikbord"
+
+#~ msgid "OK"
+#~ msgstr "Oké"
+
+#~ msgid "New Blank Board"
+#~ msgstr "Nieuw blanco prikbord"
+
+#~ msgid "Unlink Dropbox Account?"
+#~ msgstr "Dropbox Account ontkoppelen?"
+
+#~ msgid "Wide"
+#~ msgstr "Breed"
+
+#~ msgid "Card"
+#~ msgstr "Card"
+
+#~ msgid "New Folder"
+#~ msgstr "Nieuwe Folder"
+
+#~ msgid "An unknown error occured."
+#~ msgstr "Er is een onbekende fout opgetreden."
+
+#~ msgid ""
+#~ "You must have a valid network connection to purchase Corkulous Pro "
+#~ "features from the App Store."
+#~ msgstr ""
+#~ "U moet over een geldige netwerkverbinding beschikken om Corkulous Pro "
+#~ "functies aan te kopen in de App Store."
+
+#~ msgid "Look for nearby boards to join"
+#~ msgstr "Kijk voor prikborden in de buurt waar u zich voor kunt aanmelden"
+
+#~ msgid ""
+#~ "An error occurred while downloading the update. Please try again later."
+#~ msgstr ""
+#~ "Bij het downloaden deed zich een fout voor. Probeer alstublieft later "
+#~ "opnieuw."
+
+#~ msgid "No date"
+#~ msgstr "Geen datum"
+
+#~ msgid ""
+#~ "Select an existing or create a new contact using your iPad's built-in "
+#~ "Contacts"
+#~ msgstr ""
+#~ "Een bestaande contactpersoon selecteren of nieuwe maken met de ingebouwde "
+#~ "contactpersonen van uw iPad"
+
+#~ msgid "Keep on My Device"
+#~ msgstr "Hou op Mijn Toestel"
+
+#~ msgid "View shared boards created by others in Dropbox collections"
+#~ msgstr "Bekijk gedeelde borden gecreëerd door anderen in Dropbox collecties"
+
+#~ msgid "Choose the region of the board to export."
+#~ msgstr "Selecteer het te exporteren deel van het prikbord."
+
+#~ msgid "Passcodes did not match.  Try again."
+#~ msgstr "Wachtwoordcodes komen niet overeen. Probeer het opnieuw."
+
+#~ msgid ""
+#~ "Todo for iPad is the most connected to-do list app. Keep your tasks with "
+#~ "you anywhere you go."
+#~ msgstr ""
+#~ "Todo voor iPad is de meest gebruikte to-do lijst app. Houdt uw taken bij "
+#~ "u waar u ook gaat."
+
+#~ msgid "Restoring features..."
+#~ msgstr "Functies terugzetten..."
+
+#~ msgid "Require Passcode"
+#~ msgstr "Wachtwoordcode vereisen"
+
+#~ msgid "Unable to open this board because the data is not valid "
+#~ msgstr "Kan dit Bord niet openen omdat de gegevens niet geldig zijn "
+
+#~ msgid "Double tap a photo to view it full screen"
+#~ msgstr "Dubbeltikken voor weergave foto op volledig scherm"
+
+#~ msgid "Email Board"
+#~ msgstr "Prikbord e-mailen"
+
+#~ msgid "An error occurred while parsing the update feed."
+#~ msgstr "Bij het afhandelen van de update feed deed zich een fout voor."
+
+#~ msgid "Search"
+#~ msgstr "Zoeken"
+
+#~ msgid "Import"
+#~ msgstr "Importeren"
+
+#~ msgid "Creating sample board..."
+#~ msgstr "Voorbeeldbord aan het creëren..."
+
+#~ msgid "Bold Italic"
+#~ msgstr "Vet Cursief"
+
+#~ msgid "Walk the dog"
+#~ msgstr "De hond uitlaten"
+
+#~ msgid "Completed"
+#~ msgstr "Voltooid"
+
+#~ msgid "Export a board's tasks to Appigo Todo using the share button"
+#~ msgstr ""
+#~ "Taken van het prikbord naar Appigo Todo exporteren via de knop 'delen'"
+
+#~ msgid ""
+#~ "Please review your device's restriction settings (In-App Purchases) to "
+#~ "allow purchasing these features."
+#~ msgstr ""
+#~ "Gelieve de beperkingen van uw toestel te controleren (In-App Aankopen) om "
+#~ "de aankoop van deze functies toe te laten."
+
+#~ msgid ""
+#~ "Please check your network connection and tap the restore purchase button "
+#~ "below."
+#~ msgstr ""
+#~ "Gelieve uw netwerkverbinding te controleren en klik op de onderstaande "
+#~ "Aankoop terugzetten knop."
+
+#~ msgid "Installing update..."
+#~ msgstr "Update installeren…"
+
+#~ msgid "Purchase Notebook?"
+#~ msgstr "Notitieboek aanschaffen?"
+
+#~ msgid "Importing board..."
+#~ msgstr "Bezig met importeren prikbord..."
+
+#~ msgid "Creating Account"
+#~ msgstr "Account aan het aanmaken"
+
+#~ msgid "Create Account Failed"
+#~ msgstr "Aanmaken rekening mislukt"
+
+#~ msgid "Last Name"
+#~ msgstr "Familienaam"
+
+#~ msgid "Mail"
+#~ msgstr "Mail"
+
+#~ msgid "Italic"
+#~ msgstr "Cursief"
+
+#~ msgid "Our Other Apps"
+#~ msgstr "Onze andere apps"
+
+#~ msgid "Unable to Log In"
+#~ msgstr "Inloggen niet mogelijk"
+
+#~ msgid "Turn Passcode On"
+#~ msgstr "Wachtwoordcode inschakelen"
+
+#~ msgid "Save image to \"Shared Photos\""
+#~ msgstr "Afbeelding in \"gedeelde fotoalbums\" opslaan"
+
+#~ msgid "Condensed Black"
+#~ msgstr "Gecondenseerd Zwart"
+
+#~ msgid "A template node was not created."
+#~ msgstr "Er is geen sjabloonknooppunt gemaakt."
+
+#~ msgid "Tasks"
+#~ msgstr "Taken"
+
+#~ msgid "Create a sample board"
+#~ msgstr "Maak een voorbeeld bord"
+
+#~ msgid "Contacts"
+#~ msgstr "Contactpersonen"
+
+#~ msgid "Items align easily to guides when you drag them around\n"
+#~ msgstr "Items worden bij slepen eenvoudig uitgelijnd m.b.v. hulplijnen\n"
+
+#~ msgid ""
+#~ "Should %1$@ automatically check for updates? You can always check for "
+#~ "updates manually from the %1$@ menu."
+#~ msgstr ""
+#~ "Zou %1$@ automatisch naar updates moeten zoeken? U kan altijd nog manueel "
+#~ "naar updates zoeken via het %1$@ menu."
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Username and password are not valid"
+#~ msgstr "Gebruikersnaam en paswoord zijn niet geldig"
+
+#~ msgid "Accept"
+#~ msgstr "Accepteren"
+
+#~ msgid "Remove"
+#~ msgstr "Verwijder"
+
+#~ msgid ""
+#~ "The experts at Appigo know that the best cork boards only come from the "
+#~ "best materials.  Your Corkulous™ idea board uses only the finest pieces "
+#~ "of cork trimmed to perfection in a state of the art facility in Orem, "
+#~ "Utah.  We give you the best quality in every board … and that's a "
+#~ "promise!\n"
+#~ "\n"
+#~ "Do not be fooled by cheap imitations."
+#~ msgstr ""
+#~ "De specialisten van Appigo weten dat de beste prikborden van de beste "
+#~ "materialen gemaakt zijn.  Uw Corkulous™ suggestiebord maakt gebruik van "
+#~ "het beste kurk dat perfect op maat gesneden is in een state-of-the-art "
+#~ "faciliteit in Orem, Utah.  We bieden u de beste kwaliteit in ieder bord … "
+#~ "en dat beloven we!\n"
+#~ "\n"
+#~ "Laat u niet voor de gek houden door goedkope imitaties."
+
+#~ msgid "Cancel"
+#~ msgstr "Annuleren"
+
+#~ msgid "Required"
+#~ msgstr "Vereist"
+
+#~ msgid ""
+#~ "\"%@\" has not been downloaded to your device.  Downloading will keep it "
+#~ "synchronized with Dropbox."
+#~ msgstr ""
+#~ "\"%@\" werd nog niet naar uw apparaat gedownload. Door dit te downloaden "
+#~ "blijft het gesynchroniseerd met Dropbox."
+
+#~ msgid "Download"
+#~ msgstr "Download"
+
+#~ msgid "Oblique"
+#~ msgstr "Schuin"
+
+#~ msgid ""
+#~ "Corkulous™ idea board for iPad gives you an incredible new way to "
+#~ "collect, organize, and share your ideas."
+#~ msgstr ""
+#~ "Het Corkulous™ suggestiebord voor de iPad biedt u een nieuwe manier voor "
+#~ "het verzamelen, ordenen en delen van uw ideeën."
+
+#~ msgid "Update a single board in your \"%@\" collection"
+#~ msgstr "Werk een enkel bord bij in uw \"%@\" collectie"
+
+#~ msgid ""
+#~ "The attached document was created using Corkulous\n"
+#~ " for the iPad: http://www.appigo.com/corkulous"
+#~ msgstr ""
+#~ "Het bijgevoegde document is met Corkulous\n"
+#~ " voor de iPad gemaakt: http://www.appigo.com/corkulous"
+
+#~ msgid "Sample"
+#~ msgstr "Voorbeeld"
+
+#~ msgid "Connecting"
+#~ msgstr "Verbinding maken"
+
+#~ msgid "No Boards"
+#~ msgstr "Geen Borden"
+
+#~ msgid "Show Background"
+#~ msgstr "Toon Achtergrond"
+
+#~ msgid "Later"
+#~ msgstr "Later"
+
+#~ msgid "Join a Board"
+#~ msgstr "Aanmelden voor prikbord"
+
+#~ msgid "Email Required"
+#~ msgstr "Email vereist"
+
+#~ msgid "Complete"
+#~ msgstr "Voltooien"
+
+#~ msgid "Updating %@"
+#~ msgstr "Updaten %@"
+
+#~ msgid "Confirm"
+#~ msgstr "Bevestigen"
+
+#~ msgid ""
+#~ "You've selected an item that was created with a newer version of "
+#~ "Corkulous."
+#~ msgstr ""
+#~ "U hebt een item gekozen dat met een nieuwere versie van Corkulous "
+#~ "aangemaakt is."
+
+#~ msgid "Semi Bold Italic"
+#~ msgstr "Half-vet Cursief"
+
+#~ msgid "Change Passcode"
+#~ msgstr "Wachtwoordcode wijzigen"
+
+#~ msgid "Choose the region of the board to email."
+#~ msgstr "Selecteer het via e-mail te verzenden deel van het prikbord."
+
+#~ msgid "The board file will be available via iTunes File Sharing."
+#~ msgstr "Het prikbordbestand is via iTunes - Delen beschikbaar."
+
+#~ msgid "%@ %@ is currently the newest version available."
+#~ msgstr "%1$@ %2$@ is momenteel de recentste versie."
+
+#~ msgid "Scroll down to find more tips"
+#~ msgstr "Naar beneden schuiven voor meer tips"
+
+#~ msgid "There is another operation in progress. Try importing later."
+#~ msgstr ""
+#~ "Op dit moment vindt er een bewerking plaats. Probeer later te importeren."
+
+#~ msgid "Exporting document..."
+#~ msgstr "Bezig met exporteren document..."
+
+#~ msgid "The PDF will be available via iTunes File Sharing."
+#~ msgstr "De pdf is via iTunes - Delen beschikbaar."
+
+#~ msgid "Saving..."
+#~ msgstr "Aan het opslaan..."
+
+#~ msgid "Congratulations! Corkulous Pro features are now enabled."
+#~ msgstr "Gefeliciteerd! De Corkulous Pro functies zijn nu geactiveerd."
+
+#~ msgid ""
+#~ "Import tasks directly into Appigo Todo. Try Todo Lite free on the App "
+#~ "Store."
+#~ msgstr ""
+#~ "Taken rechtstreeks naar 'Todo' van Appigo importeren. Ga naar de App "
+#~ "Store om Todo Lite gratis uit te proberen."
+
+#~ msgid "First Name"
+#~ msgstr "Voornaam"
+
+#~ msgid "Import Failed"
+#~ msgstr "Importeren mislukt"
+
+#~ msgid "Please configure your email account and try again."
+#~ msgstr "Configureer uw e-mailaccount en probeer het opnieuw."
+
+#~ msgid "Bold"
+#~ msgstr "Vet"
+
+#~ msgid "Dropbox Connection"
+#~ msgstr "Dropbox Connectie"
+
+#~ msgid "Sharing a Board"
+#~ msgstr "Prikbord delen"
+
+#~ msgid ""
+#~ "If the Appigo Support team has requested a copy of your board data and "
+#~ "you agree to our Privacy Policy (http://www.appigo.com/company/privacy), "
+#~ "please tap the \"Include Board\" button."
+#~ msgstr ""
+#~ "Als het Appigo Support team een kopie van je Bord heeft gevraagd en je "
+#~ "akkoord gaat met ons Privacybeleid (http://www.appigo.com/company/"
+#~ "privacy), tik dan op de \"Include Board\" knop."
+
+#~ msgid "Creating document..."
+#~ msgstr "Bezig met het maken van document..."
+
+#~ msgid "Copyright © 2008-2012 Appigo, Inc.  All rights reserved."
+#~ msgstr "Copyright © 2008-2012 Appigo, Inc. Alle rechten voorbehouden."
+
+#~ msgid "Photo"
+#~ msgstr "Foto"
+
+#~ msgid "Ready to Install"
+#~ msgstr "Klaar om te installeren"
+
+#~ msgid "Board Templates"
+#~ msgstr "Prikbord sjablonen"
+
+#~ msgid ""
+#~ "Yes, you can create as many boards as you want\n"
+#~ "\n"
+#~ "Your imagination at your fingertips!"
+#~ msgstr ""
+#~ "Ja, u kunt net zo veel prikborden maken als u wilt\n"
+#~ "\n"
+#~ "Uw verbeelding binnen handbereik!"
+
+#~ msgid " (Selected)"
+#~ msgstr " (Geselecteerd)"
+
+#~ msgid "Labels"
+#~ msgstr "Labels"
+
+#~ msgid "Use board templates to quickly start your next ideas"
+#~ msgstr "Gebruik bordsjablonen om snel uw volgende ideeën te starten"
+
+#~ msgid "Note"
+#~ msgstr "Notitie"
+
+#~ msgid "Export Tasks to Todo"
+#~ msgstr "Taken naar 'Todo' exporteren"
+
+#~ msgid "Link Account"
+#~ msgstr "Account verbinden"
+
+#~ msgid "Create an empty board"
+#~ msgstr "Leeg prikbord maken"
+
+#~ msgid "Corkulous Information"
+#~ msgstr "Informatie over Corkulous"
+
+#~ msgid "Update Error!"
+#~ msgstr "Update-fout!"
+
+#~ msgid "This Dropbox collection will only be removed from this device"
+#~ msgstr "Deze Dropbox collectie wordt alleen van dit apparaat verwijderd"
+
+#~ msgid "Reset iCloud Documents"
+#~ msgstr "Reset iCloud Documenten"
+
+#~ msgid "iCloud must be enabled in 'Settings' on your device."
+#~ msgstr "iCloud moet in de 'Instellingen' van uw apparaat toegelaten zijn."
+
+#~ msgid "Loading..."
+#~ msgstr "Aan het laden..."
+
+#~ msgid ""
+#~ "Learn more by swiping the board with a finger\n"
+#~ "\n"
+#~ "< < <   > > >"
+#~ msgstr ""
+#~ "Veeg voor meer informatie met een vinger over het prikbord\n"
+#~ "\n"
+#~ "< < <   > > >"
+
+#~ msgid "Capture quick thoughts with a label"
+#~ msgstr "Vang voorbijgaande gedachten met een label"
+
+#~ msgid "iCloud"
+#~ msgstr "iCloud"
+
+#~ msgid "Sync in progress"
+#~ msgstr "Sync is bezig"
+
+#~ msgid "Mail an image of the current view"
+#~ msgstr "Een afbeelding van de huidige weergave mailen"
+
+#~ msgid ""
+#~ "Send a PDF or image of your board via email by tapping the share button "
+#~ "at the top right of the screen\n"
+#~ "\n"
+#~ "Or save an image directly into your \"Saved Photos\" album"
+#~ msgstr ""
+#~ "Een pdf of afbeelding van uw prikbord via e-mail verzenden door te tikken "
+#~ "op de knop 'delen' in de rechterbovenhoek van het scherm\n"
+#~ "\n"
+#~ "Of sla een afbeelding direct op in uw \"Fotoalbums\""
+
+#~ msgid "%@ downloaded"
+#~ msgstr "%@ gedownload"
+
+#~ msgid ""
+#~ "The attached document was created using <a href=\"http://www.appigo.com/"
+#~ "corkulous\" target=\"_blank\" alt=\"Appigo Corkulous Website\">Corkulous</"
+#~ "a> for the iPad."
+#~ msgstr ""
+#~ "Het bijgevoegde document is met <a href=\"http://www.appigo.com/corkulous"
+#~ "\" target=\"_blank\" alt=\"Appigo Corkulous Website\">Corkulous</a> voor "
+#~ "de iPad gemaakt."
+
+#~ msgid "Todo Cloud"
+#~ msgstr "Todo Cloud"
+
+#~ msgid ""
+#~ "Export a PDF or image of your entire board to your shared documents and "
+#~ "access them via iTunes on your desktop"
+#~ msgstr ""
+#~ "Exporteer een pdf of afbeelding van uw hele prikbord naar uw 'gedeelde "
+#~ "documenten'. Deze zijn toegankelijk via iTunes op uw bureaublad."
+
+#~ msgid ""
+#~ "The attached file was created using Corkulous\n"
+#~ " for the iPad: http://www.appigo.com/corkulous"
+#~ msgstr ""
+#~ "Het bijgevoegde bestand is met Corkulous\n"
+#~ " voor de iPad gemaakt: http://www.appigo.com/corkulous"
+
+#~ msgid "All"
+#~ msgstr "Alle"
+
+#~ msgid "Enter your old passcode"
+#~ msgstr "Uw oude wachtwoordcode invoeren"
+
+#~ msgid "Blank Board"
+#~ msgstr "Blanco prikbord"
+
+#~ msgid "This will disconnect anyone currently connected to your board."
+#~ msgstr ""
+#~ "Hiermee wordt de verbinding verbroken met iedereen die momenteel bij uw "
+#~ "bord is aangemeld."
+
+#~ msgid "Creating board from template..."
+#~ msgstr "Bezig met het maken van prikbord via sjabloon..."
+
+#~ msgid "Remove this collection"
+#~ msgstr "Verwijder deze collectie"
+
+#~ msgid ""
+#~ "This will save an image of the current view to your Saved Photos album."
+#~ msgstr ""
+#~ "Hiermee wordt een afbeelding van de huidige weergave in uw Fotoalbums "
+#~ "opgeslagen."
+
+#~ msgid "Create Dropbox Account"
+#~ msgstr "Dropbox account aanmaken"
+
+#~ msgid "Import Board"
+#~ msgstr "Prikbord importeren"
+
+#~ msgid "Please enter your email address."
+#~ msgstr "Gelieve uw emailadres in te geven."
+
+#~ msgid ""
+#~ "Share and collaborate with your friends using boards saved in Dropbox "
+#~ "collections"
+#~ msgstr ""
+#~ "Deel en werk samen met uw vrienden door borden, bewaard in Dropbox-"
+#~ "collecties, te gebruiken."
+
+#~ msgid "GB"
+#~ msgstr "GB"
+
+#~ msgid "This name is already taken. Please choose a different name."
+#~ msgstr "Deze naam is al in gebruik. Selecteer een andere naam a.u.b."
+
+#~ msgid "Take Photo"
+#~ msgstr "Foto nemen"
+
+#~ msgid "Thin"
+#~ msgstr "Small"
+
+#~ msgid "Notes"
+#~ msgstr "Notities"
+
+#~ msgid "Confirmation Needed"
+#~ msgstr "Bevestigen is nodig"
+
+#~ msgid "Re-enter your new passcode"
+#~ msgstr "Voor uw nieuwe wachtwoordcode opnieuw in"
+
+#~ msgid "New from Template"
+#~ msgstr "Nieuw vanaf sjabloon"
+
+#~ msgid ""
+#~ "- Think of something brand new\n"
+#~ "- Share your idea with a friend\n"
+#~ "- Create amazing things"
+#~ msgstr ""
+#~ "- Denk aan iets helemaal nieuws\n"
+#~ "- Deel je idee met een vriend\n"
+#~ "- Creëer verbazende dingen"
+
+#~ msgid "Passcode is incorrect."
+#~ msgstr "Wachtwoordcode onjuist."
+
+#~ msgid ""
+#~ "AccuFuel™ for iPhone and iPod touch makes monitoring your vehicle's fuel "
+#~ "efficiency simple and fun."
+#~ msgstr ""
+#~ "Met AccuFuel™ voor iPhone en iPod kunt u op een eenvoudige en leuke "
+#~ "manier het brandstofverbruik van uw voertuig monitoren."
+
+#~ msgid "Hide Background"
+#~ msgstr "Verberg Achtergrond"
+
+#~ msgid "Import this board?"
+#~ msgstr "Dit prikbord importeren?"
+
+#~ msgid ""
+#~ "Unable to retrieve Corkulous Pro purchase information from the App Store."
+#~ msgstr ""
+#~ "Corkulous Pro aankoopinformatie kan niet uit de App Store opgehaald "
+#~ "worden."
+
+#~ msgid "Board Items"
+#~ msgstr "Prikbord items"
+
+#~ msgid ""
+#~ "%@ %@ is now available--you have %@. Would you like to download it now?"
+#~ msgstr ""
+#~ "%1$@ %2$@ is nu beschikbaar--u heeft %3$@. Wilt u het nu downloaden?"
+
+#~ msgid "Board Sharing"
+#~ msgstr "Delen prikbord"
+
+#~ msgid ""
+#~ "Need more space?\n"
+#~ "\n"
+#~ "Double tap the board below and see what's inside\n"
+#~ msgstr ""
+#~ "Meer ruimte nodig?\n"
+#~ "\n"
+#~ "Dubbeltikken op het onderstaande prikbord om inhoud te bekijken\n"
+
+#~ msgid "High"
+#~ msgstr "Hoog"
+
+#~ msgid "Update Available"
+#~ msgstr "Update Beschikbaar"
+
+#~ msgid ""
+#~ "Create boards that update automatically between your iPhone, iPad, and "
+#~ "iPod touch (with Dropbox or iCloud)"
+#~ msgstr ""
+#~ "Creëer borden die automatisch worden bijgewerkt tussen uw iPhone, iPad, "
+#~ "en iPod Touch (met Dropbox of iCloud)"
+
+#~ msgid "Contact"
+#~ msgstr "Contactpersoon"
+
+#~ msgid "Bold Oblique"
+#~ msgstr "Vet Schuin"
+
+#~ msgid "No Hosted Boards Available"
+#~ msgstr "Geen gehoste prikborden beschikbaar"
+
+#~ msgid " Wi-Fi "
+#~ msgstr " wifi "
+
+#~ msgid "Link"
+#~ msgstr "Link"
+
+#~ msgid "Format"
+#~ msgstr "Opmaak"
+
+#~ msgid "Remove collection?"
+#~ msgstr "Verwijder collectie?"
+
+#~ msgid ""
+#~ "Ungroup the labels by selecting them and pressing the \"Ungroup\" button "
+#~ "in the toolbar."
+#~ msgstr ""
+#~ "Hef de groepering van de labels op door deze te selecteren en dan op de "
+#~ "\"Ungroup\" knop in de werkbalk te drukken."
+
+#~ msgid "Tasks are simple labels with a checkmark"
+#~ msgstr "Taken zijn eenvoudige labels met een vinkje"
+
+#~ msgid "Error, check diagnostic log."
+#~ msgstr "Fout, check diagnostisch log."
+
+#~ msgid ""
+#~ "You can restore your documents by adding an iCloud account in Settings."
+#~ msgstr ""
+#~ "U kunt uw documenten terugzetten door een iCloud account toe te voegen in "
+#~ "Instellingen."
+
+#~ msgid "Please enter your last name."
+#~ msgstr "Gelieve uw familienaam in te geven."
+
+#~ msgid "Condensed Extra Bold"
+#~ msgstr "Gecondenseerd Extra Vet"
+
+#~ msgid "Remarkable Applications"
+#~ msgstr "Opmerkelijke toepassingen"
+
+#~ msgid "Play"
+#~ msgstr "Afspelen"
+
+#~ msgid "The PDF or image will be attached to the email."
+#~ msgstr "De pdf of de afbeelding zal bij de e-mail worden gevoegd."
+
+#~ msgid "New"
+#~ msgstr "Nieuw"
+
+#~ msgid "Restore Failed"
+#~ msgstr "Terugzetten mislukt"
+
+#~ msgid "Existing Contact"
+#~ msgstr "Bestaande contactpersoon"
+
+#~ msgid "Bay Bridge"
+#~ msgstr "Bay Bridge"
+
+#~ msgid "Set Passcode"
+#~ msgstr "Wachtwoordcode instellen"
+
+#~ msgid "Total"
+#~ msgstr "Totaal"
+
+#~ msgid "TextExpander®"
+#~ msgstr "TextExpander®"
+
+#~ msgid "New to Dropbox? Create an account"
+#~ msgstr "Bent u nieuw bij Dropbox? Maak een account aan"
+
+#~ msgid "Unnamed Board"
+#~ msgstr "Naamloos prikbord"
+
+#~ msgid "Connected"
+#~ msgstr "Verbonden"
+
+#~ msgid "Restore Purchase"
+#~ msgstr "Aankoop terugzetten"
+
+#~ msgid "Corkulous™"
+#~ msgstr "Corkulous™"
+
+#~ msgid ""
+#~ "An error occurred while installing the update. Please try again later."
+#~ msgstr ""
+#~ "Bij het installeren van de update deed zich een fout voor. Probeer "
+#~ "alstublieft later opnieuw."
+
+#~ msgid "Cancel Update"
+#~ msgstr "Annuleer bijwerken"
+
+#~ msgid "Edit"
+#~ msgstr "Bewerken"
+
+#~ msgid "Purchase Todo for iPad?"
+#~ msgstr "Todo voor iPad aanschaffen?"
+
+#~ msgid "Please enter your first name."
+#~ msgstr "Gelieve uw voornaam in te geven."
+
+#~ msgid "Stop Board Sharing?"
+#~ msgstr "Prikbord delen stoppen?"
+
+#~ msgid "Purchase Error"
+#~ msgstr "Fout bij aankopen"
+
+#~ msgid "Purchase Todo?"
+#~ msgstr "Todo aanschaffen?"
+
+#~ msgid "Task"
+#~ msgstr "Taak"
+
+#~ msgid ""
+#~ "Left, center, or right justify your notes.\n"
+#~ "\n"
+#~ "Drag the bottom right corner to adjust the size."
+#~ msgstr ""
+#~ "Uw notities links of rechts uitlijnen of centreren.\n"
+#~ "\n"
+#~ "Sleep de rechterbenedenhoek om de grootte aan te passen."
+
+#~ msgid ""
+#~ "Dropbox failed to create the folder due to an invalid name.  Choose "
+#~ "another name to continue."
+#~ msgstr ""
+#~ "Dropbox kon de map niet aanmaken vanwege een ongeldige naam.  Kies een "
+#~ "andere naam om verder te gaan."
+
+#~ msgid "You've removed the iCloud account from this device."
+#~ msgstr "U hebt de iCloud account verwijderd van dit toestel."
+
+#~ msgid "Start Date"
+#~ msgstr "Begindatum"
+
+#~ msgid "John"
+#~ msgstr "John"
+
+#~ msgid "Add Dropbox Collection..."
+#~ msgstr "Voeg Dropbox Collectie toe..."
+
+#~ msgid "Continue Using iCloud"
+#~ msgstr "Blijf iCloud gebruiken"
+
+#~ msgid "Ungroup"
+#~ msgstr "Groepering opheffen"
+
+#~ msgid ""
+#~ "Corkulous idea board is an incredible new way to collect, organize, and "
+#~ "share your ideas."
+#~ msgstr ""
+#~ "Corkulous ideebord is een ongelofelijke nieuw manier om je ideeën te "
+#~ "verzamelen, te organiseren en te delen."
+
+#~ msgid "Share"
+#~ msgstr "Delen"
+
+#~ msgid "Thing Two"
+#~ msgstr "Tweede Ding"
+
+#~ msgid "The exported file will be available via iTunes File Sharing."
+#~ msgstr ""
+#~ "Het geëxporteerde prikbordbestand is via iTunes - Delen beschikbaar."
+
+#~ msgid "Due Date"
+#~ msgstr "Vervaldatum"
+
+#~ msgid "Light Oblique"
+#~ msgstr "Licht Schuin"
+
+#~ msgid "Save as Template"
+#~ msgstr "Als sjabloon opslaan"
+
+#~ msgid "Login Failed"
+#~ msgstr "Inloggen mislukt"
+
+#~ msgid "An error occurred creating this folder."
+#~ msgstr "Er is een fout opgetreden bij het creëren van deze map."
+
+#~ msgid "Getting Started"
+#~ msgstr "Aan de slag"
+
+#~ msgid "None"
+#~ msgstr "Geen"
+
+#~ msgid "No Members"
+#~ msgstr "Geen leden"
+
+#~ msgid ""
+#~ "Corkulous™ idea board for iOS gives you an incredible new way to collect, "
+#~ "organize, and share your ideas."
+#~ msgstr ""
+#~ "Het Corkulous™ ideeënbord voor iOS biedt u een geweldige nieuwe manier om "
+#~ "uw ideeën te verzamelen, te organiseren en te delen."
+
+#~ msgid "Keep going!"
+#~ msgstr "Ga door!"
+
+#~ msgid "Import Status"
+#~ msgstr "Importstatus"
+
+#~ msgid "School"
+#~ msgstr "School"
+
+#~ msgid "Share this board with nearby users"
+#~ msgstr "Dit prikbord met gebruikers in de buurt delen"
+
+#~ msgid "Extracting update..."
+#~ msgstr "Bezig met uitpakken van de update…"
+
+#~ msgid " (Viewed)"
+#~ msgstr " (Weergegeven)"
+
+#~ msgid "Re-enter your passcode"
+#~ msgstr "Voor uw wachtwoordcode opnieuw in"
+
+#~ msgid "First Name Required"
+#~ msgstr "Voornaam vereist"
+
+#~ msgid ""
+#~ "Tap, hold, and release an item to cut or copy them\n"
+#~ "\n"
+#~ "Tap, hold, and release your finger on the board to paste\n"
+#~ msgstr ""
+#~ "Om een item te knippen of te kopiëren: tikken, vasthouden en loslaten\n"
+#~ "\n"
+#~ "Om te plakken: tikken, vasthouden en uw vinger loslaten\n"
+
+#~ msgid "PDF"
+#~ msgstr "pdf"
+
+#~ msgid "Please enter your email."
+#~ msgstr "Gelieve uw emailadres in te geven."
+
+#~ msgid ""
+#~ "Arrow flags automatically attach themselves to whatever they point to.\n"
+#~ "\n"
+#~ "Go ahead, move this note around and watch the arrow flag travel with it."
+#~ msgstr ""
+#~ "Pijlmarkeringen hechten zich automatisch aan het object waarnaar ze "
+#~ "verwijzen.\n"
+#~ "\n"
+#~ "Probeer het maar, verplaats deze nota en kijk hoe de pijlmarkering mee "
+#~ "verhuisd."
+
+#~ msgid "Dropbox Sync Folder"
+#~ msgstr "Dropbox Sync Map"
+
+#~ msgid "Delete from My Device"
+#~ msgstr "Verwijder van Mijn Toestel"
+
+#~ msgid "%@ of %@"
+#~ msgstr "%1$@ van %2$@"
+
+#~ msgid ""
+#~ "Todo for iPhone and iPod touch is the most connected to-do list app. Keep "
+#~ "your tasks with you anywhere you go."
+#~ msgstr ""
+#~ "Todo voor iPhone en iPod touch is de meest gebruikte to-do lijst app. "
+#~ "Houdt uw taken bij u waar u ook gaat."
+
+#~ msgid "The connection to Dropbox is having problems."
+#~ msgstr "De verbinding met de Dropbox heeft problemen."
+
+#~ msgid ""
+#~ "This will disconnect you from the shared board. To reconnect, you will "
+#~ "need to request to become a member of the board again."
+#~ msgstr ""
+#~ "Hiermee wordt uw verbinding met het gedeelde bord verbroken. Meld u "
+#~ "opnieuw aan als lid als u de verbinding wenst te herstellen."
+
+#~ msgid "After 4 hours"
+#~ msgstr "Na 4 uur"
+
+#~ msgid ""
+#~ "The three labels below are grouped together. Tapping one of the labels "
+#~ "will select all of them. Moving one label will also move all of them."
+#~ msgstr ""
+#~ "De drie labels hieronder zijn gegroepeerd. Tikken op op een van de labels "
+#~ "selecteert alle labels. Verplaatsen van een label zal ze ook allemaal "
+#~ "verplaatsen."
+
+#~ msgid "More Tips"
+#~ msgstr "Meer tips"
+
+#~ msgid "Send via Mail"
+#~ msgstr "Via mail verzenden"
+
+#~ msgid "Medium"
+#~ msgstr "Medium"
+
+#~ msgid "Condensed Light"
+#~ msgstr "Gecondenseerd Licht"
+
+#~ msgid "No"
+#~ msgstr "Nee"
+
+#~ msgid "There was an error connecting to Dropbox."
+#~ msgstr "Er is een fout opgetreden bij het verbinden met Dropbox."
+
+#~ msgid "Delete (%d) Items"
+#~ msgstr "(%d) items verwijderen"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Condensed"
+#~ msgstr "Gecondenseerd"
+
+#~ msgid "Please enter your password."
+#~ msgstr "Gelieve uw paswoord in te geven."
+
+#~ msgid "Available"
+#~ msgstr "Beschikbaar"
+
+#~ msgid "Include Board?"
+#~ msgstr "Bord insluiten?"
+
+#~ msgid "Enter your new passcode"
+#~ msgstr "Uw nieuwe wachtwoordcode invoeren"
+
+#~ msgid "Explore the board and find something fun in a certain corner."
+#~ msgstr "Verken het prikbord en vind iets leuks in een bepaalde hoek."
+
+#~ msgid "Pro Features:"
+#~ msgstr "Pro functies:"
+
+#~ msgid "Create Account"
+#~ msgstr "Account aanmaken"
+
+#~ msgid ""
+#~ "The Corkulous package found in iCloud requires a newer version of "
+#~ "Corkulous.  Please check for updates and try again."
+#~ msgstr ""
+#~ "Het Corkulous pakket dat in iCloud werd gevonden vereist een nieuwere "
+#~ "versie van Corkulous. Controleer voor updates en probeer het opnieuw."
+
+#~ msgid "Roman"
+#~ msgstr "Romein"
+
+#~ msgid "Light"
+#~ msgstr "Licht"
+
+#~ msgid "Please try again."
+#~ msgstr "Gelieve opnieuw te proberen."
+
+#~ msgid "Build: %@"
+#~ msgstr "Maak: %@"
+
+#~ msgid "Replace"
+#~ msgstr "Vervangen"
+
+#~ msgid "© %@ Appigo, Inc.  All rights reserved."
+#~ msgstr "© %@ Appigo, Inc.  Alle rechten voorbehouden."
+
+#~ msgid ""
+#~ "Dropbox folder names cannot contain the following characters: []/\\=+<>:;"
+#~ "\",*."
+#~ msgstr ""
+#~ "Dropbox mapnamen mogen de volgende karakters niet bevatten: []/\\=+<>:;\","
+#~ "*."
+
+#~ msgid ""
+#~ "Select different colors\n"
+#~ "\n"
+#~ "Choose a different font\n"
+#~ "\n"
+#~ "Change the font size"
+#~ msgstr ""
+#~ "Andere kleuren selecteren\n"
+#~ "\n"
+#~ "Een ander lettertype selecteren\n"
+#~ "\n"
+#~ "Lettergrootte wijzigen"
+
+#~ msgid "Email Unavailable"
+#~ msgstr "E-mail niet beschikbaar"
+
+#~ msgid "No due date"
+#~ msgstr "Geen vervaldatum"
+
+#~ msgid "Appigo Corkulous Diagnostic Files"
+#~ msgstr "Diagnostische bestanden Appigo Corkulous"
+
+#~ msgid "Create unlimited boards for your ideas"
+#~ msgstr "Creëer ongelimiteerde borden voor uw ideeën"
+
+#~ msgid "Error"
+#~ msgstr "Fout"
+
+#~ msgid "Update"
+#~ msgstr "Update"
+
+#~ msgid "The image will be attached to the email."
+#~ msgstr "De afbeelding zal bij de e-mail worden gevoegd."
+
+#~ msgid "Pro Features %@"
+#~ msgstr "Pro functies %@"
+
+#~ msgid ""
+#~ "It appears you have never purchased Corkulous Pro features with this "
+#~ "Apple ID."
+#~ msgstr ""
+#~ "Blijkbaar hebt u nooit Corkulous Pro functies aangeschaft met deze Apple "
+#~ "ID."
+
+#~ msgid "Choose the file format to export."
+#~ msgstr "Selecteer de te exporteren bestandsindeling."
+
+#~ msgid ""
+#~ "This version of Corkulous has been created specifically for demonstration "
+#~ "purposes."
+#~ msgstr ""
+#~ "Deze versie van Corkulous is speciaal voor demonstratiedoeleinden "
+#~ "ontworpen."
+
+#~ msgid "Print"
+#~ msgstr "Afdrukken"
+
+#~ msgid " Bluetooth "
+#~ msgstr " Bluetooth "
+
+#~ msgid "The board data will be attached to the email."
+#~ msgstr "De prikbordgegevens zullen bij de e-mail worden gevoegd."
+
+#~ msgid "Mt. Timpanogos"
+#~ msgstr "Mt. Timpanogos"
+
+#~ msgid ""
+#~ "Please confirm your Corkulous Pro purchase in order to continue using "
+#~ "Corkulous Pro features."
+#~ msgstr ""
+#~ "Gelieve uw aankoop van Corkulous Pro te bevestigen om de Corkulous Pro "
+#~ "functies te kunnen blijven gebruiken."
+
+#~ msgid "After 1 hour"
+#~ msgstr "Na 1 uur"
+
+#~ msgid "Delete Board"
+#~ msgstr "Prikbord verwijderen"
+
+#~ msgid "View"
+#~ msgstr "Weergave"
+
+#~ msgid "%@.%@"
+#~ msgstr "%1$@.%2$@"
+
+#~ msgid "Book Italic"
+#~ msgstr "Boek Cursief"
+
+#~ msgid "Labels are simple and one line"
+#~ msgstr "Labels zijn eenvoudig en eenregelig"
+
+#~ msgid "Already purchased the pro features?"
+#~ msgstr "Hebt u de Pro-functies al aangeschaft?"
+
+#~ msgid "Exporting board..."
+#~ msgstr "Bezig met exporteren prikbord..."
+
+#~ msgid "Ok"
+#~ msgstr "Oké"
+
+#~ msgid ""
+#~ "%1$@ %2$@ has been downloaded and is ready to use! Would you like to "
+#~ "install it and relaunch %1$@ now?"
+#~ msgstr ""
+#~ "%1$@ %2$@ is gedownload en is klaar voor gebruik! Wilt u %1$@ nu "
+#~ "installeren en herstarten?"
+
+#~ msgid ""
+#~ "The exported PDF will be available via iTunes File Sharing on your "
+#~ "desktop when your iPad is connected with a USB cable."
+#~ msgstr ""
+#~ "De geëxporteerde pdf is via iTunes - Delen op uw bureaublad beschikbaar "
+#~ "wanneer uw iPad met een USB-kabel is aangesloten."
+
+#~ msgid "New Board"
+#~ msgstr "Nieuw prikbord"
+
+#~ msgid ""
+#~ "Select an item and tap it again to cut or copy it.\n"
+#~ "\n"
+#~ "Paste the item by tapping the board and selecting \"Paste.\""
+#~ msgstr ""
+#~ "Selecteer een item en er nog eens op te tikken om het te knippen of te "
+#~ "kopiëren .\n"
+#~ "\n"
+#~ "Plak het item door op het Bord te tikken en \"Paste.\" te selecteren"
+
+#~ msgid "%@ at %@"
+#~ msgstr "%@ op %@"
+
+#~ msgid "After 5 minutes"
+#~ msgstr "Na 5 minuten"
+
+#~ msgid "Not Valid"
+#~ msgstr "Niet geldig"
+
+#~ msgid "Purchase"
+#~ msgstr "Aankopen"
+
+#~ msgid ""
+#~ "Rotate arrow flags by selecting them and dragging the tail of the flag."
+#~ msgstr ""
+#~ "Draai pijlmarkeringen door ze te selecteren en de staart van de markering "
+#~ "te slepen."
+
+#~ msgid "Group"
+#~ msgstr "Groep"
+
+#~ msgid "Passcode incorrect, try again"
+#~ msgstr "Wachtwoordcode onjuist, probeer het opnieuw"
+
+#~ msgid "You already have the newest version of %@."
+#~ msgstr "U heeft al de nieuwste versie van %@."
+
+#~ msgid "Add Features"
+#~ msgstr "Functies toevoegen"
+
+#~ msgid "Password Required"
+#~ msgstr "Paswoord vereist"
+
+#~ msgid "Double tap a note to edit it"
+#~ msgstr "Dubbeltikken om notitie te bewerken"
+
+#~ msgid ""
+#~ "A shared document already exists with the name \"%@\". Do you want to "
+#~ "replace it?"
+#~ msgstr "Er is al een gedeeld document genaamd \"%@\". Wilt u dit vervangen?"
+
+#~ msgid "Dropbox"
+#~ msgstr "Dropbox"
+
+#~ msgid "Unlink Dropbox Account"
+#~ msgstr "Ontkoppel Dropbox Account"
+
+#~ msgid "Tap the back button to go to the previous board"
+#~ msgstr ""
+#~ "Op de knop 'vorige' tikken om naar het voorgaande prikbord terug te gaan"
+
+#~ msgid "Choose the region of the board to print."
+#~ msgstr "Selecteer het deel van het prikbord om af te drukken."
+
+#~ msgid "The image will be saved in Photos"
+#~ msgstr "De afbeelding zal in Fotoalbums worden opgeslagen"
+
+#~ msgid "Collections"
+#~ msgstr "Collecties"
+
+#~ msgid "Checking for updates..."
+#~ msgstr "Zoek naar nieuwe versies…"
+
+#~ msgid "(%d of %d)"
+#~ msgstr "(%d van %d)"
+
+#~ msgid "Import from iTunes File Sharing"
+#~ msgstr "Importeren via iTunes - Delen"
+
+#~ msgid "About"
+#~ msgstr "Over"
+
+#~ msgid "To use iCloud you must upgrade your device to iOS 5 or later."
+#~ msgstr ""
+#~ "Om iCloud te gebruiken moet u uw apparaat naar niveau iOS 5 of later "
+#~ "upgraden."
+
+#~ msgid "Patents pending."
+#~ msgstr "Octrooi aangevraagd."
+
+#~ msgid ""
+#~ "Todo™ for iPhone and iPod touch is the most connected to-do list app. "
+#~ "Keep your tasks with you anywhere you go."
+#~ msgstr ""
+#~ "Todo™ voor iPhone en iPod touch is de meest verbonden todolijst app. "
+#~ "Hiermee heeft u uw taken altijd bij u."
+
+#~ msgid "Lost & Found"
+#~ msgstr "Gevonden voorwerpen"
+
+#~ msgid "Export"
+#~ msgstr "Exporteren"
+
+#~ msgid "Root"
+#~ msgstr "Hoofdmap"
+
+#~ msgid "...for the adventurous!"
+#~ msgstr "...voor de avonturiers!"
+
+#~ msgid "You're Not Using iCloud"
+#~ msgstr "U gebruikt iCloud niet"
+
+#~ msgid "You are sharing \"%@\"."
+#~ msgstr "U deelt \"%@\"."
+
+#~ msgid "A new version of %@ is available!"
+#~ msgstr "Een nieuwe versie van %@ is beschikbaar!"
+
+#~ msgid "Ultra Light Italic"
+#~ msgstr "Ultra Licht Schuin"
+
+#~ msgid "Create"
+#~ msgstr "Maken"
+
+#~ msgid "Available Boards:"
+#~ msgstr "Beschikbare prikborden:"
+
+#~ msgid ""
+#~ "Scroll left to learn how to get more space on your cork board\n"
+#~ "\n"
+#~ "< < <"
+#~ msgstr ""
+#~ "Schuif naar links om te leren hoe u meer ruimte op uw prikbord kunt "
+#~ "maken\n"
+#~ "\n"
+#~ "< < <"
+
+#~ msgid "MB"
+#~ msgstr "MB"
+
+#~ msgid "Visualize your ideas with Corkulous"
+#~ msgstr "Visualiseer uw ideeën met Corkulous"
+
+#~ msgid "Reset iCloud"
+#~ msgstr "Reset iCloud"
+
+#~ msgid "Corkulous"
+#~ msgstr "Corkulous"
+
+#~ msgid "Condensed Medium"
+#~ msgstr "Gecondenseerd Medium"
+
+#~ msgid "Save"
+#~ msgstr "Opslaan"
+
+#~ msgid "Tap to create a new board."
+#~ msgstr "Toets om een nieuw bord aan te maken."
+
+#~ msgid "Save Image"
+#~ msgstr "Afbeelding opslaan"
+
+#~ msgid "The image will be available via iTunes File Sharing."
+#~ msgstr "De afbeelding is via iTunes - Delen beschikbaar."
+
+#~ msgid ""
+#~ "The attached image was created using <a href=\"http://www.appigo.com/"
+#~ "corkulous\" target=\"_blank\" alt=\"Appigo Corkulous Website\">Corkulous</"
+#~ "a> for the iPad."
+#~ msgstr ""
+#~ "De bijgevoegde afbeelding is met gebruik van <a href=\"http://www.appigo."
+#~ "com/corkulous\" target=\"_blank\" alt=\"Appigo Corkulous Website"
+#~ "\">Corkulous</a> voor de iPad gemaakt."
+
+#~ msgid "Purchase Complete"
+#~ msgstr "Aankoop voltooid"
+
+#~ msgid "Enter your passcode"
+#~ msgstr "Uw wachtwoordcode invoeren"
+
+#~ msgid "Downloading update..."
+#~ msgstr "Downloaden update…"
+
+#~ msgid "Unlink"
+#~ msgstr "Ontkoppelen"
+
+#~ msgid "Share a Board"
+#~ msgstr "Prikbord delen"
+
+#~ msgid "Members:"
+#~ msgstr "Leden:"
+
+#~ msgid "Double tap to choose or edit a contact"
+#~ msgstr "Dubbeltikken om contactpersoon te kiezen of te bewerken"
+
+#~ msgid "Duplicate Board"
+#~ msgstr "Prikbord dupliceren"
+
+#~ msgid "hh.mm.ss a"
+#~ msgstr "uu.mm.ss a"
+
+#~ msgid "Extra Black"
+#~ msgstr "Extra Zwart"
+
+#~ msgid ""
+#~ "Import notes directly into Appigo Notebook. See more information on the "
+#~ "App Store."
+#~ msgstr ""
+#~ "Notities rechtstreeks naar 'notitieblok' van Appigo importeren. Ga voor "
+#~ "meer informatie naar de App Store."
+
+#~ msgid "Save to Photos"
+#~ msgstr "In fotoalbums opslaan"
+
+#~ msgid "Main Board"
+#~ msgstr "Hoofdprikbord"
+
+#~ msgid "Font"
+#~ msgstr "Lettertype"
+
+#~ msgid "View on App Store..."
+#~ msgstr "In de App Store bekijken..."
+
+#~ msgid "I'm Green!"
+#~ msgstr "Ik ben Groen!"
+
+#~ msgid "Delete (%d) Item"
+#~ msgstr "(%d) item verwijderen"
+
+#~ msgid ""
+#~ "Tap the drawer at the bottom of the screen to add additional items to "
+#~ "your board\n"
+#~ "\n"
+#~ "Drag items out of the drawer and drop them right onto the board"
+#~ msgstr ""
+#~ "Op de lade aan de onderkant van het scherm tikken om meer items aan uw "
+#~ "bord toe te voegen\n"
+#~ "\n"
+#~ "Sleep items uit de lade en zet ze meteen op het bord neer"
+
+#~ msgid "Do NOT Include Board"
+#~ msgstr "Sluit Bord NIET in"
+
+#~ msgid "I'm stuck here!"
+#~ msgstr "Ik zit vast!"
+
+#~ msgid ""
+#~ "If you unlink Corkulous from your Dropbox account this will remove all "
+#~ "Dropbox collections from this device."
+#~ msgstr ""
+#~ "Als je Corkulous loskoppelt van je Dropbox account worden alle Dropbox "
+#~ "collecties van dit apparaat verwijderd."
+
+#~ msgid "Your Ideas Here"
+#~ msgstr "Uw ideeën hier"
+
+#~ msgid "Linking"
+#~ msgstr "Aan het verbinden"
+
+#~ msgid "Data failed to convert for email"
+#~ msgstr "Gegevensconversie voor e-mail niet geslaagd"
+
+#~ msgid ""
+#~ "Linking will allow this app to access and modify files in your Dropbox"
+#~ msgstr ""
+#~ "Verbinden zal deze app toelaten om bestanden in uw Dropbox te openen en "
+#~ "te wijzigen"
+
+#~ msgid "Immediately"
+#~ msgstr "Onmiddellijk"
+
+#~ msgid "user@example.com"
+#~ msgstr "gebruiker@voorbeeld.com"
+
+#~ msgid "Index Cards"
+#~ msgstr "Indexkaarten"
+
+#~ msgid ""
+#~ "Import tasks directly into Appigo Todo for iPad available on the App "
+#~ "Store."
+#~ msgstr ""
+#~ "Taken rechtstreeks naar 'Todo' voor iPad van Appigo importeren. "
+#~ "Beschikbaar in de App Store."
+
+#~ msgid "Back"
+#~ msgstr "Terug"
+
+#~ msgid "Creating template..."
+#~ msgstr "Bezig met het maken van sjabloon..."
+
+#~ msgid "Copy from iTunes"
+#~ msgstr "Kopiëren uit iTunes"
+
+#~ msgid "Selected"
+#~ msgstr "(Geselecteerd)"
+
+#~ msgid "Selection"
+#~ msgstr "Selectie"
+
+#~ msgid ""
+#~ "Please provide a brief description (in English) to explain why you are "
+#~ "sending this report:"
+#~ msgstr ""
+#~ "Geef een korte uitleg (in het Engels) over de reden voor het versturen "
+#~ "van dit rapport:"
+
+#~ msgid "KB"
+#~ msgstr "KB"
+
+#~ msgid "Preparing \"%@\"..."
+#~ msgstr "Bezig met voorbereiden van \"%@\"..."
+
+#~ msgid "AccuFuel"
+#~ msgstr "AccuFuel"
+
+#~ msgid "Arrow Flag"
+#~ msgstr "Pijlmarkering"
+
+#~ msgid "Call John today!"
+#~ msgstr "Bel John vandaag!"
+
+#~ msgid "Thing Three"
+#~ msgstr "Derde Ding"
+
+#~ msgid "Medium Italic"
+#~ msgstr "Medium Cursief"
+
+#~ msgid "Disconnect Shared Board?"
+#~ msgstr "Verbinding met gedeeld prikbord verbreken?"
+
+#~ msgid "Search locked boards..."
+#~ msgstr "In vergrendelde prikborden zoeken..."
+
+#~ msgid "Extend your big ideas into sub boards"
+#~ msgstr "Breidt uw grote ideeën uit naar sub-borden"
+
+#~ msgid ""
+#~ "Tap and hold your finger on the board and drag to select multiple items "
+#~ "at once"
+#~ msgstr ""
+#~ "Om meerdere items in een keer te selecteren: tikken, uw vinger op het "
+#~ "bord houden en slepen"
+
+#~ msgid "You are connected with \"%@\"."
+#~ msgstr "U bent verbonden met \"%@\"."
+
+#~ msgid "Regular"
+#~ msgstr "Regulier"
+
+#~ msgid "Install and Relaunch"
+#~ msgstr "Installeer en herstart"
+
+#~ msgid "Last Name Required"
+#~ msgstr "Familienaam vereist"
+
+#~ msgid ""
+#~ "An error occurred while relaunching %1$@, but the new version will be "
+#~ "available next time you run %1$@."
+#~ msgstr ""
+#~ "Bij het herstarten van %1$@ deed zich een fout voor. Maar de nieuwe "
+#~ "versie is beschikbaar de volgende keer u %1$@ opstart."
+
+#~ msgid "Verifying purchase..."
+#~ msgstr "Aankoop controleren..."
+
+#~ msgid "Board"
+#~ msgstr "Prikbord"
+
+#~ msgid "Condensed Bold"
+#~ msgstr "Gecondenseerd Vet"
+
+#~ msgid "Passcode"
+#~ msgstr "Wachtwoordcode"
+
+#~ msgid ""
+#~ "What would you like to do with the documents currently on this device."
+#~ msgstr ""
+#~ "Wat wilt u doen met de documenten die momenteel op dit toestel staan."
+
+#~ msgid "Disconnect"
+#~ msgstr "Verbinding verbreken"
+
+#~ msgid "Photos"
+#~ msgstr "Fotoalbums"
+
+#~ msgid "After 1 minute"
+#~ msgstr "Na 1 minuut"
+
+#~ msgid "Enter a passcode"
+#~ msgstr "Wachtwoordcode invoeren"
+
+#~ msgid "This will reset the iCloud documents found on your device"
+#~ msgstr "Dit reset alle icloud documenten gevonden op dit apparaat"
+
+#~ msgid "Unsupported export type"
+#~ msgstr "Niet-ondersteunde vorm van exporteren"
+
+#~ msgid "Template Not Created"
+#~ msgstr "Sjabloon niet gemaakt"
+
+#~ msgid "Black"
+#~ msgstr "Zwart"
+
+#~ msgid "Unsupported"
+#~ msgstr "Niet ondersteund"
+
+#~ msgid "Export PDF"
+#~ msgstr "Pdf exporteren"
+
+#~ msgid "After 15 minutes"
+#~ msgstr "Na 15 minuten"
+
+#~ msgid "Email Address Required"
+#~ msgstr "Emailadres vereist"
+
+#~ msgid "Choose the region of the board to save."
+#~ msgstr "Selecteer het deel van het prikbord om op te slaan."
+
+#~ msgid "Add folder..."
+#~ msgstr "Voeg folder toe..."
+
+#~ msgid "Duplicating board..."
+#~ msgstr "Bezig met dupliceren prikbord..."
+
+#~ msgid "Enter key words for search"
+#~ msgstr "Zoektermen invoeren"
+
+#~ msgid "Mail a PDF of the current view"
+#~ msgstr "Een pdf van de huidige weergave mailen"
+
+#~ msgid "A new version of %@ is ready to install!"
+#~ msgstr "Een nieuwe versie van %@ is klaar om te installeren!"
+
+#~ msgid ""
+#~ "There are too many top level boards in Corkulous.  Please remove some top "
+#~ "level boards and try again."
+#~ msgstr ""
+#~ "Er staan te veel hoofdborden in Corkulous. Verwijder een aantal "
+#~ "hoofdborden en probeer het opnieuw."
+
+#~ msgid "Contacting App Store..."
+#~ msgstr "App Store contacteren..."
+
+#~ msgid "You're up to date!"
+#~ msgstr "U heeft de nieuwste versie!"
+
+#~ msgid "B"
+#~ msgstr "B"
+
+#~ msgid "Image"
+#~ msgstr "Afbeelding"
+
+#~ msgid "Semi Bold"
+#~ msgstr "Half-vet"
+
+#~ msgid "Turn Passcode Off"
+#~ msgstr "Wachtwoordcode uitschakelen"
+
+#~ msgid "Account Information"
+#~ msgstr "Account Informatie"
+
+#~ msgid "yyyy-MM-dd"
+#~ msgstr "jjjj-mm-dd"
+
+#~ msgid "Please enter your desired password"
+#~ msgstr "Gelieve uw gewenste paswoord in te geven"
+
+#~ msgid ""
+#~ "Double tap the board to quickly add the same type of item you last created"
+#~ msgstr ""
+#~ "Dubbeltikken op prikbord om snel het laatst aangemaakte type toe te voegen"
+
+#~ msgid ""
+#~ "Drag items directly with your finger to move them\n"
+#~ "\n"
+#~ "The board will automatically scroll for you as you approach the edge\n"
+#~ msgstr ""
+#~ "Verplaats items direct door ze met uw vinger te slepen\n"
+#~ "\n"
+#~ "Zodra u bij de rand komt, zal het prikbord automatisch verschuiven\n"
+
+#~ msgid "Light Italic"
+#~ msgstr "Licht Cursief"
+
+#~ msgid "New Contact"
+#~ msgstr "Nieuwe contactpersoon"
+
+#~ msgid ""
+#~ "Notebook for iPhone and iPod touch gives you access to your notes "
+#~ "anywhere."
+#~ msgstr ""
+#~ "Notitieblok voor iPhone en iPod touch geeft u overal toegang tot uw "
+#~ "notities."
+
+#~ msgid ""
+#~ "An error occurred while extracting the archive. Please try again later."
+#~ msgstr ""
+#~ "Bij het uitpakken van het archief deed zich een fout voor. Probeer "
+#~ "alstublieft later opnieuw."
+
+#~ msgid "Ultra Light"
+#~ msgstr "Ultra Licht"
+
+#~ msgid "Choose the file format to send via email"
+#~ msgstr "Selecteer het via e-mail te verzenden bestandsformaat"
+
+#~ msgid "Include Board"
+#~ msgstr "Sluit Bord in"
+
+#~ msgid "Webclip"
+#~ msgstr "Webclip"
+
+#~ msgid "Unknown"
+#~ msgstr "Onbekend"
+
+#~ msgid "Existing Photo"
+#~ msgstr "Bestaande foto"
+
+#~ msgid "Dropbox folder names cannot be blank."
+#~ msgstr "Dropbox mapnamen kunnen niet leeg blijven."
+
+#~ msgid ""
+#~ "%1$@ can't be updated when it's running from a read-only volume like a "
+#~ "disk image or an optical drive. Move %1$@ to your Applications folder, "
+#~ "relaunch it from there, and try again."
+#~ msgstr ""
+#~ "%1$@ kan niet worden geupdate als het van een alleen-lezen volume, zoals "
+#~ "een schijfkopie of CD, geopend is. Verplaats %1$@ naar de Map "
+#~ "'Programma's', herstart van daar, en probeer opnieuw."
+
+#~ msgid "Low"
+#~ msgstr "Laag"
+
+#~ msgid "Priority"
+#~ msgstr "Prioriteit"
+
+#~ msgid "Send to iTunes"
+#~ msgstr "Naar iTunes verzenden"

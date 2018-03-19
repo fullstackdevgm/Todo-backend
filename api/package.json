@@ -1,0 +1,45 @@
+{
+  "name": "todo-api",
+  "version": "10.3.0-beta.30",
+  "description": "A REST API for the Todo Cloud Web Service",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Appigo/todo-cloud-web.git"
+  },
+  "author": "Appigo, Inc.",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Appigo/todo-issues/issues"
+  },
+  "homepage": "https://github.com/Appigo/todo-cloud-web",
+  "dependencies": {
+    "@log4js-node/log4js-api": "1.0.0",
+    "body-parser": "1.18.2",
+    "express": "4.16.2",
+    "request": "2.83.0",
+    "request-promise": "4.2.2",
+    "slideout": "1.0.1",
+    "socket.io": "2.0.4",
+    "socket.io-client": "2.0.4",
+    "todo-api-functions": "file:./functions"
+  },
+  "devDependencies": {
+    "async": "2.1.5",
+    "chai": "*",
+    "chai-http": "*",
+    "datejs": "1.0.0-rc3",
+    "jwt-simple": "0.5.1",
+    "md5": "2.2.1",
+    "mocha": "*",
+    "mocha-assume": "1.0.0",
+    "moment": "2.19.4",
+    "stripe": "4.25.0"
+  }
+}

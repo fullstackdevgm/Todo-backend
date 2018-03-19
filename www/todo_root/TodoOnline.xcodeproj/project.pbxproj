@@ -1,0 +1,105 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		211086D91A802C3C0069C547 /* conf */ = {isa = PBXFileReference; lastKnownFileType = folder; name = conf; path = ../../conf; sourceTree = "<group>"; };
+		21EC5ECB1A7AE21400DA6590 /* todopro.com */ = {isa = PBXFileReference; lastKnownFileType = folder; name = todopro.com; path = ../todopro.com; sourceTree = "<group>"; };
+		3E0C04C51561692B00416A0F /* README.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+		3E0C04C61561692B00416A0F /* rollout.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = rollout.sh; sourceTree = "<group>"; };
+		3E2D6772176921070019A69C /* renewSubscriptions.php */ = {isa = PBXFileReference; lastKnownFileType = text.script.php; name = renewSubscriptions.php; path = TodoOnline/tests/renewSubscriptions.php; sourceTree = "<group>"; };
+		3E7E06D415DAD27D004A6819 /* frameworks */ = {isa = PBXFileReference; lastKnownFileType = folder; path = frameworks; sourceTree = "<group>"; };
+		3E8438DE15B4B38E0033779F /* updateDB.sql */ = {isa = PBXFileReference; lastKnownFileType = text; lineEnding = 0; path = updateDB.sql; sourceTree = "<group>"; };
+		3E863B59184F8EDD00D9CD65 /* config-stage.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "config-stage.sh"; sourceTree = "<group>"; };
+		3E961A65162F088C0036C79F /* tpRestartDaemons.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = tpRestartDaemons.sh; sourceTree = "<group>"; };
+		3E9E7655160B6D9E00E2E240 /* s3rollout.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = s3rollout.sh; sourceTree = "<group>"; };
+		3EBB88861561680D006DF9B5 /* TodoOnline */ = {isa = PBXFileReference; lastKnownFileType = folder; path = TodoOnline; sourceTree = "<group>"; };
+		3EBE357717FB60AD0036ADCE /* config-auth.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "config-auth.sh"; sourceTree = "<group>"; };
+		3EDD676016037B2900BCBDCD /* todoproctl.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = todoproctl.sh; sourceTree = "<group>"; };
+		3EDD677616038C3F00BCBDCD /* config-plano.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "config-plano.sh"; sourceTree = "<group>"; };
+		3EDD677716038C4000BCBDCD /* config-production.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "config-production.sh"; sourceTree = "<group>"; };
+		BB18E89615669B44006364C9 /* RepeatPickerContent.php */ = {isa = PBXFileReference; lastKnownFileType = text.script.php; name = RepeatPickerContent.php; path = TodoOnline/content/RepeatPickerContent.php; sourceTree = "<group>"; };
+		BB20254A17133C0C00B54DDD /* MCMessageLookupHandler.php */ = {isa = PBXFileReference; lastKnownFileType = text.script.php; name = MCMessageLookupHandler.php; path = TodoOnline/messageCenter/MCMessageLookupHandler.php; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		3E5692D01561678F0017AF20 = {
+			isa = PBXGroup;
+			children = (
+				211086D91A802C3C0069C547 /* conf */,
+				3E2D6772176921070019A69C /* renewSubscriptions.php */,
+				BB20254A17133C0C00B54DDD /* MCMessageLookupHandler.php */,
+				3E961A65162F088C0036C79F /* tpRestartDaemons.sh */,
+				3EDD677616038C3F00BCBDCD /* config-plano.sh */,
+				3EBE357717FB60AD0036ADCE /* config-auth.sh */,
+				3E863B59184F8EDD00D9CD65 /* config-stage.sh */,
+				3EDD677716038C4000BCBDCD /* config-production.sh */,
+				3EDD676016037B2900BCBDCD /* todoproctl.sh */,
+				3E8438DE15B4B38E0033779F /* updateDB.sql */,
+				BB18E89615669B44006364C9 /* RepeatPickerContent.php */,
+				3E0C04C51561692B00416A0F /* README.txt */,
+				3E0C04C61561692B00416A0F /* rollout.sh */,
+				3E9E7655160B6D9E00E2E240 /* s3rollout.sh */,
+				21EC5ECB1A7AE21400DA6590 /* todopro.com */,
+				3EBB88861561680D006DF9B5 /* TodoOnline */,
+				3E7E06D415DAD27D004A6819 /* frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		3E5692D21561678F0017AF20 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+				ORGANIZATIONNAME = "Appigo, Inc.";
+			};
+			buildConfigurationList = 3E5692D51561678F0017AF20 /* Build configuration list for PBXProject "TodoOnline" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3E5692D01561678F0017AF20;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		3E5692D71561678F0017AF20 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		3E5692D81561678F0017AF20 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3E5692D51561678F0017AF20 /* Build configuration list for PBXProject "TodoOnline" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3E5692D71561678F0017AF20 /* Debug */,
+				3E5692D81561678F0017AF20 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3E5692D21561678F0017AF20 /* Project object */;
+}

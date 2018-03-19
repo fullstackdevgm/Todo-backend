@@ -1,0 +1,63 @@
+/* media query for retina images*/
+.share_this_list_control_icon,
+.manage_this_list_control_icon,
+.app_logo, .search_wrap > input,
+.user_settings_button,
+.user_settings_sign_out_button .property_icon .icon,
+.all_context_icon, .no_context_icon, .context_icon,
+.all_tag_icon, .no_tag_icon, .tag_icon,
+.all_list_icon, .starred_list_icon, .focus_list_icon, .inbox_list_icon, .custom_list_icon, .shared_custom_list_icon,
+.task_icon, .task_editor_icon, .task_checkbox,
+.task_editor:before,
+.task_drag_image,
+.button_img,
+.general_settings_icon, .focus_list_settings_icon, .account_settings_icon, .subscription_settings_icon, .referrals_settings_icon, .gifts_settings_icon, .task_creation_icon,.notifications_icon, .announcements_icon,
+
+.premium_icon, 
+.dropdown_toggle:after,
+.ios_app_logo,
+.option_left_icon.selected_option:before,
+.picker_option.selected:before,
+.task_subtasks_toggle:before, .task_subtasks_toggle.off:before,
+.payment_image,
+.show_examples_link:after,
+.new.task_editor .icon{background-image: url(https://s3.amazonaws.com/dev.todopro.com/images/todo-pro-sprite.png?v=16);background-repeat: no-repeat;background-size: 226px 458px;}
+
+.progress_indicator {background-image: url(https://s3.amazonaws.com/dev.todopro.com/images/progress.gif);background-repeat: no-repeat;background-size: 16px 16px}
+
+.cvc_cc_back_image {background-image: url(https://s3.amazonaws.com/dev.todopro.com/images/ccard-back.jpg);background-repeat: no-repeat;background-size: 210px 140px}
+.cvc_cc_front_image {background-image: url(https://s3.amazonaws.com/dev.todopro.com/images/ccard-front.jpg);background-repeat: no-repeat;background-size: 210px 140px}
+
+body {background-image: url(https://s3.amazonaws.com/dev.todopro.com/images/view-background.png)}
+.browser-icon {background-image: url(../images/browser_icons.png);background-size:240px 60px }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+	.share_this_list_control_icon,
+	.manage_this_list_control_icon,
+	.app_logo, .search_wrap > input,
+	.user_settings_button,
+	.user_settings_sign_out_button .property_icon .icon,
+	.all_context_icon, .no_context_icon, .context_icon,
+	.all_tag_icon, .no_tag_icon, .tag_icon,
+	.all_list_icon, .starred_list_icon, .focus_list_icon, .inbox_list_icon, .custom_list_icon, .shared_custom_list_icon,
+	.task_icon, .task_editor_icon, .task_checkbox,
+	.task_editor:before,
+	.task_drag_image,
+	.button_img,
+	.general_settings_icon, .focus_list_settings_icon, .account_settings_icon, .subscription_settings_icon, .referrals_settings_icon, .gifts_settings_icon, .task_creation_icon,
+	.premium_icon, 
+	.dropdown_toggle:after,
+	.ios_app_logo,
+	.option_left_icon.selected_option:before,
+	.picker_option.selected:before,
+	.task_subtasks_toggle:before, .task_subtasks_toggle.off:before,
+	.payment_image,
+	.show_examples_link:after,
+	.new.task_editor .icon{background-image: url(https://s3.amazonaws.com/dev.todopro.com/images/todo-pro-sprite@2x.png?v=16);background-repeat: no-repeat;background-size: 226px 458px;}
+	
+	.progress_indicator {background-image: url(https://s3.amazonaws.com/dev.todopro.com/images/progress@2x.gif);background-repeat: no-repeat;background-size: 16px 16px}
+
+	.cvc_cc_back_image {background-image: url(https://s3.amazonaws.com/dev.todopro.com/images/ccard-back@2x.jpg);background-repeat: no-repeat;background-size: 210px 140px}
+	.cvc_cc_front_image {background-image: url(https://s3.amazonaws.com/dev.todopro.com/images/ccard-front@2x.jpg);background-repeat: no-repeat;background-size: 210px 140px}
+	body {background-image: url(https://s3.amazonaws.com/dev.todopro.com/images/view-background.png)}
+}

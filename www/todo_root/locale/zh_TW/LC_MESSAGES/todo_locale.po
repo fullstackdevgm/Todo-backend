@@ -1,0 +1,7783 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Todo Cloud\n"
+"POT-Creation-Date: 2016-01-29 12:08+0300\n"
+"PO-Revision-Date: 2016-02-24 16:03+0300\n"
+"Last-Translator: Kopot Vladimir <phpwolf007@gmail.com>\n"
+"Language-Team: Appigo\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext_noop;_e\n"
+"X-Poedit-Basepath: ../../../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ../todopro.com\n"
+
+#: TodoOnline/content/LandingPageContent.php:35
+msgid "Sign Up"
+msgstr "註冊"
+
+#: TodoOnline/content/AppSettingsContentAccount.php:139
+msgid "Name"
+msgstr "名稱"
+
+#: TodoOnline/content/AppSettingsContentAccount.php:167
+msgid "Username"
+msgstr "使用者名稱"
+
+#: TodoOnline/content/AppSettingsContentAccount.php:192
+msgid "Password"
+msgstr "密碼"
+
+#~ msgid "Enter the verification code"
+#~ msgstr "請輸入驗證碼"
+
+#~ msgid "Tue"
+#~ msgstr "星期二"
+
+#~ msgid "Last Updated: "
+#~ msgstr "上一次更新: "
+
+#~ msgid "Work"
+#~ msgstr "工作"
+
+#~ msgid "Acknowledgements"
+#~ msgstr "致謝"
+
+#~ msgid "Synchronization"
+#~ msgstr "同步設置"
+
+#~ msgid "4. Select \"Appigo Sync\""
+#~ msgstr "4. 選擇「Appigo Sync」"
+
+#~ msgid "Sorry, we couldn't remove that member from the list at this time."
+#~ msgstr "对不起，我们无法此时从列表中清除该成员."
+
+#~ msgid "DOWNLOADED"
+#~ msgstr "已下載"
+
+#~ msgid "Label"
+#~ msgstr "標簽"
+
+#~ msgid "Appleseed"
+#~ msgstr "Appleseed"
+
+#~ msgid "Stop"
+#~ msgstr "停止"
+
+#~ msgid "Weekend"
+#~ msgstr "週末"
+
+#~ msgid "Todo Synchronization Finished"
+#~ msgstr "Todo 同步處理已完成"
+
+#~ msgid "Done"
+#~ msgstr "完成"
+
+#~ msgid "Redo"
+#~ msgstr "重做"
+
+#~ msgid "Convert to Normal"
+#~ msgstr "轉換為普通任務"
+
+#~ msgid "Your account will automatically renew on:"
+#~ msgstr "您的帳戶會在以下日期自動續訂："
+
+#~ msgid "Updating Settings..."
+#~ msgstr "更新設定..."
+
+#~ msgid "(None)"
+#~ msgstr "（無）"
+
+#~ msgid "Sending Invitation failed."
+#~ msgstr "发送邀请失败."
+
+#~ msgid "Configure"
+#~ msgstr "設定"
+
+#~ msgid "Bullet ' • '"
+#~ msgstr "圓點 ' • '"
+
+#~ msgid "Low Priority"
+#~ msgstr "低優先順序"
+
+#~ msgid "%d divider styles"
+#~ msgstr "%d 分類卡風格"
+
+#~ msgid "Context Filter"
+#~ msgstr "內容篩選器"
+
+#~ msgid "Enter Passcode"
+#~ msgstr "請輸入密碼"
+
+#~ msgid "Crayon Blue"
+#~ msgstr "蠟筆藍"
+
+#~ msgid "Please try importing the task again."
+#~ msgstr "請嘗試再次匯入該工作。"
+
+#~ msgid "Add List"
+#~ msgstr "添加列表"
+
+#~ msgid "Move to Applications folder in your Home folder?"
+#~ msgstr "移至您主資料夾中的應用程式資料夾？"
+
+#~ msgid "Every Week"
+#~ msgstr "每星期"
+
+#~ msgid "Sorry, we couldn't update the invitation at this time."
+#~ msgstr "对不起，我们无法此时为你更新邀请."
+
+#~ msgid "Create new task"
+#~ msgstr "建立新任務"
+
+#~ msgid "Task Alerts"
+#~ msgstr "任務提醒"
+
+#~ msgid "Task Menu"
+#~ msgstr "任務功能表"
+
+#~ msgid ""
+#~ "You will receive a verification email momentarily.  Please follow the "
+#~ "instructions included in the email to complete your registration."
+#~ msgstr "您將立即收到一封確認電子郵件。請按照電郵中的說明來完成註冊。"
+
+#~ msgid "Mac-style 2"
+#~ msgstr "Mac 式 2"
+
+#~ msgid "Web Addresses"
+#~ msgstr "網址"
+
+#~ msgid "Make Advanced Projects"
+#~ msgstr "創建高級項目"
+
+#~ msgid "Start and Due Dates"
+#~ msgstr "開始與截止日期"
+
+#~ msgid "Medium Priority"
+#~ msgstr "中優先順序"
+
+#~ msgid "Me"
+#~ msgstr "我"
+
+#~ msgid "Delete Tasks"
+#~ msgstr "刪除工作"
+
+#~ msgid "Connect with Dropbox"
+#~ msgstr "Connect with Dropbox"
+
+#~ msgid "Black Italic"
+#~ msgstr "加粗 斜體"
+
+#~ msgid "Account in Use"
+#~ msgstr "賬戶正在使用"
+
+#~ msgid "Allows you to arrange your lists in the order you choose."
+#~ msgstr "允許您自行選擇順序排列清單。"
+
+#~ msgid "In 1 day"
+#~ msgstr "在1 天內"
+
+#~ msgid "Scheduled service maintenance. Please try again later."
+#~ msgstr "預定的維修保養。請稍後重試。"
+
+#~ msgid "Synchronizing..."
+#~ msgstr "同步處理中..."
+
+#~ msgid "List:"
+#~ msgstr "清單："
+
+#~ msgid "More Info"
+#~ msgstr "更多資訊"
+
+#~ msgid "Sending tasks to device"
+#~ msgstr "正在傳送任務到裝置"
+
+#~ msgid "Shopping List"
+#~ msgstr "購物清單"
+
+#~ msgid "Unassigned"
+#~ msgstr "未指定"
+
+#~ msgid "Release Date"
+#~ msgstr "發行日期"
+
+#~ msgid "Updating Lists"
+#~ msgstr "正在升级列表"
+
+#~ msgid "Please verify your email and password."
+#~ msgstr "請驗證您的電子郵件和密碼。"
+
+#~ msgid "The 4th %@ of each month"
+#~ msgstr "每月的第四個%@"
+
+#~ msgid "Bring All to Front"
+#~ msgstr "將此程式所有視窗移至最前"
+
+#~ msgid "Control + "
+#~ msgstr "控制 + "
+
+#~ msgid ""
+#~ "Notebook can synchronize with Toodledo\n"
+#~ "notes.  If you do not have an account\n"
+#~ " on Toodledo.com, touch the button above\n"
+#~ " to create a free account."
+#~ msgstr ""
+#~ "Notebook 可以和 Toodledo 同步。\n"
+#~ "如果您還沒有 Toodledo.com 帳戶，\n"
+#~ "請點選上面的按鈕，\n"
+#~ "創建一個免費的帳戶。"
+
+#~ msgid "Member"
+#~ msgstr "成员"
+
+#~ msgid ""
+#~ "An error occurred in retrieving update information. Please try again "
+#~ "later."
+#~ msgstr "擷取更新資訊時發生了一個錯誤，請稍候重試一次。"
+
+#~ msgid "On Saturday"
+#~ msgstr "在星期六"
+
+#~ msgid "New Alert"
+#~ msgstr "新通知"
+
+#~ msgid "Not Configured"
+#~ msgstr "未配置"
+
+#~ msgid ""
+#~ "Are you sure you want to permanently delete this list and all of its "
+#~ "tasks?"
+#~ msgstr "你确信你将永久消除列表或全部任务吗?"
+
+#~ msgid "Sync Failed"
+#~ msgstr "同步處理失敗"
+
+#~ msgid "Every Wednesday"
+#~ msgstr "每星期三"
+
+#~ msgid "Link to a contact"
+#~ msgstr "連接至一位連絡人"
+
+#~ msgid "OK"
+#~ msgstr "確定"
+
+#~ msgid "Email as attachment"
+#~ msgstr "作為電子郵件附加發送"
+
+#~ msgid ""
+#~ "If you enjoy using %@, would you mind taking a moment to rate it? It "
+#~ "won't take more than a minute. Thanks for your support!"
+#~ msgstr ""
+#~ "如果你喜歡使用%@，你介意花一點時間給它評分嗎？不會超過一分鐘。感謝您的支"
+#~ "持！"
+
+#~ msgid "Sync Description Placeholder (DO NOT TRANSLATE)"
+#~ msgstr "Sync Description Placeholder (DO NOT TRANSLATE)"
+
+#~ msgid "\"All\" List Tasks"
+#~ msgstr "「所有」 清單工作"
+
+#~ msgid "Not Now"
+#~ msgstr "此时不行"
+
+#~ msgid "Type"
+#~ msgstr "類型"
+
+#~ msgid "More tasks..."
+#~ msgstr "更多任務..."
+
+#~ msgid ", "
+#~ msgstr ", "
+
+#~ msgid "Icon"
+#~ msgstr "圖示"
+
+#~ msgid "Move to Applications Folder"
+#~ msgstr "移至應用程式資料夾"
+
+#~ msgid "Unlink Dropbox Account?"
+#~ msgstr "取消Dropbox帳戶連結嗎？"
+
+#~ msgid "Every Thursday"
+#~ msgstr "每星期四"
+
+#~ msgid "Wide"
+#~ msgstr "寬"
+
+#~ msgid "Create Checklist"
+#~ msgstr "創建檢查清單"
+
+#~ msgid "New Folder"
+#~ msgstr "新資料夾"
+
+#~ msgid "An unknown error occured."
+#~ msgstr "發生不明錯誤。"
+
+#~ msgid "Posting Comment..."
+#~ msgstr "发表评论.."
+
+#~ msgid ""
+#~ "An error occurred while downloading the update. Please try again later."
+#~ msgstr "下載更新時發生了一個錯誤，請稍候重試一次。"
+
+#~ msgid "Write a Review"
+#~ msgstr "寫評論"
+
+#~ msgid ""
+#~ "While viewing a note, simply tap the trash can button at the bottom-right "
+#~ "of your screen and press the \"Delete\" button.\n"
+#~ "\n"
+#~ "As a shortcut, you can delete a note while viewing a list of notes by "
+#~ "swiping your finger from left to right across a note's row and pressing "
+#~ "the delete button that appears."
+#~ msgstr ""
+#~ "查看筆記時，點選螢幕右下角的“垃圾桶”按鈕，然後選“刪除”即可。\n"
+#~ "\n"
+#~ "另一個更方便的方法是：查看筆記列表時，將手指從左到右劃過筆記所在的行，然後"
+#~ "點選出現的紅色刪除按鈕即可。"
+
+#~ msgid "Dash ' - '"
+#~ msgstr "短橫 ' - '"
+
+#~ msgid "Mac-style"
+#~ msgstr "Mac 式"
+
+#~ msgid "Select Tags"
+#~ msgstr "選擇標籤"
+
+#~ msgid "\"All\" List"
+#~ msgstr "「全部」清單"
+
+#~ msgid "Your notification settings could not be loaded at this time."
+#~ msgstr "你的通知設定不能在這個時間被載入."
+
+#~ msgid "No date"
+#~ msgstr "無日期"
+
+#~ msgid "Reset..."
+#~ msgstr "重設同步數據..."
+
+#~ msgid ""
+#~ "Your account is using an auto-renewing subscription. Please contact our "
+#~ "support team if you are experiencing any problems (support@appigo.com)."
+#~ msgstr ""
+#~ "您的帳戶正在使用一種自動續訂訂閱。若您遇到任何問題，請聯繫我們的支持團隊"
+#~ "（support@appigo.com）。"
+
+#~ msgid "Underline"
+#~ msgstr "下劃線"
+
+#~ msgid "Share this list with people you have invited below:"
+#~ msgstr "同您下麵邀請的人分享這個列表:"
+
+#~ msgid "Flute"
+#~ msgstr "笛聲"
+
+#~ msgid "at"
+#~ msgstr "在"
+
+#~ msgid "Set the due date one week from today"
+#~ msgstr "自今日起設定到期日為一周後"
+
+#~ msgid ""
+#~ "Todo makes task management simple, easy, and fun.  We encourage you to "
+#~ "visit our website where you'll find tips & tricks, frequently asked "
+#~ "questions, and additional information about Todo."
+#~ msgstr ""
+#~ "Todo 使工作管理變得簡單、容易又有趣。  我們歡迎您瀏覽我們的網站，在此您可"
+#~ "找到適用 iPad 的 Todo 使用技巧、常見問題解答及其他資訊。"
+
+#~ msgid "Collection Information"
+#~ msgstr "合集信息"
+
+#~ msgid "\"List being edited\" Info"
+#~ msgstr "\"列出正在編輯的\" 資訊"
+
+#~ msgid "Address/location information not found"
+#~ msgstr "位址/位置資訊沒有找到"
+
+#~ msgid "Add another Project Task"
+#~ msgstr "新增另外一個項目任務"
+
+#~ msgid "Yes"
+#~ msgstr "是"
+
+#~ msgid "> Checklist"
+#~ msgstr "> 清單"
+
+#~ msgid "Pushing to iCloud..."
+#~ msgstr "推入 iCloud..."
+
+#~ msgid "The quick brown fox jumps over the lazy dog"
+#~ msgstr "敏捷的鬃狐狸跳到了懶惰的狗身上"
+
+#~ msgid "Quick Menu"
+#~ msgstr "快速菜單"
+
+#~ msgid "iPhone"
+#~ msgstr "iPhone"
+
+#~ msgid "Get Todo for iPhone and iPod touch"
+#~ msgstr "獲取 iPhone 和 iPod touch 版本的 Todo"
+
+#~ msgid "Three Days"
+#~ msgstr "三天"
+
+#~ msgid "%1.1f GB"
+#~ msgstr "%1.1f GB"
+
+#~ msgid "<Unnamed>"
+#~ msgstr "<未命名>"
+
+#~ msgid "View this link in the Safari web browser."
+#~ msgstr "使用Safari流覽器流覽此連結."
+
+#~ msgid "iCal"
+#~ msgstr "iCal"
+
+#~ msgid "Passcodes did not match.  Try again."
+#~ msgstr "密碼不匹配。請重試。"
+
+#~ msgid "On Thu"
+#~ msgstr "在週四"
+
+#~ msgid "All done!"
+#~ msgstr "全部完成！"
+
+#~ msgid "No Checklists Found"
+#~ msgstr "沒有找到檢查清單"
+
+#~ msgid ""
+#~ "Todo for iPad is the most connected to-do list app. Keep your tasks with "
+#~ "you anywhere you go."
+#~ msgstr ""
+#~ "iPad版Todo是最常用的日程管理應用程序。您可以隨時隨地了解您的任務詳情。"
+
+#~ msgid "< Project"
+#~ msgstr "<專案"
+
+#~ msgid "Switch to Checklist?"
+#~ msgstr "切換到清單嗎？"
+
+#~ msgid "Hide from Focus List"
+#~ msgstr "在關注清單中隱藏"
+
+#~ msgid "Require Passcode"
+#~ msgstr "必須填寫密碼"
+
+#~ msgid "Update..."
+#~ msgstr "更新..."
+
+#~ msgid "Edit Task"
+#~ msgstr "編輯工作"
+
+#~ msgid "More..."
+#~ msgstr "更多..."
+
+#~ msgid "Unnamed Tag %u"
+#~ msgstr "未命名標簽 %u"
+
+#~ msgid "Filters"
+#~ msgstr "篩選器"
+
+#~ msgid "Sending lists to device"
+#~ msgstr "正在傳送清單到裝置"
+
+#~ msgid "Shows only the tasks that are overdue and due today."
+#~ msgstr "僅顯示已過期和今天到期的任務。"
+
+#~ msgid "Option + "
+#~ msgstr "選項 + "
+
+#~ msgid "x"
+#~ msgstr "x"
+
+#~ msgid "• Enter 4 digit code below"
+#~ msgstr "• 在下面輸入 4 位數字代碼"
+
+#~ msgid "Crayon Red"
+#~ msgstr "蠟筆紅"
+
+#~ msgid ""
+#~ "The Todo package found in Dropbox requires a newer version of Todo.  "
+#~ "Please check for updates and try again."
+#~ msgstr "Dropbox的Todo套件需要一款新版本的Todo。請檢查更新並重試一次。"
+
+#~ msgid "%u tasks selected"
+#~ msgstr "已選擇 %u 任務"
+
+#~ msgid "Squiggle Black"
+#~ msgstr "波浪黑"
+
+#~ msgid "On Tuesday"
+#~ msgstr "在星期二"
+
+#~ msgid "Region Monitoring Unavailable"
+#~ msgstr "區域監測不可用"
+
+#~ msgid "Please update Appigo Sync."
+#~ msgstr "請更新 Appigo Sync。"
+
+#~ msgid "TextExpander touch Required"
+#~ msgstr "需要TextExpander touch"
+
+#~ msgid "Tips & Tricks"
+#~ msgstr "使用技巧"
+
+#~ msgid "No Badge"
+#~ msgstr "沒有標誌"
+
+#~ msgid "%d binders"
+#~ msgstr "%d 文件夾"
+
+#~ msgid "Wed"
+#~ msgstr "星期三"
+
+#~ msgid "No list was found that matches the name you specified."
+#~ msgstr "未找到符合您所指定名稱的列表。"
+
+#~ msgid "%1.1f TB"
+#~ msgstr "%1.1f TB"
+
+#~ msgid "You've joined the list!"
+#~ msgstr "您已加入清單！"
+
+#~ msgid "Enter a new name for the list \"%@\"."
+#~ msgstr "請輸入一新列表名稱 \"%@\"。"
+
+#~ msgid "An error occurred while parsing the update feed."
+#~ msgstr "剖析更新摘要時發生了一個錯誤。"
+
+#~ msgid "Advanced"
+#~ msgstr "高級"
+
+#~ msgid "Search"
+#~ msgstr "搜尋"
+
+#~ msgid "Import"
+#~ msgstr "匯入"
+
+#~ msgid "Validate"
+#~ msgstr "驗證"
+
+#~ msgid "%d ring styles"
+#~ msgstr "%d 圓環風格"
+
+#~ msgid "Color Overdue Dates"
+#~ msgstr "顏色過期日"
+
+#~ msgid "Add Tag"
+#~ msgstr "新增標籤"
+
+#~ msgid "Skip"
+#~ msgstr "跳過"
+
+#~ msgid "Stay Informed"
+#~ msgstr "保持了解状态"
+
+#~ msgid "First Name:"
+#~ msgstr "名字："
+
+#~ msgid ""
+#~ "We've just sent you an email to %@. Click on the verify email link to "
+#~ "confirm your free premium account.\n"
+#~ "\n"
+#~ "If you didn't receive the email, please check your spam folder."
+#~ msgstr ""
+#~ "我們剛剛給您發送了一封郵件到%@。點擊驗證郵件里的鏈接確認您的免費高級賬"
+#~ "戶。 \n"
+#~ "\n"
+#~ "如果您沒有收到郵件，請檢查您的垃圾箱。"
+
+#~ msgid "Lists Help"
+#~ msgstr "列表幫助"
+
+#~ msgid "Edit URL"
+#~ msgstr "編輯 URL"
+
+#~ msgid "Todo for iPad Theme Pack"
+#~ msgstr "適用 iPad 的 Todo 主題套件"
+
+#~ msgid "No Due Time"
+#~ msgstr "沒有截止時間"
+
+#~ msgid "Granny Smith Apples"
+#~ msgstr "綠蘋果"
+
+#~ msgid "Next Sat"
+#~ msgstr "下週六"
+
+#~ msgid "Bold Italic"
+#~ msgstr "加粗 斜體"
+
+#~ msgid ""
+#~ "Registration requires a standard email address. Please omit any "
+#~ "characters such as '+' in your email address."
+#~ msgstr ""
+#~ "註冊需要一個標準的電子郵件地址，請省略您電子郵件中任何如同\"+\"的字符。"
+
+#~ msgid "Copy"
+#~ msgstr "複製"
+
+#~ msgid "Show badge on dock icon"
+#~ msgstr "在 dock 圖示上顯示徽章"
+
+#~ msgid ""
+#~ " • <b>Create</b> a bulleted-list\n"
+#~ " • <b>Link</b> to a <a href=\"http://www.appigo.com\">website</a> or "
+#~ "phone number\n"
+#~ " • <b>Format</b> notes with <i>basic</i> <b>HTML</b> tags\n"
+#~ " • <b>Search</b> notes by keyword\n"
+#~ " • <b>Access</b> notes offline\n"
+#~ " • <b>Share</b> notes via email or <a href=\"http://www.appigo.com/todo/"
+#~ "\">Appigo Todo</a>\n"
+#~ " • <b>Protect</b> sensitive notes with a <i><b>passcode</b></i>"
+#~ msgstr ""
+#~ " • <b>建立</b>項目符號清單\n"
+#~ " • <b>連結</b>至<a href=\"http://www.appigo.com\">網站</a>或電話號碼\n"
+#~ " •  用<i>基本的</i> <b>HTML</b> 標籤<b>格式化</b>備註\n"
+#~ " • 通過關鍵字<b>搜索</b>備註\n"
+#~ " • 離線<b>存取</b>備註\n"
+#~ " • 通過電子郵件或<a href=\"http://www.appigo.com/todo/\">Appigo Todo</"
+#~ "a><b>分享</b>備註\n"
+#~ " • 利用<i><b>密碼</b></i><b>保護</b>敏感的備註"
+
+#~ msgid "Loading Settings"
+#~ msgstr "載入設定"
+
+#~ msgid "Now Add Another Task"
+#~ msgstr "立即新增另一個任務"
+
+#~ msgid "Time to upgrade?"
+#~ msgstr "該升級了"
+
+#~ msgid "(Todo Cloud Premium Feature)"
+#~ msgstr "（Todo Cloud 付費功能）"
+
+#~ msgid "New Note"
+#~ msgstr "新筆記"
+
+#~ msgid "Show List Colors"
+#~ msgstr "顯示清單顔色"
+
+#~ msgid "Service Alert"
+#~ msgstr "服務提示"
+
+#~ msgid "Invite People to List"
+#~ msgstr "邀請朋友至清單 "
+
+#~ msgid "No service configured"
+#~ msgstr "沒有設定服務"
+
+#~ msgid "AMainMenu"
+#~ msgstr "AMainMenu"
+
+#~ msgid "6. Enter the four digit code below"
+#~ msgstr "6. 在下面輸入 4 位數字代碼"
+
+#~ msgid "Clear Diagnostic Log"
+#~ msgstr "明確診斷紀錄"
+
+#~ msgid "Check diagnostic log for errors"
+#~ msgstr "檢查診斷記錄中的錯誤"
+
+#~ msgid ""
+#~ "From the notebooks screen, tap the \"Edit\" button at the top-left of "
+#~ "your screen.  Tap the blue disclosure button on the right-hand side of "
+#~ "the notebook name.  Modify the name of the notebook and press the \"Done"
+#~ "\" button at the top-right of the screen.  Then, exit edit mode by "
+#~ "pressing the \"Done\" button again at the top-right of the screen."
+#~ msgstr ""
+#~ "點選“記事本”介面左上角的“編輯”按鈕，再點選記事本名稱右邊的藍白箭頭按鈕。名"
+#~ "稱改好後，請點選螢幕右上角的“完成”按鈕。然後再點選螢幕右上角的“完成”按鈕退"
+#~ "出編輯模式。"
+
+#~ msgid "%1.1f KB"
+#~ msgstr "%1.1f KB"
+
+#~ msgid "Two Days"
+#~ msgstr "兩天"
+
+#~ msgid "Next Saturday"
+#~ msgstr "下個星期六"
+
+#~ msgid "New task (tap return to create)"
+#~ msgstr "新工作（點選強制換行以建立）"
+
+#~ msgid "Updating ... please wait"
+#~ msgstr "請等一下...正在更新"
+
+#~ msgid ""
+#~ "That account does not match the account you've been using. Please try "
+#~ "again."
+#~ msgstr "该帐号与您之前一直使用的帐号不符，请重试."
+
+#~ msgid "Completed"
+#~ msgstr "已完成"
+
+#~ msgid "Leaving"
+#~ msgstr "即將離開"
+
+#~ msgid "Removing pending invitation..."
+#~ msgstr "清除待发邀请..."
+
+#~ msgid "Sort Order"
+#~ msgstr "排列順序"
+
+#~ msgid "Unknown Repeat"
+#~ msgstr "不明的重複"
+
+#~ msgid "Move to Project"
+#~ msgstr "移動至專案"
+
+#~ msgid "No Date"
+#~ msgstr "沒有日期"
+
+#~ msgid "%1.1f bytes"
+#~ msgstr "%1.1f位元組"
+
+#~ msgid "Sorry, we couldn't delete the comment at this time."
+#~ msgstr "对不起，我们无法此时删除评论."
+
+#~ msgid "Learn More..."
+#~ msgstr "了解更多..."
+
+#~ msgid "Switch to Normal Task"
+#~ msgstr "切換至一般任務"
+
+#~ msgid "John Appleseed"
+#~ msgstr "John Appleseed"
+
+#~ msgid ""
+#~ "Tap here to add a task to your list. What action items to you need to "
+#~ "keep track of? Todo can help you keep track of bills, workouts, calls to "
+#~ "make, whatever!"
+#~ msgstr ""
+#~ "點擊此處新增一項任務至您的列表。您需要跟蹤的操作條目是什麼？Todo可以幫助您"
+#~ "跟蹤賬單，鍛鍊，呼叫的電話，諸如此類等等！"
+
+#~ msgid ""
+#~ "Update your email or password to match a recent change you made to your "
+#~ "Todo Cloud account.\n"
+#~ "\n"
+#~ "If you wish to switch to a different Todo Cloud account, please use the "
+#~ "\"Switch Services...\" button below."
+#~ msgstr ""
+#~ "更新您的電子郵件或密碼，以符合您最近在 Todo Cloud 帳戶上所做的變更。\n"
+#~ "\n"
+#~ "如果您想切換到不同的 Todo Cloud 帳戶，請使用下面的「切換服務...」按鈕。"
+
+#~ msgid ""
+#~ "A new theme is available. Browse additional themes and give your to-do "
+#~ "list a new look."
+#~ msgstr "有新主題可用。 瀏覽額外的主題，為您的計劃工作清單換上一個新的外觀。"
+
+#~ msgid "Create Project"
+#~ msgstr "創建專案"
+
+#~ msgid "Show completed tasks for:"
+#~ msgstr "顯示已完成的任務："
+
+#~ msgid ""
+#~ "The Todo Cloud service is being updated.  Please wait a few minutes and "
+#~ "try again."
+#~ msgstr "Todo Cloud 服务正在更新。请几分钟后重试。"
+
+#~ msgid "Installing update..."
+#~ msgstr "正在安裝更新..."
+
+#~ msgid "Todo was not able to process the task data."
+#~ msgstr "Todo無法處理此動作資料。"
+
+#~ msgid "Purchase Notebook?"
+#~ msgstr "要購買 Notebook 嗎？"
+
+#~ msgid "Three Months"
+#~ msgstr "三個月"
+
+#~ msgid ""
+#~ "iCloud stores your tasks and wirelessly pushes them to all your devices."
+#~ msgstr "iCloud 對您的工作進行儲存，並將工作以無線方式推入您所有的裝置。"
+
+#~ msgid ""
+#~ "Marking a note private may hide or mask the note depending on the "
+#~ "\"Private Note\" settings in Notebook settings."
+#~ msgstr ""
+#~ "將筆記標記為“私密”會將其隱藏或遮蔽，這取決於 Notebook 設置選項中的“私密筆"
+#~ "記”設置。"
+
+#~ msgid "Creating Account"
+#~ msgstr "正在創建帳戶"
+
+#~ msgid ""
+#~ "Tap the blue star action button above to see Appigo's tweets.\n"
+#~ "\n"
+#~ "http://twitter.com/appigo"
+#~ msgstr ""
+#~ "點擊上面的藍色星號操作按鈕，可查看 Appigo 的推特。\n"
+#~ "\n"
+#~ "http://twitter.com/appigo"
+
+#~ msgid "Registration Failed"
+#~ msgstr "註冊失敗"
+
+#~ msgid "DUPLICATE WARNING"
+#~ msgstr "重複警告"
+
+#~ msgid "Create Account Failed"
+#~ msgstr "創建帳戶失敗"
+
+#~ msgid "An error occurred while registering: %@"
+#~ msgstr "註冊時發生錯誤: %@"
+
+#~ msgid "Import this note?"
+#~ msgstr "匯入該筆記嗎？"
+
+#~ msgid "Last Name"
+#~ msgstr "姓氏"
+
+#~ msgid "Owners manage list membership by inviting and removing members."
+#~ msgstr "户主通过邀请和清除成员来管理列表成员."
+
+#~ msgid "Perform Full Synchronization"
+#~ msgstr "執行完整的同步處理"
+
+#~ msgid "Display options:"
+#~ msgstr "顯示選項："
+
+#~ msgid "Italic"
+#~ msgstr "斜體"
+
+#~ msgid "Welcome"
+#~ msgstr "欢迎"
+
+#~ msgid "Modify your address?"
+#~ msgstr "修改您的地址?"
+
+#~ msgid "Select which items you would like to receive notifications about."
+#~ msgstr "選擇你想收到通知的那些項目."
+
+#~ msgid "Our Other Apps"
+#~ msgstr "我們的其他應用程式"
+
+#~ msgid "REPEAT FROM"
+#~ msgstr "从…重複"
+
+#~ msgid "Add Tags"
+#~ msgstr "新增標籤"
+
+#~ msgid ""
+#~ "Receive emails about product updates to this and other applications "
+#~ "created by Appigo. Your information will not be given or sold to any "
+#~ "third party."
+#~ msgstr ""
+#~ "接收有關此應用程式和其他由 Appigo 建立的應用程式的產品更新的郵件。 您的資"
+#~ "訊不會被透露或銷售給任何第三方。"
+
+#~ msgid "Next month"
+#~ msgstr "下個月"
+
+#~ msgid "Unable to Log In"
+#~ msgstr "無法登入"
+
+#~ msgid "Turn Passcode On"
+#~ msgstr "打開密碼"
+
+#~ msgid "Priority lower than:"
+#~ msgstr "優先順序低於："
+
+#~ msgid "View or hide the calendar"
+#~ msgstr "查看或隱藏日曆"
+
+#~ msgid "Condensed Black"
+#~ msgstr "壓縮黑體"
+
+#~ msgid "For Two Months"
+#~ msgstr "兩個月"
+
+#~ msgid ""
+#~ "After tapping the email button, please review the contents of the email "
+#~ "before sending it."
+#~ msgstr "按一下電子郵件按鈕後，請在傳送電子郵件前，再次檢查郵件內容。"
+
+#~ msgid "Outlook recurrence"
+#~ msgstr "Outlook 重複週期"
+
+#~ msgid "Sync Ended"
+#~ msgstr "同步結束"
+
+#~ msgid "Todo for Mac must be running on the desktop you've specified."
+#~ msgstr "Mac版本的Todo 必須運行在您指定的桌面上。"
+
+#~ msgid ""
+#~ "Notebook gives you quick access to your notes on your iPhone, iPad, iPod "
+#~ "touch."
+#~ msgstr "Notebook可以使您快速的在iPhone、iPad、iPod touch上查看備註。"
+
+#~ msgid ""
+#~ "This list must be deleted from the Todo Cloud service and requires an "
+#~ "Internet connection."
+#~ msgstr "必须从Todo Cloud 服务中清除此列表，要求网络连接."
+
+#~ msgid "Assigned Only"
+#~ msgstr "僅分配"
+
+#~ msgid "project"
+#~ msgstr "專案"
+
+#~ msgid "Inbox"
+#~ msgstr "收件匣"
+
+#~ msgid "Task Data Replaced"
+#~ msgstr "任務資料已替換"
+
+#~ msgid "Less"
+#~ msgstr "更少"
+
+#~ msgid "Edit List"
+#~ msgstr "編輯清單"
+
+#~ msgid "Preview"
+#~ msgstr "預覽"
+
+#~ msgid "Time"
+#~ msgstr "時間"
+
+#~ msgid "  Determining Location..."
+#~ msgstr "  判斷位置中..."
+
+#~ msgid "Alert Delivery"
+#~ msgstr "提醒發送"
+
+#~ msgid "Tasks"
+#~ msgstr "工作"
+
+#~ msgid "last"
+#~ msgstr "最後一個"
+
+#~ msgid ""
+#~ "Todo uses contacts to display and perform actions like call, sms, etc. "
+#~ "Please enable access in your device settings (Settings > Privacy > "
+#~ "Contacts)."
+#~ msgstr ""
+#~ "Todo使用通訊錄來顯示和執行像通話、短訊這樣的動作。請在您的裝置設置中啟動訪"
+#~ "問（設置>隱私>通訊錄）。"
+
+#~ msgid ""
+#~ "TextExpander and their logo are copyrights and/or trademarks of "
+#~ "SmileOnMyMac, LLC. Contains TextExpander engine library, Copyright © 2009 "
+#~ "SmileOnMyMac, LLC. TextExpander is a trademark of SmileOnMyMac, LLC."
+#~ msgstr ""
+#~ "TextExpander及其标识为为SmileOnMyMac, LLC.版权所有和／或商标。 包括"
+#~ "TextExpander引擎库，版权所有© 2009 SmileOnMyMac, LLC.。TextExpander是"
+#~ "SmileOnMyMac, LLC.的注册商标。"
+
+#~ msgid "Add a comment..."
+#~ msgstr "增加评论..."
+
+#~ msgid "FREE"
+#~ msgstr "免費"
+
+#~ msgid "Authorization Failure"
+#~ msgstr "授權失敗"
+
+#~ msgid "Enter an Email Address"
+#~ msgstr "請輸入電子郵件位址"
+
+#~ msgid "Port"
+#~ msgstr "連接埠"
+
+#~ msgid "Switch Services..."
+#~ msgstr "切換服務..."
+
+#~ msgid "INSTALLED"
+#~ msgstr "已安裝"
+
+#~ msgid "On Wed"
+#~ msgstr "在週三"
+
+#~ msgid "Task Details"
+#~ msgstr "工作詳情"
+
+#~ msgid "For One Month"
+#~ msgstr "一個月"
+
+#~ msgid "Contacts"
+#~ msgstr "聯絡人"
+
+#~ msgid ""
+#~ "These features are available when you connect with a Todo Cloud "
+#~ "subscription."
+#~ msgstr "這些功能只有在您使用Todo Cloud訂閱連接時才能使用。"
+
+#~ msgid "Close Filters"
+#~ msgstr "關閉篩選器"
+
+#~ msgid "password"
+#~ msgstr "密碼"
+
+#~ msgid "Please Upgrade to iOS 5.0"
+#~ msgstr "請升級到iOS 5.0"
+
+#~ msgid "File"
+#~ msgstr "檔案"
+
+#~ msgid ""
+#~ "Share your notes and collaborate your ideas with a Dropbox shared folder."
+#~ msgstr "使用Dropbox的共享分揀加分享你的備註和你的想法。"
+
+#~ msgid "Updating Contexts..."
+#~ msgstr "正在升级内容..."
+
+#~ msgid "Change Role"
+#~ msgstr "改变角色"
+
+#~ msgid "Colors and Themes"
+#~ msgstr "顏色和主題"
+
+#~ msgid ""
+#~ "Shows only the tasks that are overdue and due today (set custom Focus "
+#~ "List preferences in settings below)."
+#~ msgstr "僅顯示逾期和今天到期的工作（在以下設定中設置自訂關注列表偏好）。"
+
+#~ msgid ""
+#~ "Should %1$@ automatically check for updates? You can always check for "
+#~ "updates manually from the %1$@ menu."
+#~ msgstr " %1$@會自動檢查更新嗎？您總是能夠手動從 %1$@功能表中檢查更新。"
+
+#~ msgid ""
+#~ "You are qualified for a free account through our friends and family "
+#~ "program. When it's time to renew your account, we'll send you an email to "
+#~ "verify your email address. Please click the verify link in the email and "
+#~ "you'll get another year of Todo Cloud premium features on us!"
+#~ msgstr ""
+#~ "您有資格通過我們的朋友和家人計劃獲得一個免費帳戶。至於您的帳戶的續訂，我們"
+#~ "會向您發送一份電子郵箱驗證郵件。請點擊郵件中的驗證鏈接，您將獲得我們提供的"
+#~ "新一年的Todo Cloud 付費服務！"
+
+#~ msgid "This Sunday"
+#~ msgstr "星期日"
+
+#~ msgid "Date"
+#~ msgstr "日期"
+
+#~ msgid "Username and password are not valid"
+#~ msgstr "用戶名和密碼無效"
+
+#~ msgid "Call or SMS a number not in Contacts"
+#~ msgstr "向非聯絡人撥打電話或發送訊息"
+
+#~ msgid "Priority:"
+#~ msgstr "優先順序："
+
+#~ msgid "Clear"
+#~ msgstr "清除"
+
+#~ msgid ""
+#~ "Notebook is designed and developed in Utah by Appigo, Inc. Appigo is "
+#~ "focused on bringing high quality software to iOS."
+#~ msgstr ""
+#~ "Notebook由Appigo公司在猶他州設計開發。Appigo致力於開發高品質的iOS軟件."
+
+#~ msgid "All Tasks"
+#~ msgstr "全部工作"
+
+#~ msgid "Reset Sync Data"
+#~ msgstr "重启Sync 数据"
+
+#~ msgid "Blend Completed"
+#~ msgstr "混合完成"
+
+#~ msgid "Appigo Todo"
+#~ msgstr "Appigo Todo"
+
+#~ msgid "%d overdue"
+#~ msgstr "%d個逾期工作"
+
+#~ msgid "Location"
+#~ msgstr "地點"
+
+#~ msgid "Remove Start Date"
+#~ msgstr "刪除開始日期"
+
+#~ msgid "Hide Appigo Sync"
+#~ msgstr "隱藏 Appigo Sync"
+
+#~ msgid "Task Not Found"
+#~ msgstr "任務未找到"
+
+#~ msgid "This Monday"
+#~ msgstr "星期一"
+
+#~ msgid ""
+#~ "Manage your subscription by viewing your account settings on www.todo-"
+#~ "cloud.com on a desktop computer."
+#~ msgstr ""
+#~ "通過在臺式電腦上查看您在www.todo-cloud.com上的帳戶設置管理您的訂閱。"
+
+#~ msgid "Device Name"
+#~ msgstr "裝置名稱"
+
+#~ msgid "Accept"
+#~ msgstr "接受"
+
+#~ msgid "Complete/Uncomplete task"
+#~ msgstr "已完成/未完成任務"
+
+#~ msgid "Paste"
+#~ msgstr "貼上"
+
+#~ msgid "Remove"
+#~ msgstr "移除"
+
+#~ msgid "Assign the task to me"
+#~ msgstr "給我安排任務"
+
+#~ msgid "Six Months"
+#~ msgstr "六個月"
+
+#~ msgid ""
+#~ "Local network sync is configured.  Click the Validate button above to "
+#~ "verify your authorization."
+#~ msgstr "本地網路同步配置。點擊上面的驗證按鈕來驗證您的授權."
+
+#~ msgid ""
+#~ "The authorization failed and the service cannot be located, make sure you "
+#~ "have Todo for Mac or Appigo Sync for Windows running on your desktop.  "
+#~ "Would you like to re-configure the desktop you sync with?"
+#~ msgstr ""
+#~ "授權失敗並且服務不能定位，要確保你桌面上有Mac版的Todo或Windows版的Appigo "
+#~ "Sync正在運行。你願意重新配置與你同步的桌面嗎?"
+
+#~ msgid "Alert %d"
+#~ msgstr "提醒 %d"
+
+#~ msgid "On Sunday"
+#~ msgstr "在星期日"
+
+#~ msgid "Failed to update comments"
+#~ msgstr "升级评论失败"
+
+#~ msgid "Days"
+#~ msgstr "天"
+
+#~ msgid ""
+#~ "Tap and hold a list to change its name, color, and sharing preferences."
+#~ msgstr "按一下和按住一個列表來改變它的名字、顏色、和共用參數."
+
+#~ msgid "About Appigo Sync"
+#~ msgstr "關於 Appigo Sync"
+
+#~ msgid ""
+#~ "Your free subscription of Todo Cloud will expire soon (%@). Buy a one "
+#~ "year subscription and avoid any further interruptions."
+#~ msgstr ""
+#~ "Todo Cloud 免費訂閱即將過期 (%@)。 購買一年的訂閱服務，避免服務再次中斷。"
+
+#~ msgid "Collection Type"
+#~ msgstr "合集類型"
+
+#~ msgid "Completion Date"
+#~ msgstr "完成日期"
+
+#~ msgid "Cancel"
+#~ msgstr "取消"
+
+#~ msgid "Device Model"
+#~ msgstr "裝置型號"
+
+#~ msgid "Required"
+#~ msgstr "必填"
+
+#~ msgid ""
+#~ "You're off to a great start. What is the next action needed to move this "
+#~ "project forward?"
+#~ msgstr "您有了一個漂亮的開頭。推進這個項目的下一步是甚麼？"
+
+#~ msgid "For One Day"
+#~ msgstr "一天"
+
+#~ msgid "Window Cleaner"
+#~ msgstr "窗戶清潔劑"
+
+#~ msgid "Pick up light fixtures"
+#~ msgstr "拿燈具"
+
+#~ msgid ""
+#~ "If you are experiencing problems synchronizing with Dropbox select this "
+#~ "option for additional options to resolve the issue."
+#~ msgstr ""
+#~ "如果你在同步Dropbox時遇到問題，請選擇該選項獲取更多選項以解決該問題。"
+
+#~ msgid "Toodledo Numbers"
+#~ msgstr "Toodledo 號碼"
+
+#~ msgid "Window"
+#~ msgstr "視窗"
+
+#~ msgid ""
+#~ "For help or to provide feedback, please visit: http://support.appigo.com/"
+#~ msgstr "有關說明的資訊或要提供回饋意見，請瀏覽：http://support.appigo.com/"
+
+#~ msgid "Addresses"
+#~ msgstr "地址"
+
+#~ msgid "VisitLocation %@"
+#~ msgstr "訪問 %@"
+
+#~ msgid "List"
+#~ msgstr "清單"
+
+#~ msgid ""
+#~ "The \"All\" Notebook shows notes from all notebooks in a single list."
+#~ msgstr "“全部”記事本以列表的形式，顯示所有記事本中的筆記。"
+
+#~ msgid "Updating Tasks..."
+#~ msgstr "正在升级任务..."
+
+#~ msgid ""
+#~ "The \"Unfiled\" Notebook lists notes that have not been filed into a "
+#~ "specific notebook.  When you import notes from an email or from Appigo "
+#~ "Todo, they will be added to the unfiled notebook."
+#~ msgstr ""
+#~ "“未分類”記事本顯示沒有分類至某特定記事本的筆記。您從郵件或 Appigo Todo 中"
+#~ "匯入的筆記，會被自動添加至“未分類”記事本。"
+
+#~ msgid "We are unable to connect to the server at this time."
+#~ msgstr "我们无法此时连接到服务器。"
+
+#~ msgid "Contact %@"
+#~ msgstr "聯絡%@"
+
+#~ msgid "Create a new task..."
+#~ msgstr "創建新任務..."
+
+#~ msgid "You declined the invitation."
+#~ msgstr "您拒絕了邀請。"
+
+#~ msgid "Starting Sync..."
+#~ msgstr "同步處理中..."
+
+#~ msgid "Oblique"
+#~ msgstr "斜體"
+
+#~ msgid "Make a copy of the task"
+#~ msgstr "製作一個任務備份"
+
+#~ msgid "Check the file and try again"
+#~ msgstr "檢查文件並重試"
+
+#~ msgid "File Not Valid"
+#~ msgstr "文件無效"
+
+#~ msgid ""
+#~ "Corkulous™ idea board for iPad gives you an incredible new way to "
+#~ "collect, organize, and share your ideas."
+#~ msgstr ""
+#~ "適用 iPad 的 Corkulous™ idea board 讓您可以全新的方式收集、整理並共享您的"
+#~ "創意，效果令人難以置信。"
+
+#~ msgid "Updating Notifications"
+#~ msgstr "正在升级提示"
+
+#~ msgid "Due Date:"
+#~ msgstr "截止日期："
+
+#~ msgid "Rename..."
+#~ msgstr "重新命名..."
+
+#~ msgid "VisitWebsite %@"
+#~ msgstr "訪問 %@"
+
+#~ msgid "Synchronizing Tasks"
+#~ msgstr "正在同步處理工作"
+
+#~ msgid ""
+#~ "Toodledo.com is a powerful online task manager that will keep track of "
+#~ "your notes and to-dos and allow you to access them in your browser. "
+#~ "Please visit Toodledo.com for more information."
+#~ msgstr ""
+#~ "Toodledo.com 是功能強大的線上任務管理網站，通過它，您可以使用流覽器管理筆"
+#~ "記和待辦事項。請訪問 Toodledo.com 瞭解更多資訊。"
+
+#~ msgid "Every 2 Weeks"
+#~ msgstr "每兩個星期"
+
+#~ msgid "Replace furnace filter"
+#~ msgstr "更換火爐過濾網"
+
+#~ msgid "New Task (return to create)..."
+#~ msgstr "新建任務（返回創建）..."
+
+#~ msgid "Next Thursday"
+#~ msgstr "下個星期四"
+
+#~ msgid ""
+#~ "Thank you for using Todo. Please renew your license by verifying your "
+#~ "registration information on the following screen."
+#~ msgstr "感谢您使用Todo. 請通過驗證您以下屏幕中的注册信息更新您的授權。"
+
+#~ msgid "List Color..."
+#~ msgstr "清單顏色..."
+
+#~ msgid "SMS Number"
+#~ msgstr "SMS 號碼"
+
+#~ msgid "Show the selected location on a map"
+#~ msgstr "在地圖上顯示選擇的位置"
+
+#~ msgid "none"
+#~ msgstr "無"
+
+#~ msgid "Later"
+#~ msgstr "以後再說"
+
+#~ msgid "One Week"
+#~ msgstr "一星期"
+
+#~ msgid "Note:"
+#~ msgstr "備註："
+
+#~ msgid "Assign to Checklist"
+#~ msgstr "指派到檢查清單"
+
+#~ msgid "Location Alert"
+#~ msgstr "當地通知"
+
+#~ msgid "I can move myself to the Applications folder if you'd like."
+#~ msgstr "若您需要，我可以自行移至應用程式資料夾。"
+
+#~ msgid "johnny@appigo.com"
+#~ msgstr "johnny@appigo.com"
+
+#~ msgid "No Time"
+#~ msgstr "無時間"
+
+#~ msgid "Click continue to log in or create a Todo Cloud Account."
+#~ msgstr "点击继续登陆或创建Todo专业帐户。"
+
+#~ msgid ""
+#~ "Copyright © 2008-2012 Appigo, Inc. All rights reserved. Todo is a "
+#~ "registered trademark of Appigo, Inc. Appigo, Appigo Sync, the Todo app "
+#~ "logo, and Todo Cloud are trademarks of Appigo, Inc. Other company and "
+#~ "product names may be trademarks of their respective owners. Todo contains "
+#~ "patent pending technology."
+#~ msgstr ""
+#~ "版權所有 © 2008-2012 年，Appigo, Inc.。保留所有權利。Todo 為 Appigo, Inc. "
+#~ "的注冊商標。Appigo、Appigo Sync、Todo 應用程式識別標記 和 Todo Cloud 是 "
+#~ "Appigo, Inc. 的商標。其他公司及產品名稱可能為其個別所有者的商標。正在申請"
+#~ "專利。"
+
+#~ msgid "1 hour before"
+#~ msgstr "一小前"
+
+#~ msgid "Are you sure you want to delete the list \"%@\"?"
+#~ msgstr "您確定要刪除清單 \"%@\" 清單嗎？"
+
+#~ msgid "Email Required"
+#~ msgstr "必須輸入電子郵件"
+
+#~ msgid "Mark Unread"
+#~ msgstr "標記未讀"
+
+#~ msgid "Add task"
+#~ msgstr "添加任務"
+
+#~ msgid "Download More Themes"
+#~ msgstr "下載更多主題"
+
+#~ msgid "Account is not configured properly"
+#~ msgstr "帳戶設定不正確"
+
+#~ msgid "Last Name:"
+#~ msgstr "姓氏："
+
+#~ msgid "%d Lines"
+#~ msgstr "%d 行"
+
+#~ msgid "Red"
+#~ msgstr "紅色"
+
+#~ msgid "Looking for changes..."
+#~ msgstr "尋找變更中..."
+
+#~ msgid "Use your iPhone to see additional tasks in this list."
+#~ msgstr "使用您的 iPhone 查看該清單中的更多任務。"
+
+#~ msgid "Every Monday"
+#~ msgstr "每星期一"
+
+#~ msgid ""
+#~ "Thank you for registering with Appigo. You should receive a verification "
+#~ "email shortly. Please verify your email address (%@) by clicking on the "
+#~ "link in the email."
+#~ msgstr ""
+#~ "謝謝您在 Appigo 註冊。您很快會收到一封驗證電子郵件。請點擊電子郵件中的連結"
+#~ "以驗證您的電子郵件地址（%@）。"
+
+#~ msgid "Mon"
+#~ msgstr "月"
+
+#~ msgid "Valid until %@"
+#~ msgstr "有效至 %@"
+
+#~ msgid ""
+#~ "Todo Cloud synchronizes tasks, including projects, checklists, and "
+#~ "multiple alerts. Todo Cloud is fully supported by Appigo at http://"
+#~ "support.appigo.com/."
+#~ msgstr ""
+#~ "Todo Cloud 可同步化任務，包括專案、核對清單與多項提醒。Todo Cloud 由 "
+#~ "Appigo 提供完全支援，網址為：http://support.appigo.com/。"
+
+#~ msgid "Sort"
+#~ msgstr "排序"
+
+#~ msgid ""
+#~ "Thank you for registering with Appigo. You should receive a verification "
+#~ "email shortly. Please verify your email address (%@) by clicking on the "
+#~ "link in the email.\n"
+#~ "\n"
+#~ "NOTE: This step is not required in the version of Todo available in the "
+#~ "Mac App Store."
+#~ msgstr ""
+#~ "感謝您在Appigo註冊。您應該很快會收到一封認證郵件。請點擊您郵件中的鏈接確認"
+#~ "您的郵箱地址(%@) \n"
+#~ "\n"
+#~ "注意: 這一步不需要Todo在Mac應用程式商店的可用版本。"
+
+#~ msgid "Complete"
+#~ msgstr "完成"
+
+#~ msgid "%d Alert"
+#~ msgstr "%d 提醒"
+
+#~ msgid "%@ will no longer be able to view or edit this list."
+#~ msgstr "%@ 将不能浏览和编辑此列表."
+
+#~ msgid "Options"
+#~ msgstr "選項"
+
+#~ msgid "Updating %@"
+#~ msgstr "正在更新 %@"
+
+#~ msgid "Call, email, sms, or display on a map"
+#~ msgstr "電話，電子郵件，短訊或在地圖上顯示"
+
+#~ msgid ""
+#~ "From the notebooks screen, tap the \"Edit\" button at the top-left of "
+#~ "your screen.  Tap the red-colored delete button on the left-hand side of "
+#~ "the notebook name.  Then, press the \"Delete\" button.  Exit edit mode by "
+#~ "pressing the \"Done\" button at the top-right of the screen.\n"
+#~ "\n"
+#~ "Alternatively, you can delete a note while viewing the list of notebooks "
+#~ "by swiping your finger from left to right across a notebook's row and "
+#~ "pressing the delete button that appears."
+#~ msgstr ""
+#~ "點選“記事本”介面左上角的“編輯”按鈕，再點選記事本名稱左邊的紅色刪除按鈕。然"
+#~ "後，點選“刪除”即可。點選螢幕右上角的“完成”按鈕退出編輯模式。\n"
+#~ "\n"
+#~ "另外，您也可以將手指從左到右劃過某個記事本名稱, 然後點選出現的紅色刪除按鈕"
+#~ "來執行刪除操作。"
+
+#~ msgid "Romaine Lettuce"
+#~ msgstr "羅蔓生菜"
+
+#~ msgid "Third Time's a Charm"
+#~ msgstr "三次湊效"
+
+#~ msgid "Semi Bold Italic"
+#~ msgstr "半粗體和斜體"
+
+#~ msgid "Email Address:"
+#~ msgstr "電子郵件位址："
+
+#~ msgid "Change Passcode"
+#~ msgstr "更改密碼"
+
+#~ msgid "Disabled Actions"
+#~ msgstr "已禁用操作"
+
+#~ msgid "Tuesday"
+#~ msgstr "星期二"
+
+#~ msgid ""
+#~ "Add an owner with a valid email address to use Appigo's Alert Service."
+#~ msgstr "新增具有有效電子郵件位址的所有者，以使用 Appigo 的提醒服務。"
+
+#~ msgid "Are you sure you want to delete the tag \"%@\"?"
+#~ msgstr "您確定要刪除 \"%@\" 標記嗎？"
+
+#~ msgid "1 subtask"
+#~ msgstr "1個子工作"
+
+#~ msgid "Edit Repeat"
+#~ msgstr "編輯重複"
+
+#~ msgid "No Comments"
+#~ msgstr "無注解"
+
+#~ msgid ""
+#~ "To connect, open the preferences of Todo for Mac or Appigo Sync for "
+#~ "Windows, select Local Network Sync or your device from the devices list, "
+#~ "and enter the code below."
+#~ msgstr ""
+#~ "連接，打開Mac上的Todo或Windows上的Appigo Sync首選項，選擇本地網路同步或從"
+#~ "裝置清單選擇你的裝置，輸入下面的代碼."
+
+#~ msgid "Set the task's repeating options"
+#~ msgstr "設定任務的重複選項"
+
+#~ msgid "Updated: "
+#~ msgstr "更新："
+
+#~ msgid "%@ %@ is currently the newest version available."
+#~ msgstr "%1$@ %2$@ 是目前最新的可用版本。"
+
+#~ msgid "The Todo package found in Dropbox is possibly corrupt."
+#~ msgstr "Dropbox的Todo套件可能已損毀。"
+
+#~ msgid "A theme you downloaded is now available in Settings > Theme."
+#~ msgstr "您下載的主題現在可在｢設定 > 主題｣中選擇。"
+
+#~ msgid "iCloud updates complete."
+#~ msgstr "iCloud更新完成。"
+
+#~ msgid "Call John Appleseed"
+#~ msgstr "呼叫 John Appleseed"
+
+#~ msgid "In Four Days"
+#~ msgstr "四天後"
+
+#~ msgid "Assigned Member"
+#~ msgstr "指定成员"
+
+#~ msgid "Todo® Exchange Tasks"
+#~ msgstr "Todo® 交换任务"
+
+#~ msgid "Purple"
+#~ msgstr "紫色"
+
+#~ msgid "Diagnostic Log..."
+#~ msgstr "診斷紀錄..."
+
+#~ msgid "Task Note"
+#~ msgstr "任務說明"
+
+#~ msgid "Bad username or password. Please try again."
+#~ msgstr "用户名或密码错误. 请重试."
+
+#~ msgid "Synchronizing Notebooks..."
+#~ msgstr "正在同步Notebook..."
+
+#~ msgid "For Two Days"
+#~ msgstr "兩天"
+
+#~ msgid "Task Due Time"
+#~ msgstr "工作截止時間"
+
+#~ msgid "Details"
+#~ msgstr "詳細資料"
+
+#~ msgid "Detected device: %@"
+#~ msgstr "偵測到的裝置： %@"
+
+#~ msgid "%d months"
+#~ msgstr "%d 月"
+
+#~ msgid "Use Task Start Dates"
+#~ msgstr "使用任務開始日期"
+
+#~ msgid "Appigo Sync Build:"
+#~ msgstr "Appigo Sync 版本："
+
+#~ msgid "Sharing"
+#~ msgstr "分享"
+
+#~ msgid "Phone number"
+#~ msgstr "電話號碼"
+
+#~ msgid "Theme Downloaded"
+#~ msgstr "已下載的主題"
+
+#~ msgid ""
+#~ "Todo for Mac or Appigo Sync for Windows must be running on the desktop "
+#~ "you've specified."
+#~ msgstr "Mac版的Todo或Windows 版的Appigo同步必須運行在你指定的桌面上."
+
+#~ msgid "Account"
+#~ msgstr "账户"
+
+#~ msgid "Preferences…"
+#~ msgstr "喜好設定..."
+
+#~ msgid ""
+#~ "Todo for iPad is designed and developed in Utah by Appigo, Inc.  We focus "
+#~ "on building high quality software."
+#~ msgstr ""
+#~ "iPad的Todo 由Appigo公司在犹他州设计并开发.  我们专门提供高质量的软件."
+
+#~ msgid "%d Comments"
+#~ msgstr "%d 评论"
+
+#~ msgid "No Projects Found"
+#~ msgstr "找不到專案"
+
+#~ msgid "Move the task out of a checklist"
+#~ msgstr "將此工作從檢查清單中移除"
+
+#~ msgid "Todo: %@"
+#~ msgstr "工作：%@"
+
+#~ msgid "Deleting Invitation"
+#~ msgstr "删除邀请"
+
+#~ msgid "Available Actions"
+#~ msgstr "可用操作"
+
+#~ msgid "This email is already being used in Todo Cloud."
+#~ msgstr "這封電子郵件己經在Todo Cloud中使用。"
+
+#~ msgid "Every Day"
+#~ msgstr "每天"
+
+#~ msgid "Use task start dates"
+#~ msgstr "使用任何開始日期"
+
+#~ msgid "Every X days"
+#~ msgstr "每 X 天"
+
+#~ msgid ""
+#~ "Todo Cloud is a powerful service that gives you access to your tasks and "
+#~ "notes anywhere using a standard web browser."
+#~ msgstr ""
+#~ "Todo Cloud 是一項功能強大的服務，讓您能夠在任何地方通過標準的 網路瀏覽器存"
+#~ "取自己的工作和筆記。"
+
+#~ msgid "Note that this will require an administrator password."
+#~ msgstr "請注意，此操作需要管理員密碼。"
+
+#~ msgid ""
+#~ "The key combination \"%@\" can't be used because it's already used by a "
+#~ "system-wide keyboard shortcut. (If you really want to use this key "
+#~ "combination, most shortcuts can be changed in the Keyboard & Mouse panel "
+#~ "in System Preferences.)"
+#~ msgstr ""
+#~ "\"%@\" 組合鍵不能使用，因為它已被系統內的鍵盤捷徑使用。（如果您確實想要使"
+#~ "用此組合鍵，可以在系統喜好設定中的鍵盤與滑鼠變更更改大部分的捷徑。）"
+
+#~ msgid "Use Google Maps"
+#~ msgstr "使用 Google 地圖"
+
+#~ msgid "Right Align"
+#~ msgstr "置右對齊"
+
+#~ msgid "Some"
+#~ msgstr "部分"
+
+#~ msgid "Under Construction Small"
+#~ msgstr "小型建設中"
+
+#~ msgid ""
+#~ "Receive an email notification when someone adds or removes a comment on a "
+#~ "task"
+#~ msgstr "當有人在一個任務上新增或刪除一個評論時，收到一封電子郵件通知"
+
+#~ msgid ""
+#~ "Your subscription has expired. Renew your one year subscription and "
+#~ "synchronize your tasks everywhere your device has a network connection."
+#~ msgstr ""
+#~ "訂閱已過期。 續訂一年的訂閱服務，即可在您裝置能夠上網的任何地方同步處理工"
+#~ "作。"
+
+#~ msgid ""
+#~ "Import tasks directly into Appigo Todo. Try Todo Lite free on the App "
+#~ "Store."
+#~ msgstr "將工作直接匯入 Appigo Todo。 在 App Store 上免費試用 Todo Lite。"
+
+#~ msgid "Enabled Actions"
+#~ msgstr "已啟用操作"
+
+#~ msgid ""
+#~ "This is a sample project. The subtasks have useful links to help you "
+#~ "learn more about Todo."
+#~ msgstr ""
+#~ "這是一個示範計劃。子任務中含有可幫助您瞭解更多 Todo 資訊的有用連結。"
+
+#~ msgid "Indicates this list is shared with others."
+#~ msgstr "說明此列表已和他人共用。"
+
+#~ msgid ""
+#~ "Keeping existing Todo tasks may result in duplicate tasks if they already "
+#~ "exist in %@."
+#~ msgstr "如果現有的 Todo 工作已經存在於 %@，將它們保留下來會造成重複的工作。"
+
+#~ msgid "Build %@"
+#~ msgstr "建置 %@"
+
+#~ msgid "Schedule"
+#~ msgstr "排程"
+
+#~ msgid "Updating Contexts"
+#~ msgstr "正在升级内容"
+
+#~ msgid "Every 2 Months"
+#~ msgstr "每兩個月"
+
+#~ msgid "Multiline Label"
+#~ msgstr "Multiline Label"
+
+#~ msgid "Filter"
+#~ msgstr "篩選器"
+
+#~ msgid ""
+#~ "Thank you for using Todo tasks. Please take a minute to share your "
+#~ "positive experiences using this app by writing or updating a review."
+#~ msgstr ""
+#~ "感謝您使用Todo任務。請花一分鐘的時間給我們發表或更新您的評價，以便分享您在"
+#~ "使用此應用程式時的愉快體驗"
+
+#~ msgid "Theme Store Unavailable"
+#~ msgstr "主題商店無法使用"
+
+#~ msgid "Every 3 hours"
+#~ msgstr "每 3 小時"
+
+#~ msgid ""
+#~ "There must be some other task that's on your mind. Is your task time-"
+#~ "senstive? Try an alert."
+#~ msgstr "您的心裡一定還有其他任務。您的任務時間緊嗎？試試提醒。"
+
+#~ msgid "First Name"
+#~ msgstr "名字"
+
+#~ msgid "Diagnostic Log"
+#~ msgstr "診斷紀錄"
+
+#~ msgid "Sync Method"
+#~ msgstr "同步處理方法"
+
+#~ msgid "Task Type"
+#~ msgstr "工作類型"
+
+#~ msgid "Font Size"
+#~ msgstr "字體大小"
+
+#~ msgid "Replace Tasks"
+#~ msgstr "替換任務"
+
+#~ msgid "Modify task priority"
+#~ msgstr "修改任務優先順序"
+
+#~ msgid "Continue"
+#~ msgstr "繼續"
+
+#~ msgid "Could not open %@"
+#~ msgstr "無法打開 %@"
+
+#~ msgid "Doe"
+#~ msgstr "王"
+
+#~ msgid "Add tags to the task"
+#~ msgstr "添加標籤到任務"
+
+#~ msgid "Please configure your email account and try again."
+#~ msgstr "請設定您的電子郵件帳號，然後重試。"
+
+#~ msgid "Last Updated"
+#~ msgstr "最近更新"
+
+#~ msgid "Starting After"
+#~ msgstr "結束後開始"
+
+#~ msgid ""
+#~ "Third Party Services allow you to synchronize tasks between your devices, "
+#~ "but they do not fully support all of Todo's features."
+#~ msgstr ""
+#~ "第三方服务可以让您每个装置里的任务同步更新, 但它们不完全支持Todo的所有特"
+#~ "点。"
+
+#~ msgid "Unable to upload note to Dropbox: %@"
+#~ msgstr "無法上傳備註到Dropbox: %@"
+
+#~ msgid "CUSTOM LISTS"
+#~ msgstr "自訂列表"
+
+#~ msgid "Bold"
+#~ msgstr "粗體"
+
+#~ msgid "Next year"
+#~ msgstr "下一年"
+
+#~ msgid "Due time"
+#~ msgstr "到期時間"
+
+#~ msgid "Set the task's due date"
+#~ msgstr "設定任務的到期日期"
+
+#~ msgid "None found"
+#~ msgstr "找不到"
+
+#~ msgid "Import Note?"
+#~ msgstr "導入備註?"
+
+#~ msgid "The \"Unfiled\" Notebook"
+#~ msgstr "“未分類”記事本"
+
+#~ msgid "In One Week"
+#~ msgstr "一星期後"
+
+#~ msgid "Previous"
+#~ msgstr "上一個"
+
+#~ msgid "Command + "
+#~ msgstr "指令 + "
+
+#~ msgid "%d items selected"
+#~ msgstr "已選擇%d項工作"
+
+#~ msgid "Updating task: %@"
+#~ msgstr "正在更新任務：%@"
+
+#~ msgid ""
+#~ "This note is too large to be re-imported from an email.  The import link "
+#~ "will not be used when creating an email."
+#~ msgstr ""
+#~ "此備註太大，無法從電子郵件中重新匯入。建立電子郵件時將不使用匯入連結。"
+
+#~ msgid "Item 3"
+#~ msgstr "Item 3"
+
+#~ msgid "Recovered Checklist Items"
+#~ msgstr "已恢復的清單項目"
+
+#~ msgid "One task"
+#~ msgstr "1項工作"
+
+#~ msgid "Manage Members"
+#~ msgstr "成员管理"
+
+#~ msgid "Import failed"
+#~ msgstr "匯入失敗"
+
+#~ msgid "Today"
+#~ msgstr "今天"
+
+#~ msgid "Copyright © 2008-2012 Appigo, Inc.  All rights reserved."
+#~ msgstr "© 2008-2012 Appigo, Inc. 版權所有。"
+
+#~ msgid "Move the due date one day forward"
+#~ msgstr "將到期日向前移動一天"
+
+#~ msgid ""
+#~ "The authoritative source is used to resolve conflicts during "
+#~ "synchronization."
+#~ msgstr "授權來源用來解決同步化期間的衝突。"
+
+#~ msgid "other"
+#~ msgstr "其他"
+
+#~ msgid "Create new list, context, or tag"
+#~ msgstr "建立新清單清單、上下文或標記"
+
+#~ msgid "Address/Location"
+#~ msgstr "地址/位置"
+
+#~ msgid "Write a Review?"
+#~ msgstr "要寫評價?"
+
+#~ msgid "Sun"
+#~ msgstr "周日"
+
+#~ msgid "Edit Project"
+#~ msgstr "編輯專案"
+
+#~ msgid "Sync on Exit"
+#~ msgstr "同步退出"
+
+#~ msgid "No sync log"
+#~ msgstr "沒有同步處理日誌"
+
+#~ msgid "New Context"
+#~ msgstr "新內容"
+
+#~ msgid "Failed to connect with Toodledo.com."
+#~ msgstr "連接Toodledo.com出錯。"
+
+#~ msgid ""
+#~ "Tap here to add a task to your list. Todo can help you keep track of "
+#~ "bills, workouts, calls to make, whatever!"
+#~ msgstr ""
+#~ "點擊此處新增一個任務至您的列表。Todo可以幫助您跟蹤賬單，鍛鍊，要呼叫的電"
+#~ "話，諸如此類等等！"
+
+#~ msgid "Phone Number"
+#~ msgstr "電話號碼"
+
+#~ msgid "Strikethrough"
+#~ msgstr "刪除線"
+
+#~ msgid "Updating Notebooks...."
+#~ msgstr "正在更新記事本...."
+
+#~ msgid "Ready to Install"
+#~ msgstr "準備安裝"
+
+#~ msgid ""
+#~ "Your free subscription has expired. Buy a one year subscription and "
+#~ "synchronize your tasks everywhere your device has a network connection."
+#~ msgstr ""
+#~ "免費訂閱已過期。 購買一年的訂閱服務，即可在您裝置能夠上網的任何地方同步處"
+#~ "理工作。"
+
+#~ msgid "No, Thanks"
+#~ msgstr "不，謝謝"
+
+#~ msgid "Communication error, check log"
+#~ msgstr "通訊錯誤，請檢查日誌"
+
+#~ msgid ""
+#~ "Your account expiration date could not be determined. Please try again "
+#~ "later."
+#~ msgstr "無法確定您的帳戶的到期日期。請稍後重試。"
+
+#~ msgid "Sync Interrupted"
+#~ msgstr "同步處理中斷"
+
+#~ msgid ""
+#~ "The collection \"%@\" failed to sync because it is no longer found on "
+#~ "Dropbox"
+#~ msgstr "合集\"%@\"無法同步，因為無法找到Dropbox"
+
+#~ msgid "(Recommended)"
+#~ msgstr "（推薦）"
+
+#~ msgid "User account already exists"
+#~ msgstr "使用者帳戶已存在"
+
+#~ msgid "Start"
+#~ msgstr "開始"
+
+#~ msgid "Import Note"
+#~ msgstr "匯入筆記"
+
+#~ msgid "Complete Checklist"
+#~ msgstr "完成檢查清單"
+
+#~ msgid "Resolve Reset"
+#~ msgstr "重启解决程序"
+
+#~ msgid ""
+#~ "Switching synchronization services will remove your synchronization "
+#~ "preferences, including any connection with other devices or online "
+#~ "services."
+#~ msgstr ""
+#~ "切換同步服務將會刪除您的同步處理喜好設定，包括與其他裝置或線上線上服務的所"
+#~ "有連接。"
+
+#~ msgid ""
+#~ "What else needs to be done to make this project a success? Is there "
+#~ "someone else involved in the project? Invite them to share this list."
+#~ msgstr ""
+#~ "順利進行這個項目還需要做甚麼？還有誰參與了這個項目？邀請他們共享此清單。"
+
+#~ msgid "2. Open Todo Settings"
+#~ msgstr "2. 打開 Todo 設定"
+
+#~ msgid "Show this window at launch"
+#~ msgstr "啟動時顯示這個視窗"
+
+#~ msgid "Show All"
+#~ msgstr "全部顯示"
+
+#~ msgid "Use iCloud"
+#~ msgstr "使用 iCloud"
+
+#~ msgid "Default Alert"
+#~ msgstr "預設提醒"
+
+#~ msgid "Desktop Information"
+#~ msgstr "桌面資訊"
+
+#~ msgid "Mark the task with a star"
+#~ msgstr "在那個任務上標記一個星號"
+
+#~ msgid ""
+#~ "A new version of Todo is available and required to continue synchronizing "
+#~ "tasks with other devices."
+#~ msgstr "Todo的新版本可以使用，並且要求繼續與其他設備一起同步使用。"
+
+#~ msgid "Filters tasks by context."
+#~ msgstr "按內容篩選工作。"
+
+#~ msgid "Weeks"
+#~ msgstr "星期"
+
+#~ msgid "Open"
+#~ msgstr "打開"
+
+#~ msgid "No Due Date"
+#~ msgstr "沒有截止日期"
+
+#~ msgid "Note"
+#~ msgstr "備註"
+
+#~ msgid ""
+#~ "Give %@ access to your contacts by adjusting your device settings.\n"
+#~ "\n"
+#~ "(Settings > Privacy > Contacts > %@)"
+#~ msgstr ""
+#~ "通過調整您的設備設置授予 %1$@ 訪問您的通訊錄的權限。\n"
+#~ "\n"
+#~ "（設置 > 隱私 > 通訊錄 > %2$@）"
+
+#~ msgid "Data Detection"
+#~ msgstr "數據檢測"
+
+#~ msgid "0 minutes before"
+#~ msgstr "零分鐘前"
+
+#~ msgid "\"Focus\" List"
+#~ msgstr "「關注」清單"
+
+#~ msgid "Lists"
+#~ msgstr "清單"
+
+#~ msgid "License Agreement..."
+#~ msgstr "授權合約 ..."
+
+#~ msgid "The 3rd %@ of each month"
+#~ msgstr "每月的第三個%@"
+
+#~ msgid "This name is invalid."
+#~ msgstr "此名稱無效。"
+
+#~ msgid ""
+#~ "Todo Cloud synchronizes your tasks in the background so it's one less "
+#~ "thing to worry about."
+#~ msgstr "Todo Cloud在後臺同步您的任務，因此， 它減少了您擔心的事情。"
+
+#~ msgid "Complete the project and all of its tasks?"
+#~ msgstr "完成項目及其所有任務？"
+
+#~ msgid "Show in Focus List"
+#~ msgstr "在關注清單中顯示"
+
+#~ msgid ""
+#~ "Your trial premium account has expired. Upgrade your premium account and "
+#~ "keep your tasks up to date anywhere."
+#~ msgstr ""
+#~ "您的试用白金帐户已过期. 更新您的白金帐户，使您的任务在任何地方都处于更新状"
+#~ "态"
+
+#~ msgid ""
+#~ "Access your tasks from your iPad using Todo for iPad: http://www.appigo."
+#~ "com/todo/ipad"
+#~ msgstr ""
+#~ "使用 iPad 版 Todo，在 iPad 上瀏覽您的任務：http://www.appigo.com/todo/ipad"
+
+#~ msgid "Link Account"
+#~ msgstr "連結帳戶"
+
+#~ msgid "Sorry, we couldn't send the invitation at this time."
+#~ msgstr "对不起，我们无法此时发送邀请."
+
+#~ msgid "Premium Account Expired"
+#~ msgstr "白金帐号过期"
+
+#~ msgid "New Task"
+#~ msgstr "新工作"
+
+#~ msgid ""
+#~ "If you are experiencing problems synchronizing with Toodledo select this "
+#~ "option for additional options to resolve the issue."
+#~ msgstr ""
+#~ "如果你在同步Toodledo時遇到問題，請選擇該選項獲取更多選項以解決該問題。"
+
+#~ msgid "Pink"
+#~ msgstr "粉紅色"
+
+#~ msgid ""
+#~ "Tap here to add a task to your project. What actions need to be taken to "
+#~ "make this project a success?"
+#~ msgstr "點擊這裡新增一個任務至您的項目。順利完成這個項目需要採取哪些操作？"
+
+#~ msgid ""
+#~ "You may assign another owner and leave the list or remove all other "
+#~ "members from the list and then delete it."
+#~ msgstr ""
+#~ "您可能指定其他户主，离开列表，或清除列表上所有其他成员，然后将其删除."
+
+#~ msgid "Select Checklist"
+#~ msgstr "選擇檢查清單"
+
+#~ msgid "In-App Purchase"
+#~ msgstr "應用內購買"
+
+#~ msgid "Enter a Number"
+#~ msgstr "輸入一個號碼"
+
+#~ msgid "Thank you for using Todo. Your license to use Todo has expired."
+#~ msgstr "感謝您使用Todo，您使用Todo的授權已到期。"
+
+#~ msgid "Every %d Years"
+#~ msgstr "每 %d 年"
+
+#~ msgid "1 day before"
+#~ msgstr "一天前"
+
+#~ msgid "Blue"
+#~ msgstr "藍色"
+
+#~ msgid "Collection cannot be located on Dropbox: %@"
+#~ msgstr "無法在Dropbox中找到合集: %@"
+
+#~ msgid ""
+#~ "Notebook keeps your notes and information organized.  Please visit our "
+#~ "website where you'll find tips & tricks, frequently asked questions, and "
+#~ "additional information about Notebook."
+#~ msgstr ""
+#~ "Notebook 便於您管理筆記與資訊。我們建議您訪問我們的網站，在那裏，您能找到 "
+#~ "Notebook 的使用技巧、常見問題解答，以及其他資訊。"
+
+#~ msgid "Due and Overdue Tasks"
+#~ msgstr "到期與過期工作"
+
+#~ msgid "WARNING! Highly unstable."
+#~ msgstr "警告！極不穩定！"
+
+#~ msgid "Are you sure you want to delete the context \"%@\"?"
+#~ msgstr "您確定要刪除 \"%@\" 上下文嗎？"
+
+#~ msgid "Synchronizing Contexts"
+#~ msgstr "正在同步處理內容"
+
+#~ msgid "Your notification settings could not be updated at this time."
+#~ msgstr "你的通知設定不能在這個時間被更新."
+
+#~ msgid "work"
+#~ msgstr "工作"
+
+#~ msgid "Apply these default settings to all of your existing lists?"
+#~ msgstr "應用這些默認設定到你現在所有的列表中?"
+
+#~ msgid "Once a day"
+#~ msgstr "每天一次"
+
+#~ msgid "Switch to Checklist"
+#~ msgstr "切換至核對清單"
+
+#~ msgid "Error, check log"
+#~ msgstr "錯誤，請檢查日誌"
+
+#~ msgid "SMS %@"
+#~ msgstr "短信 %@"
+
+#~ msgid "This feature requires the TextExpander touch app to be installed."
+#~ msgstr "此功能需要安裝TextExpander touch應用程式。"
+
+#~ msgid "Task Synchronization"
+#~ msgstr "工作同步處理"
+
+#~ msgid "Update Error!"
+#~ msgstr "更新錯誤！"
+
+#~ msgid "Review Todo"
+#~ msgstr "評論 Todo"
+
+#~ msgid "Standard"
+#~ msgstr "標準"
+
+#~ msgid "Closes the current list."
+#~ msgstr "關閉當前列表。"
+
+#~ msgid "Cleaning up..."
+#~ msgstr "清理中..."
+
+#~ msgid "Insert"
+#~ msgstr "插入"
+
+#~ msgid ""
+#~ "AccuFuel® Fuel Efficiency Tracker for iPhone and iPod touch makes "
+#~ "monitoring your vehicle's fuel efficiency simple and fun."
+#~ msgstr ""
+#~ "iPhone and iPod 平板电脑的 AccuFuel® 能源效率跟踪器使您检测您工具的任务变"
+#~ "得简单有趣。"
+
+#~ msgid "Remove Action"
+#~ msgstr "移除動作"
+
+#~ msgid "3. Select \"Synchronization\""
+#~ msgstr "3. 選擇「同步處理」"
+
+#~ msgid "Take it"
+#~ msgstr "接受它"
+
+#~ msgid "This Dropbox collection will only be removed from this device"
+#~ msgstr "此Dropbox合集僅能從此設備上移除"
+
+#~ msgid "Other Desktop"
+#~ msgstr "其他桌面"
+
+#~ msgid "(Multiple)"
+#~ msgstr "（多個）"
+
+#~ msgid "Checking subscription..."
+#~ msgstr "正在檢查訂閱..."
+
+#~ msgid "Todo successfully finished syncing."
+#~ msgstr "Todo 已成功完成同步處理。"
+
+#~ msgid "Email Report..."
+#~ msgstr "要用郵件傳送報告嗎..."
+
+#~ msgid "iCloud must be enabled in 'Settings' on your device."
+#~ msgstr "必須在您的裝置'設定'中啟用 iCloud。"
+
+#~ msgid "Updating contexts"
+#~ msgstr "更新內容中"
+
+#~ msgid "Computer Model:"
+#~ msgstr "電腦型號："
+
+#~ msgid "Chocolate Milk"
+#~ msgstr "巧克力牛奶"
+
+#~ msgid "Shows tasks that are not assigned to any of your lists below."
+#~ msgstr "顯示未指定在以下任何列表中的工作。"
+
+#~ msgid "Personalize"
+#~ msgstr "個性化"
+
+#~ msgid ""
+#~ "Create a task from a note using Appigo's Todo Application.  Not sure "
+#~ "about purchasing Todo?  Get Todo Lite free on the App Store."
+#~ msgstr ""
+#~ "利用 Appigo 的 Todo 應用程式，從備註中建立任務。不清楚如何購買 Todo 嗎？  "
+#~ "請在 App Store 獲取免費的 Todo Lite。"
+
+#~ msgid "Loading..."
+#~ msgstr "載入中..."
+
+#~ msgid "Modified"
+#~ msgstr "已修改"
+
+#~ msgid "Restoring App Store purchase"
+#~ msgstr "恢復 App Store 購買中"
+
+#~ msgid "Project"
+#~ msgstr "專案"
+
+#~ msgid "Loading sharing information..."
+#~ msgstr "加载分享信息..."
+
+#~ msgid "Every %d Weeks"
+#~ msgstr "每 %d 個星期"
+
+#~ msgid "Reset Manual Sorting?"
+#~ msgstr "要重設手動排序嗎？"
+
+#~ msgid "This list is not yet shared"
+#~ msgstr "尚未共享該清單 "
+
+#~ msgid "Reset Sync Data?"
+#~ msgstr "重启同步数据?"
+
+#~ msgid "Other"
+#~ msgstr "其他"
+
+#~ msgid "In %d years"
+#~ msgstr "在%d 年內"
+
+#~ msgid "Remove Member"
+#~ msgstr "清除成员"
+
+#~ msgid "Notify me when new themes are available"
+#~ msgstr "新主題可用時通知我"
+
+#~ msgid "Remove \"%@?\""
+#~ msgstr "移除 \"%@?\""
+
+#~ msgid "Enter a valid email address"
+#~ msgstr "輸入有效的電子郵件位址"
+
+#~ msgid "Removing list: %@"
+#~ msgstr "正在移除清單：%@"
+
+#~ msgid "Subscription Status"
+#~ msgstr "訂閱狀態"
+
+#~ msgid "iCloud"
+#~ msgstr "iCloud"
+
+#~ msgid "Rule Your Tasks"
+#~ msgstr "管理你的任务"
+
+#~ msgid "Delete Task"
+#~ msgstr "刪除工作"
+
+#~ msgid "This Sun"
+#~ msgstr "本周日"
+
+#~ msgid "Repeat Task"
+#~ msgstr "重複工作"
+
+#~ msgid "Creates a new task, project, or checklist."
+#~ msgstr "創建新工作專案或者檢查清單。"
+
+#~ msgid "Enter your current password to continue"
+#~ msgstr "請輸入當前的密碼以繼續"
+
+#~ msgid "Reset Synchronization Data"
+#~ msgstr "重設同步處理資料"
+
+#~ msgid "For Three Days"
+#~ msgstr "三天"
+
+#~ msgid ""
+#~ "Your Todo Cloud Account is being upgraded. Please wait a few minutes and "
+#~ "try updating again."
+#~ msgstr "您的Todo Cloud 帐号正在升级。请稍等几分钟后重新尝试升级。"
+
+#~ msgid "Account has expired"
+#~ msgstr "帳戶已過期"
+
+#~ msgid "Set Up Synchronization"
+#~ msgstr "設定同步處理"
+
+#~ msgid ""
+#~ "Toodledo and the Toodledo logo is copyrighted and/or trademarked by "
+#~ "Toodledo.com. Contains TextExpander engine library, Copyright © 2009 "
+#~ "SmileOnMyMac, LLC. TextExpander is a trademark of SmileOnMyMac, LLC."
+#~ msgstr ""
+#~ "Toodledo 及其徽標為\n"
+#~ "Toodledo.com 的版權和/或商標。包含TextExpander引擎庫，版權所有 © 2009 "
+#~ "SmileOnMyMac有限責任公司。 TextExpander是商標的SmileOnMyMac有限責任公司。"
+
+#~ msgid ""
+#~ "Send a note via email by tapping the share button at the bottom-center of "
+#~ "your screen when viewing a note.  Select the \"Email Note\" option, and "
+#~ "the contents of your note will be added to an email that you can address "
+#~ "to as many people as you'd like.\n"
+#~ "\n"
+#~ "If the person you're sending the note to also has Appigo Notebook, "
+#~ "they'll be able to quickly import the note into their notebook by simply "
+#~ "clicking on the \"Import Note\" link at the bottom of the email."
+#~ msgstr ""
+#~ "您在查看一條筆記時，可以點選底部中間的“分享”按鈕，然後選擇“發送給朋友”，這"
+#~ "條筆記就會自動添加到新郵件中。這樣，您就可以將其發送給朋友了。\n"
+#~ "\n"
+#~ "如果您將其發送給同樣使用 Appigo Notebook 的朋友，那麼，他們可以點選郵件底"
+#~ "部的“匯入筆記”鏈結，將其快速匯入至 Notebook 程式中。"
+
+#~ msgid "Waiting for Dropbox authorization..."
+#~ msgstr "等待Dropbox授权..."
+
+#~ msgid "Charcoal"
+#~ msgstr "木炭"
+
+#~ msgid "%@ downloaded"
+#~ msgstr "%@ 已下載"
+
+#~ msgid "Unavailable"
+#~ msgstr "失败"
+
+#~ msgid "Color..."
+#~ msgstr "顏色..."
+
+#~ msgid "Skip an occurrence of a repeating task"
+#~ msgstr "跳過一個重複任務的發生率"
+
+#~ msgid "Todo Cloud"
+#~ msgstr "Todo Cloud"
+
+#~ msgid ""
+#~ "Deleting this notebook will also remove the corresponding folder on "
+#~ "Toodledo which may affect any tasks inside this folder."
+#~ msgstr ""
+#~ "刪除此記事本也將刪除對應的 Toodledo 文件夾，此文件夾中的任務可能會受到影"
+#~ "響。"
+
+#~ msgid "Convert to Project"
+#~ msgstr "轉換為專案"
+
+#~ msgid "Priority, Due Date"
+#~ msgstr "優先順序，截止日期"
+
+#~ msgid "Show Task"
+#~ msgstr "顯示任務"
+
+#~ msgid ""
+#~ "This will combine all notes on your device with notes from %@. You may "
+#~ "see duplicate notes if you do not clear all notes from %@ before "
+#~ "performing this action."
+#~ msgstr ""
+#~ "此項操作將把您設備的上的備註和%1$@上的備註進行合併。如果您在進行此操作前，"
+#~ "未能刪除%2$@上的備註，將可能導致重複。"
+
+#~ msgid "Every 15 minutes"
+#~ msgstr "每次15分钟"
+
+#~ msgid "Task Manager"
+#~ msgstr "工作管理員"
+
+#~ msgid "Synchronize"
+#~ msgstr "同步處理"
+
+#~ msgid "In %d weeks"
+#~ msgstr "在%d 周內"
+
+#~ msgid "And"
+#~ msgstr "以及"
+
+#~ msgid "Task Action"
+#~ msgstr "工作動作"
+
+#~ msgid "Authoritative Source"
+#~ msgstr "授權來源"
+
+#~ msgid ""
+#~ "Your trial has expired. Buy a one year subscription and synchronize your "
+#~ "tasks everywhere your device has a network connection."
+#~ msgstr ""
+#~ "試用期已截止。 購買一年的訂閱服務，即可在您的裝置能夠上網的任何地方同步處"
+#~ "理工作。"
+
+#~ msgid "Defaults used when creating tasks"
+#~ msgstr "建立任務時使用預設值"
+
+#~ msgid "Comments"
+#~ msgstr "評論"
+
+#~ msgid "Assign to Context"
+#~ msgstr "指派到內容"
+
+#~ msgid "All"
+#~ msgstr "全部"
+
+#~ msgid "Home"
+#~ msgstr "首頁"
+
+#~ msgid "Enter your old passcode"
+#~ msgstr "請輸入舊密碼"
+
+#~ msgid ""
+#~ "The map is unavailable because you are not connected to the network. You "
+#~ "may enter an address or select one from your contact list."
+#~ msgstr ""
+#~ "由於您沒有連接到網絡上，所以地圖不可用。您可以輸入一個地址或從您的聯繫列表"
+#~ "裡選。"
+
+#~ msgid ""
+#~ "Appigo's registration service appears to be unavailable right now.  "
+#~ "Please try again later."
+#~ msgstr "Appigo 的註冊服務目前不提供使用。請稍後再試。"
+
+#~ msgid "Removing Context: %@"
+#~ msgstr "正在移除上下文：%@"
+
+#~ msgid "Get a haircut"
+#~ msgstr "去理髮"
+
+#~ msgid "Completed tasks:"
+#~ msgstr "已完成的工作："
+
+#~ msgid "Tasks with no due date"
+#~ msgstr "無截止日期的任務："
+
+#~ msgid "Move"
+#~ msgstr "移動"
+
+#~ msgid ""
+#~ "Use this option to copy your notes and notebooks from this collection to "
+#~ "another."
+#~ msgstr "使用該選項將您的備註和記事簿從一個合集拷貝到另一個合集。"
+
+#~ msgid "Todo %@"
+#~ msgstr "Todo %@"
+
+#~ msgid ""
+#~ "The authorization failed but the service was found.  Would you like to re-"
+#~ "authorize your device?"
+#~ msgstr "授權失敗，但服務已找到。您要重新授權您的設備嗎？？"
+
+#~ msgid "Default Due Date"
+#~ msgstr "預設的截止日期"
+
+#~ msgid "~/Dropbox"
+#~ msgstr "~/Dropbox"
+
+#~ msgid "Location Services Disabled"
+#~ msgstr "定位服務未啓用"
+
+#~ msgid "Task alerts are automatically set on tasks with a due time."
+#~ msgstr "工作提醒自動設定在有截止時間的工作上。"
+
+#~ msgid "Shared List"
+#~ msgstr "共用的列表"
+
+#~ msgid "Edit Phone"
+#~ msgstr "編輯電話"
+
+#~ msgid "General"
+#~ msgstr "基本設置"
+
+#~ msgid ""
+#~ "Todo was designed and developed in Utah by Appigo, Inc.  We are focused "
+#~ "on bringing high quality software to the iPhone."
+#~ msgstr ""
+#~ "Todo 由位於美國猶他州的 Appigo, Inc. 設計並研發。我們專注於為 iPhone 開發"
+#~ "高品質的軟體。"
+
+#~ msgid "List name"
+#~ msgstr "清單名稱"
+
+#~ msgid "Binder"
+#~ msgstr "文件夾"
+
+#~ msgid "Repair"
+#~ msgstr "修復"
+
+#~ msgid "1 minute before"
+#~ msgstr "1 分鐘前"
+
+#~ msgid ""
+#~ "Receive emails about product updates to this and other applications "
+#~ "created by Appigo.  Your information will not be given or sold to any "
+#~ "third party."
+#~ msgstr ""
+#~ "接收 Appigo 建立的這項和其它應用程式的產品更新郵件。您的資訊不會被透露或銷"
+#~ "售給任何第三方。"
+
+#~ msgid "Incorrect email or password"
+#~ msgstr "電子郵件或密碼錯誤"
+
+#~ msgid "Online Sync"
+#~ msgstr "線上同步處理"
+
+#~ msgid "No Note"
+#~ msgstr "無備註"
+
+#~ msgid "Registration Complete"
+#~ msgstr "註冊完成"
+
+#~ msgid "Please enter a valid URL"
+#~ msgstr "請輸入有效的 URL"
+
+#~ msgid "List name (Home, Work, Errands, ...)"
+#~ msgstr "列表名稱（家庭、 工作、 差事、... ...)"
+
+#~ msgid "Remove this collection"
+#~ msgstr "移除該合集"
+
+#~ msgid "Create Dropbox Account"
+#~ msgstr "創建Dropbox帳戶"
+
+#~ msgid "Learn more"
+#~ msgstr "瞭解更多內容"
+
+#~ msgid "List Filters"
+#~ msgstr "清單篩選器"
+
+#~ msgid ""
+#~ "If you delete this tag, all tasks associated with this tag will no longer "
+#~ "have this tag assigned."
+#~ msgstr "如果您刪除此標記，所有與此標記相關聯的任務將不再指定此標記。"
+
+#~ msgid "Complete the checklist and all of its tasks?"
+#~ msgstr "完成檢查清單及其所有任務？"
+
+#~ msgid "Alert Sound"
+#~ msgstr "警報聲"
+
+#~ msgid "Move the task out of a project"
+#~ msgstr "將此工作從專案中移除"
+
+#~ msgid "Please enter your email address."
+#~ msgstr "請輸入您的電子郵件位址。"
+
+#~ msgid "Hide Tasks"
+#~ msgstr "隱藏工作"
+
+#~ msgid "1 week"
+#~ msgstr "1 星期"
+
+#~ msgid "Starred tasks"
+#~ msgstr "附有星號標記的工作"
+
+#~ msgid "Delete"
+#~ msgstr "刪除"
+
+#~ msgid "Merge"
+#~ msgstr "合併"
+
+#~ msgid ""
+#~ "Your premium account has expired. Renew your premium account and keep "
+#~ "your tasks up to date anywhere."
+#~ msgstr ""
+#~ "您的免费白金帐号已过期.请更新您的帐号，使您的任务在任何一个地方都处于更新"
+#~ "状态."
+
+#~ msgid "Please try importing the note again."
+#~ msgstr "請嘗試再次匯入該筆記。"
+
+#~ msgid "Add Task Action..."
+#~ msgstr "添加工作動作..."
+
+#~ msgid "Set the task's priority"
+#~ msgstr "設定任務的優先順序"
+
+#~ msgid "Email address"
+#~ msgstr "電子郵件位址"
+
+#~ msgid "East Side Renovation"
+#~ msgstr "東邊翻修"
+
+#~ msgid "Find"
+#~ msgstr "尋找"
+
+#~ msgid "Configured Desktop"
+#~ msgstr "已設定的桌面"
+
+#~ msgid "Include all selected tags (AND)"
+#~ msgstr "包括所有已選擇標記（和）"
+
+#~ msgid "On Mon"
+#~ msgstr "在週一"
+
+#~ msgid "Assignment"
+#~ msgstr "分派"
+
+#~ msgid "Todo Quick Add"
+#~ msgstr "Todo 快速新增"
+
+#~ msgid "Switch Services"
+#~ msgstr "交换服务"
+
+#~ msgid ""
+#~ "Tap the theme action button above to see a list of additional themes "
+#~ "available for purchase and download."
+#~ msgstr "點選上面的主題操作按鈕，可查看可供購買和下載的其他主題清單。"
+
+#~ msgid "Switch to Project"
+#~ msgstr "切換至專案"
+
+#~ msgid "GB"
+#~ msgstr "GB"
+
+#~ msgid "This name is already taken. Please choose a different name."
+#~ msgstr "此名稱已被佔用。請選擇其他名稱。"
+
+#~ msgid "Select List"
+#~ msgstr "選擇清單"
+
+#~ msgid "List Order"
+#~ msgstr "清單順序"
+
+#~ msgid "Synchronization is Disabled"
+#~ msgstr "同步處理已停用"
+
+#~ msgid "Alphabetical"
+#~ msgstr "按字母順序"
+
+#~ msgid "Todo Version:"
+#~ msgstr "Todo 版本："
+
+#~ msgid "Tasks Help"
+#~ msgstr "工作幫助"
+
+#~ msgid "%d years"
+#~ msgstr "%d 年"
+
+#~ msgid "Edit Note"
+#~ msgstr "編輯筆記"
+
+#~ msgid "Updating sharing information..."
+#~ msgstr "更新分享信息..."
+
+#~ msgid "Filter text (DO NOT TRANSLATE)"
+#~ msgstr "Filter text (DO NOT TRANSLATE)"
+
+#~ msgid "Thin"
+#~ msgstr "細體"
+
+#~ msgid "Notes"
+#~ msgstr "備註"
+
+#~ msgid "Context name"
+#~ msgstr "內容名稱"
+
+#~ msgid "Re-enter your new passcode"
+#~ msgstr "請重新輸入新密碼"
+
+#~ msgid "Tap an action to learn how it works."
+#~ msgstr "點擊一項操作，瞭解其如何工作。"
+
+#~ msgid "Move a Note"
+#~ msgstr "移動筆記"
+
+#~ msgid ""
+#~ "Perform Full Sync will send all of the tasks on this device to the Todo "
+#~ "Cloud server. If you already have tasks on the server, this option could "
+#~ "result in duplicated tasks."
+#~ msgstr ""
+#~ "执行全Sync 可以将本装置的所有任务更新到Todo Cloud服务器上。如果您已经有任"
+#~ "务在服务器上，这将造成重复任务。"
+
+#~ msgid "Calendar Events"
+#~ msgstr "日程表事件"
+
+#~ msgid ""
+#~ "Todo Cloud synchronizes your tasks in the background so it's one less "
+#~ "thing to worry about. If you want to force a synchronization, press "
+#~ "Command+S. During a sync, you can view the progress at the bottom left of "
+#~ "the Todo window."
+#~ msgstr ""
+#~ "Todo Cloud在後臺同步您的任務，因此， 它減少了您擔心的事情。如果您想強制進"
+#~ "行同步，按下 Command+S。在同步期間，您可以在Todo視窗的左下方查看進度。"
+
+#~ msgid "Migrate Notebook Data"
+#~ msgstr "轉移記事簿數據"
+
+#~ msgid "Tasks Reset"
+#~ msgstr "任务重启"
+
+#~ msgid "Passcode is incorrect."
+#~ msgstr "密碼錯誤。"
+
+#~ msgid "Updating Context: %@"
+#~ msgstr "正在更新上下文：%@"
+
+#~ msgid "url"
+#~ msgstr "url"
+
+#~ msgid "Rename a Notebook"
+#~ msgstr "重命名記事本"
+
+#~ msgid "New Window"
+#~ msgstr "新建視窗"
+
+#~ msgid "Add a Task"
+#~ msgstr "新增一個任務"
+
+#~ msgid "Subscription:"
+#~ msgstr "訂閱"
+
+#~ msgid "Numbers"
+#~ msgstr "數字"
+
+#~ msgid "Check for Updates..."
+#~ msgstr "檢查更新..."
+
+#~ msgid "Could not move to Applications folder"
+#~ msgstr "無法移至應用程式資料夾"
+
+#~ msgid "Next Thu"
+#~ msgstr "下週四"
+
+#~ msgid "Dropbox Not Available"
+#~ msgstr "Dropbox 無法使用"
+
+#~ msgid ""
+#~ "AccuFuel™ for iPhone and iPod touch makes monitoring your vehicle's fuel "
+#~ "efficiency simple and fun."
+#~ msgstr ""
+#~ "適用 iPhone 和 iPod touch 的 AccuFuel™ 令監控自己汽車燃油效率這一工作變得"
+#~ "簡單而且有趣。"
+
+#~ msgid "Add"
+#~ msgstr "增加"
+
+#~ msgid "Feature not Supported"
+#~ msgstr "不支持该特点"
+
+#~ msgid "Tap to create a new note"
+#~ msgstr "點擊創建新備註"
+
+#~ msgid "This Toodledo collection will only be removed from this device"
+#~ msgstr "該Toodledo合集僅能從此設備上移除"
+
+#~ msgid "This will keep your Downloads folder uncluttered."
+#~ msgstr "這將讓您的下載資料夾保持整齊有序。"
+
+#~ msgid "Shift + "
+#~ msgstr "切換 + "
+
+#~ msgid "Repeat"
+#~ msgstr "重複"
+
+#~ msgid "Cannot access your contacts"
+#~ msgstr "無法訪問您的通訊錄"
+
+#~ msgid "Next Fri"
+#~ msgstr "下週五"
+
+#~ msgid ""
+#~ "This device does not support location region monitoring, which is "
+#~ "required for location-based alerts."
+#~ msgstr "此設備不支持基於當地的通知所需的地點區域監測。"
+
+#~ msgid "Do Not Hide"
+#~ msgstr "不要隱藏"
+
+#~ msgid "1 task selected"
+#~ msgstr "已選擇 1 個任務"
+
+#~ msgid "1 Comment"
+#~ msgstr "1 评论"
+
+#~ msgid "Location information can be used in Todo for location-based alerts."
+#~ msgstr "地點訊息會被Todo用來發送基於當地的通知"
+
+#~ msgid "Custom"
+#~ msgstr "自訂"
+
+#~ msgid "  Validating..."
+#~ msgstr "  驗證中..."
+
+#~ msgid "Tag"
+#~ msgstr "標記"
+
+#~ msgid "Error: Check settings"
+#~ msgstr "錯誤：請檢查設定"
+
+#~ msgid "Next Seven Days"
+#~ msgstr "未來七天內"
+
+#~ msgid "Sync Complete"
+#~ msgstr "同步處理完成"
+
+#~ msgid "In %d days"
+#~ msgstr "在%d 天內"
+
+#~ msgid "Notebook Sync Error"
+#~ msgstr "Notebook同步出錯"
+
+#~ msgid "Online Sync Service Description Placeholder (DO NOT TRANSLATE)"
+#~ msgstr "Online Sync Service Description Placeholder (DO NOT TRANSLATE)"
+
+#~ msgid "Enter Address"
+#~ msgstr "輸入地址"
+
+#~ msgid "Learn about Todo"
+#~ msgstr "瞭解 Todo"
+
+#~ msgid "Color dates on overdue tasks"
+#~ msgstr "逾期任務以彩色顯示日期"
+
+#~ msgid "Done Updating"
+#~ msgstr "完成升级"
+
+#~ msgid ""
+#~ "%@ %@ is now available--you have %@. Would you like to download it now?"
+#~ msgstr "%1$@ %2$@ 現在可用—您有 %3$@. 您要現在下載它嗎？"
+
+#~ msgid "Use old shortcut"
+#~ msgstr "使用舊的捷徑"
+
+#~ msgid "Alert Details"
+#~ msgstr "提示詳細信息"
+
+#~ msgid "Sunday"
+#~ msgstr "星期日"
+
+#~ msgid "Change"
+#~ msgstr "改變"
+
+#~ msgid "Passcode (not set)"
+#~ msgstr "密碼 (未設置)"
+
+#~ msgid "Confirm Password:"
+#~ msgstr "確認密碼："
+
+#~ msgid "Visit %@"
+#~ msgstr "訪問%@"
+
+#~ msgid ""
+#~ "Renew your Todo Cloud Premium Account for access to these great features:"
+#~ msgstr "更新您的Todo Cloud 白金帐户以获得这些卓越的特点:"
+
+#~ msgid "Loading members..."
+#~ msgstr "正在載入會員..."
+
+#~ msgid "Verification Code"
+#~ msgstr "驗證碼"
+
+#~ msgid "< Checklist"
+#~ msgstr "<檢查清單"
+
+#~ msgid "All tasks in the list will be removed from your device."
+#~ msgstr "此列表中的所有任务将从您的装置中清除."
+
+#~ msgid "Due Date, Priority"
+#~ msgstr "截止日期，優先順序"
+
+#~ msgid "Continue without importing tasks"
+#~ msgstr "不導入任務便繼續"
+
+#~ msgid ""
+#~ "When creating tasks, Todo evaluates the task name and automatically "
+#~ "assigns the properties you specify. Learn more by visiting our Help "
+#~ "Center."
+#~ msgstr ""
+#~ "當創建任務時， Todo 驗證了任務的名字並自動安排您指定的屬性。通過訪問我們的"
+#~ "説明中心瞭解更多內容。"
+
+#~ msgid "Rotation Lock"
+#~ msgstr "旋轉鎖"
+
+#~ msgid "1st"
+#~ msgstr "第一個"
+
+#~ msgid "Days: %d"
+#~ msgstr "天數： %d"
+
+#~ msgid "%d filtered"
+#~ msgstr "%d 已過濾"
+
+#~ msgid "No Context"
+#~ msgstr "沒有內容"
+
+#~ msgid ""
+#~ "Dropbox is a third party online service that provides file "
+#~ "synchronization and backup services. Use your Dropbox account to "
+#~ "synchronize your Todo tasks."
+#~ msgstr ""
+#~ "Dropbox是第三方在线服务，提供文件同步和备份服务。使用你的Dropbox帐户同步你"
+#~ "的Todo任务。"
+
+#~ msgid "High"
+#~ msgstr "高"
+
+#~ msgid "Choose office paint color"
+#~ msgstr "請選擇辦公室的油漆色彩"
+
+#~ msgid "johnny@example.com"
+#~ msgstr "johnny@example.com"
+
+#~ msgid "Help & Documentation"
+#~ msgstr "說明和文件"
+
+#~ msgid ""
+#~ "While viewing a note, tap the organize button at the bottom-left of the "
+#~ "screen and select a notebook for the note.  The note is moved immediately "
+#~ "after you select the new notebook."
+#~ msgstr ""
+#~ "查看筆記時，點選螢幕左下角的“分類”按鈕，並選擇一個合適的記事本，即可將這條"
+#~ "筆記移動至選定的記事本。"
+
+#~ msgid "Bracket"
+#~ msgstr "托架"
+
+#~ msgid "Contact"
+#~ msgstr "聯係人"
+
+#~ msgid "Bold Oblique"
+#~ msgstr "加粗 斜體"
+
+#~ msgid "Information"
+#~ msgstr "資訊"
+
+#~ msgid "Subtask Due Date"
+#~ msgstr "子任務到期日期"
+
+#~ msgid "Starred"
+#~ msgstr "帶星號的"
+
+#~ msgid "Error updating sharing."
+#~ msgstr "分享更新错误."
+
+#~ msgid "Custom Alert"
+#~ msgstr "定製提示"
+
+#~ msgid "Username is already in use, choose another"
+#~ msgstr "此用户名已被使用，请换一个"
+
+#~ msgid "5th"
+#~ msgstr "第五個"
+
+#~ msgid "Select Priority"
+#~ msgstr "選擇優先順序"
+
+#~ msgid "Link"
+#~ msgstr "連結"
+
+#~ msgid "Launch at startup"
+#~ msgstr "開機時啟動"
+
+#~ msgid "Experience hands free task entry even when commuting."
+#~ msgstr "即使在交换的时候，经验可以帮你获得免费任务."
+
+#~ msgid "Import this task?"
+#~ msgstr "要匯入該工作嗎？"
+
+#~ msgid "Alert Defaults"
+#~ msgstr "提醒預設"
+
+#~ msgid "Shapes"
+#~ msgstr "形狀"
+
+#~ msgid "Task Filter"
+#~ msgstr "工作篩選器"
+
+#~ msgid "Zoom"
+#~ msgstr "縮放"
+
+#~ msgid "Synchronize with Todo Cloud to view the members of this list"
+#~ msgstr "与 Todo Cloud保持同步，以便浏览此列表的成员"
+
+#~ msgid "Next Week"
+#~ msgstr "下星期"
+
+#~ msgid "Updating Invitation"
+#~ msgstr "更新邀请"
+
+#~ msgid "Show"
+#~ msgstr "顯示"
+
+#~ msgid "Remove collection?"
+#~ msgstr "移除合集?"
+
+#~ msgid "No subtasks"
+#~ msgstr "無子工作"
+
+#~ msgid "Brush Green"
+#~ msgstr "刷上綠色"
+
+#~ msgid "%1.1f MB"
+#~ msgstr "%1.1f MB"
+
+#~ msgid ""
+#~ "Adjust your device's restriction settings (In-App Purchases) to enable "
+#~ "purchasing a subscription."
+#~ msgstr "調整裝置的限制設定（In-App Purchases），以啟用購買訂閱服務。"
+
+#~ msgid "%d hours before"
+#~ msgstr "%d 小時前"
+
+#~ msgid "No Filter"
+#~ msgstr "沒有篩選器"
+
+#~ msgid "Random"
+#~ msgstr "隨機"
+
+#~ msgid "A theme you purchased is now available in Settings > Theme."
+#~ msgstr "您購買的主題現在可在｢設定 > 主題｣中選擇。"
+
+#~ msgid "Icon..."
+#~ msgstr "圖示..."
+
+#~ msgid "%d tasks"
+#~ msgstr "%d工作"
+
+#~ msgid "Error, check diagnostic log."
+#~ msgstr "錯誤，請檢查診斷記錄。"
+
+#~ msgid ""
+#~ "Congratulations! You're on the road to greater effectiveness by letting "
+#~ "Todo track your tasks. Maybe your mind feels clearer already."
+#~ msgstr ""
+#~ "恭喜您！通過讓Todo跟蹤您的任務，逐漸為您帶來更高的效率。也許您的頭腦感覺更"
+#~ "清晰了。"
+
+#~ msgid "Alerts"
+#~ msgstr "提醒"
+
+#~ msgid ""
+#~ "You can restore your documents by adding an iCloud account in Settings."
+#~ msgstr "您可以在設置中添加iCloud賬戶以儲存您的文件。"
+
+#~ msgid "No Tag"
+#~ msgstr "沒有標籤"
+
+#~ msgid "home"
+#~ msgstr "住家"
+
+#~ msgid "Please enter your last name."
+#~ msgstr "請輸入您的姓氏"
+
+#~ msgid "Shows additional properties to set on a new task."
+#~ msgstr "選擇其他屬性來建立新工作。"
+
+#~ msgid "Hide"
+#~ msgstr "隱藏"
+
+#~ msgid "This Wednesday"
+#~ msgstr "星期三"
+
+#~ msgid "Sorry, we couldn't load the list members at this time."
+#~ msgstr "对不起，我们此时无法加载列表成员。"
+
+#~ msgid "Delete Unavailable"
+#~ msgstr "无法删除"
+
+#~ msgid "SMS a Contact"
+#~ msgstr "SMS 一名聯絡人"
+
+#~ msgid "all"
+#~ msgstr "全部"
+
+#~ msgid "Quit"
+#~ msgstr "退出"
+
+#~ msgid "Enable and Synchronize"
+#~ msgstr "啟用並同步處理"
+
+#~ msgid "Convert to Checklist"
+#~ msgstr "轉換為核對清單"
+
+#~ msgid "Processor Type:"
+#~ msgstr "處理器類型："
+
+#~ msgid "Unnamed"
+#~ msgstr "未命名"
+
+#~ msgid "Condensed Extra Bold"
+#~ msgstr "壓縮極粗體"
+
+#~ msgid "Remarkable Applications"
+#~ msgstr "製作精良的應用程式"
+
+#~ msgid "No active tasks were found that match the name you specified."
+#~ msgstr "未找到符合您所指定名稱的活動任務。"
+
+#~ msgid "Play"
+#~ msgstr "播放"
+
+#~ msgid "Add Comment Failed"
+#~ msgstr "增加评论失败"
+
+#~ msgid "Next week"
+#~ msgstr "下周"
+
+#~ msgid "%d bracket styles"
+#~ msgstr "%d 托架風格"
+
+#~ msgid "1 day"
+#~ msgstr "1 天"
+
+#~ msgid "Sync Postponed"
+#~ msgstr "同步處理延遲"
+
+#~ msgid "CONTEXTS"
+#~ msgstr "內容"
+
+#~ msgid "Reset Password"
+#~ msgstr "重設密碼"
+
+#~ msgid "Manage notification settings for future lists you create or join."
+#~ msgstr "管理你創建或加入的未來列表的通知設定."
+
+#~ msgid "Buy Now"
+#~ msgstr "現在購買"
+
+#~ msgid ""
+#~ "Synchronize tasks with a new device by clicking the add button below."
+#~ msgstr "請點擊下面的按鈕與新的裝置同步任務。"
+
+#~ msgid ""
+#~ "You have already installed this app on multiple computers and have "
+#~ "reached the allowed limit."
+#~ msgstr "您已經在多台計算機上安裝了此應用程式，並已達到允許的上限。"
+
+#~ msgid "4th"
+#~ msgstr "第四個"
+
+#~ msgid "New"
+#~ msgstr "新建"
+
+#~ msgid "Radio"
+#~ msgstr "收音機"
+
+#~ msgid "Your subscription expired on:"
+#~ msgstr "您的訂閱已在以下日期到期："
+
+#~ msgid ""
+#~ "Registration requires a working network connection.  Please try again "
+#~ "later"
+#~ msgstr "註冊需要可用的網路連接。請稍後重試"
+
+#~ msgid "Strikeout Style"
+#~ msgstr "刪除線樣式"
+
+#~ msgid "System Information"
+#~ msgstr "系統資訊"
+
+#~ msgid "Are you sure you want to delete this announcement?"
+#~ msgstr "你確定你要刪除這個公告嗎?"
+
+#~ msgid "Data"
+#~ msgstr "資料"
+
+#~ msgid "Make your projects powerful with an additional level of tasks."
+#~ msgstr "使您的项目能承受额外的任务."
+
+#~ msgid ""
+#~ "Adjust your device's restriction settings (In-App Purchases) to enable "
+#~ "purchasing a premium account."
+#~ msgstr "调整装置的限制设置 (内购买) 保证购买保险账户."
+
+#~ msgid "Notebook for iOS gives you access to your notes anywhere."
+#~ msgstr "iOS记事本能让你随地查阅您的笔记。"
+
+#~ msgid ""
+#~ "If you already have tasks on the server, this could result in duplicated "
+#~ "tasks."
+#~ msgstr "如果您在浏览器上已经有任务，这可能造成任务重复."
+
+#~ msgid "Hide Toolbar"
+#~ msgstr "隱藏工具欄"
+
+#~ msgid "Set the task's context"
+#~ msgstr "設定任務的背景"
+
+#~ msgid "Delete Note"
+#~ msgstr "刪除筆記"
+
+#~ msgid "Future"
+#~ msgstr "未來"
+
+#~ msgid "Updating Checklist Subtasks..."
+#~ msgstr "更新核对列表子任务..."
+
+#~ msgid "Date: %@"
+#~ msgstr "日期：%@"
+
+#~ msgid "Existing Contact"
+#~ msgstr "已存在的聯絡人"
+
+#~ msgid "Set Passcode"
+#~ msgstr "設置密碼"
+
+#~ msgid ""
+#~ "This option combines notes on your device with notes from %@. You may see "
+#~ "duplicate notes if you do not clear all notes from %@ before selecting "
+#~ "this option."
+#~ msgstr ""
+#~ "該選項將把您設備上的備註輿%1$@上的備註合併。如果您在進行此操作前，未能刪"
+#~ "除%2$@上的備註，將可能導致重複。"
+
+#~ msgid "Updating Subtasks..."
+#~ msgstr "正在升级子任务..."
+
+#~ msgid "Total"
+#~ msgstr "總計"
+
+#~ msgid "New Collection..."
+#~ msgstr "新合集..."
+
+#~ msgid "Shows tasks from all of your personal to-do lists."
+#~ msgstr "從您的全部待完成清單中顯示工作。"
+
+#~ msgid "Not authorized - check settings"
+#~ msgstr "未授權 - 請檢查設定"
+
+#~ msgid ""
+#~ "Data detection automatically identifies phone numbers, websites, email "
+#~ "addresses, and calendar events."
+#~ msgstr "自動數據檢測可查找出電話號碼、網站、電子郵件地址和備忘錄事件。"
+
+#~ msgid "Connect"
+#~ msgstr "連接"
+
+#~ msgid "Processing %d of %d"
+#~ msgstr "正在處理 %2$d 中的 %1$d"
+
+#~ msgid "(Only if your expiration date doesn't seem accurate)"
+#~ msgstr "(只有在您的截止日期似乎不太準確的時候)"
+
+#~ msgid "verify password"
+#~ msgstr "驗證密碼"
+
+#~ msgid "Snake Blue"
+#~ msgstr "蛇藍"
+
+#~ msgid "Preferences..."
+#~ msgstr "喜好設定..."
+
+#~ msgid "Most Popular"
+#~ msgstr "最受歡迎的"
+
+#~ msgid "Shows tasks that are not assigned to any of your other lists."
+#~ msgstr "顯示未分配至您的任何其它清單中的任務。"
+
+#~ msgid "Notify"
+#~ msgstr "通知"
+
+#~ msgid "Reveals more options such as task filters and search."
+#~ msgstr "顯示更多選項，如工作篩選器和搜索。"
+
+#~ msgid "Display Name"
+#~ msgstr "顯示名稱"
+
+#~ msgid "1 Line"
+#~ msgstr "1 行"
+
+#~ msgid "Inform me of Appigo product updates and announcements"
+#~ msgstr "有 Appigo 產品更新和發佈時通知我"
+
+#~ msgid "Learn about Todo Cloud"
+#~ msgstr "了解關於Todo Cloud的信息"
+
+#~ msgid "Alert Sound:"
+#~ msgstr "警報聲："
+
+#~ msgid "Tags: %@"
+#~ msgstr "標記：%@"
+
+#~ msgid "TextExpander®"
+#~ msgstr "TextExpander®"
+
+#~ msgid "Move out of Checklist"
+#~ msgstr "從清單中刪除"
+
+#~ msgid "Apply"
+#~ msgstr "應用"
+
+#~ msgid "New to Dropbox? Create an account"
+#~ msgstr "剛開始使用Dropbox嗎？創建一個帳戶"
+
+#~ msgid "Sorting"
+#~ msgstr "排序"
+
+#~ msgid ""
+#~ "Shows and hides the calendar view. Select calendar days to only show "
+#~ "tasks due on the days you select."
+#~ msgstr "顯示與隱藏行事曆視圖。選擇僅顯示在您所選日期到期工作的行事曆日期。"
+
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgid "main"
+#~ msgstr "主要"
+
+#~ msgid "LISTS"
+#~ msgstr "清單"
+
+#~ msgid "Crayon Green"
+#~ msgstr "蠟筆綠"
+
+#~ msgid "Sync Cancelled"
+#~ msgstr "同步取消"
+
+#~ msgid "Edit Notebook"
+#~ msgstr "編輯記事本"
+
+#~ msgid "How much time to place between tasks"
+#~ msgstr "工作之間應間隔多少時間"
+
+#~ msgid "Verify Email Address"
+#~ msgstr "驗證電子郵件位址"
+
+#~ msgid "Squiggle Red"
+#~ msgstr "波浪紅"
+
+#~ msgid "Enter your contact information."
+#~ msgstr "請輸入您的聯絡資料。"
+
+#~ msgid "Rate %@"
+#~ msgstr "給%@評分"
+
+#~ msgid ""
+#~ "This shopping list is an example of how you might use Todo to keep a "
+#~ "simple checklist."
+#~ msgstr "這個購物清單是如何使用 Todo 來保存簡單的檢查清單的範例。"
+
+#~ msgid "Edit Date"
+#~ msgstr "編輯日期"
+
+#~ msgid "FullDueTime"
+#~ msgstr "截止時間"
+
+#~ msgid "Write a comment..."
+#~ msgstr "寫一條評論..."
+
+#~ msgid "Marker Blue & Pink"
+#~ msgstr "鉛字筆藍和粉紅"
+
+#~ msgid "Decline"
+#~ msgstr "拒絕"
+
+#~ msgid "Set the due date to today"
+#~ msgstr "設定到期日為今天"
+
+#~ msgid "Member: %@"
+#~ msgstr "成员: %@"
+
+#~ msgid "Every %d Days"
+#~ msgstr "每 %d 天"
+
+#~ msgid "Error Sending Email"
+#~ msgstr "錯誤發送電子郵件"
+
+#~ msgid "Dates: Multiple"
+#~ msgstr "日期：多個"
+
+#~ msgid "Sorry, we couldn't update the role of that member at this time."
+#~ msgstr "对不起，我们无法此时更新改成员的角色."
+
+#~ msgid "The last %@ of each month"
+#~ msgstr "每月的最後一個%@"
+
+#~ msgid "Invalid Address"
+#~ msgstr "無效地址"
+
+#~ msgid "Todo User License Expired"
+#~ msgstr "Todo用戶授權已到期 "
+
+#~ msgid "Premium Account Expiring Soon"
+#~ msgstr "白金账号即将过期"
+
+#~ msgid "Due date"
+#~ msgstr "到期日"
+
+#~ msgid "When I Arrive"
+#~ msgstr "到達時"
+
+#~ msgid "Remind me later"
+#~ msgstr "稍後提醒我"
+
+#~ msgid "Member Filter"
+#~ msgstr "成员过滤器"
+
+#~ msgid "Visit Appigo on Facebook"
+#~ msgstr "瀏覽 Facebook 上的 Appigo"
+
+#~ msgid "Assign a shared task"
+#~ msgstr "分配一個已共用的任務"
+
+#~ msgid "Updating subtasks"
+#~ msgstr "正在更新子任務"
+
+#~ msgid "1 divider style"
+#~ msgstr "1 分類卡風格"
+
+#~ msgid "2 hours before"
+#~ msgstr "兩小時前"
+
+#~ msgid "Tap here to create a personalized list to organize your tasks."
+#~ msgstr "點擊這里創建一份個性化清單用於整理您的任務。"
+
+#~ msgid "No Tags"
+#~ msgstr "沒有標籤"
+
+#~ msgid "This copy of Todo belongs to"
+#~ msgstr "此版本 Todo 屬於"
+
+#~ msgid "Do you want to remove the action from this task?"
+#~ msgstr "想要從此項工作中移除此動作嗎？"
+
+#~ msgid "Text Cell"
+#~ msgstr "文字儲存格"
+
+#~ msgid ""
+#~ "Select lists to determine which tasks will appear in your Focus List."
+#~ msgstr "選擇清單以確定哪些任務會出現在您的“關注清單”中。"
+
+#~ msgid "New..."
+#~ msgstr "新建..."
+
+#~ msgid "Divider"
+#~ msgstr "分類卡"
+
+#~ msgid "In 1 month"
+#~ msgstr "在 1 月內"
+
+#~ msgid "Add a Project Task"
+#~ msgstr "新增一個項目任務"
+
+#~ msgid ""
+#~ "Toodledo is a third party online task management service and provides "
+#~ "support for projects and checklists with a pro account."
+#~ msgstr ""
+#~ "Toodledo 是一個第三方線上任務管理服務，為專案與核對清單提供專業使用者的支"
+#~ "持。"
+
+#~ msgid "ERASE WARNING"
+#~ msgstr "刪除警告"
+
+#~ msgid ""
+#~ "If you delete this context, all tasks associated with the context will no "
+#~ "longer have a context."
+#~ msgstr "若您刪除此環境，與其相關的所有任務將不再具有環境。"
+
+#~ msgid ""
+#~ "Turn this setting on to limit notifications to tasks assigned to you."
+#~ msgstr "打開此設定，以限制分配給你的任務通知."
+
+#~ msgid "Settings"
+#~ msgstr "設定"
+
+#~ msgid "DOWNLOAD"
+#~ msgstr "下載"
+
+#~ msgid ""
+#~ "An error occurred while installing the update. Please try again later."
+#~ msgstr "安裝更新時發生了一個錯誤，請稍候重試一次。"
+
+#~ msgid "On My iPad"
+#~ msgstr "在我的iPad上"
+
+#~ msgid "Enter your new account information."
+#~ msgstr "請輸入新的帳戶資訊。"
+
+#~ msgid "1 paper style"
+#~ msgstr "1 個紙張風格"
+
+#~ msgid "Third Party Services"
+#~ msgstr "第三方服务"
+
+#~ msgid "Cancel Update"
+#~ msgstr "取消更新"
+
+#~ msgid ""
+#~ "Connection information for your current synchronization service will be "
+#~ "cleared."
+#~ msgstr "您目前的同步處理服務之連線資訊即將清除。"
+
+#~ msgid "Header"
+#~ msgstr "標頭"
+
+#~ msgid "Edit"
+#~ msgstr "編輯"
+
+#~ msgid "Task Created"
+#~ msgstr "任務已建立"
+
+#~ msgid "Enter your password for %@ to continue task sync."
+#~ msgstr "輸入您的％@密碼以繼續任務同步"
+
+#~ msgid "Purchase Todo for iPad?"
+#~ msgstr "要購買適用 iPad 的 Todo 嗎？"
+
+#~ msgid "Sending deleted tasks to device"
+#~ msgstr "正在傳送已刪除任務到裝置"
+
+#~ msgid "Next Sunday"
+#~ msgstr "下個星期天"
+
+#~ msgid "Please enter your first name."
+#~ msgstr "請輸入您的名字。"
+
+#~ msgid "Never"
+#~ msgstr "決不"
+
+#~ msgid "Type shortcut"
+#~ msgstr "輸入捷徑"
+
+#~ msgid "Task Zoom"
+#~ msgstr "任務縮放"
+
+#~ msgid "No Start Date"
+#~ msgstr "無開始日期"
+
+#~ msgid "Customize Toolbar..."
+#~ msgstr "自訂工具列"
+
+#~ msgid "Purchase Error"
+#~ msgstr "購買錯誤"
+
+#~ msgid "Hide tasks that start after:"
+#~ msgstr "隱藏結束後開始的任務:"
+
+#~ msgid "Purchase Todo?"
+#~ msgstr "要購買 Todo 嗎？"
+
+#~ msgid ""
+#~ "After synchronizing, the synchronization status bar will automatically "
+#~ "hide itself.\n"
+#~ "\n"
+#~ "To view the status bar again, press and hold the synchronization button"
+#~ msgstr ""
+#~ "同步處理後，同步處理狀態列會自動隱藏。\n"
+#~ "\n"
+#~ "如果要再次檢視該狀態列，請按住「同步處理」按鈕。"
+
+#~ msgid "Task"
+#~ msgstr "任務"
+
+#~ msgid ""
+#~ "iCloud is not supported on this version of Mac OS X. Please upgrade to "
+#~ "use iCloud."
+#~ msgstr "iCloud 不支援這個版本的 Mac OS X 系統。請升級後再使用 iCloud。"
+
+#~ msgid "Select Folder..."
+#~ msgstr "Select Folder..."
+
+#~ msgid "Waiting for connection..."
+#~ msgstr "等候連接..."
+
+#~ msgid ""
+#~ "Dropbox failed to create the folder due to an invalid name.  Choose "
+#~ "another name to continue."
+#~ msgstr "由於無效名稱Dropbox新增檔案夾失敗。請選擇另一名稱繼續操作"
+
+#~ msgid ""
+#~ "Dropbox is a free service that lets you bring all your photos, docs, and "
+#~ "videos anywhere, and share them easily. Use your Dropbox account to "
+#~ "synchronize your Todo tasks."
+#~ msgstr ""
+#~ "Dropbox是一個讓您隨身攜帶所有的照片、文檔、和視頻到任何地方，並且很容易分"
+#~ "享他們的免費服務。使用您的Dropbox帳戶並同您的TODO任務同步。"
+
+#~ msgid "Appigo Todo: %@"
+#~ msgstr "Appigo Todo: %@"
+
+#~ msgid ""
+#~ "Replace tasks and lists on this device with tasks from the select task "
+#~ "database?"
+#~ msgstr "利用所選擇任務資料庫中的任務替換此設備上的任務和清單？"
+
+#~ msgid "task alerts"
+#~ msgstr "任務提醒"
+
+#~ msgid ""
+#~ "Your trial Todo Cloud premium account will expire soon (%@). Upgrade your "
+#~ "premium account and avoid any further interruptions."
+#~ msgstr ""
+#~ "您试用的Todo Cloud 的白金账户即将过期(%@)。更新您的白金帐户以避免进一步中"
+#~ "断。"
+
+#~ msgid "Visit a Location"
+#~ msgstr "蒞臨某地"
+
+#~ msgid "You've removed the iCloud account from this device."
+#~ msgstr "您已經從該設備上移除iCloud賬戶。"
+
+#~ msgid ""
+#~ "The address for this task is invalid. Please select a different address."
+#~ msgstr "此地址對該任務無效，請選另一個地址。"
+
+#~ msgid "Do NOT Include Tasks"
+#~ msgstr "不要納入任務"
+
+#~ msgid "Todo Help"
+#~ msgstr "Todo 說明"
+
+#~ msgid "New List..."
+#~ msgstr "新建清單..."
+
+#~ msgid "Set Date"
+#~ msgstr "設定日期"
+
+#~ msgid "Start Date"
+#~ msgstr "開始日期"
+
+#~ msgid "Your Contacts"
+#~ msgstr "您的通訊錄"
+
+#~ msgid "%{value1}@ %{value2}@"
+#~ msgstr "%{value1}@ %{value2}@"
+
+#~ msgid "Toodledo Account"
+#~ msgstr "Toodledo 帳戶"
+
+#~ msgid "John"
+#~ msgstr "John"
+
+#~ msgid "OS Version:"
+#~ msgstr "操作系統版本："
+
+#~ msgid "Select a notebook to import \"%@\""
+#~ msgstr "選擇要導入的記事簿\"%@\""
+
+#~ msgid "Friday"
+#~ msgstr "星期五"
+
+#~ msgid "White"
+#~ msgstr "白色"
+
+#~ msgid "Replace or merge Todo's tasks on your device with Todo tasks in %@."
+#~ msgstr "用 %@ 中的 Todo 工作取代或合併您裝置中的 Todo 工作。"
+
+#~ msgid "Welcome to Todo Cloud"
+#~ msgstr "歡迎使用 Todo Cloud"
+
+#~ msgid "checklist"
+#~ msgstr "檢查清單"
+
+#~ msgid "Repeat Every Day"
+#~ msgstr "每天重複"
+
+#~ msgid "Repeat:"
+#~ msgstr "重複："
+
+#~ msgid "Todo is using iCloud."
+#~ msgstr "Todo 正在使用 iCloud。"
+
+#~ msgid "Tap to add a note..."
+#~ msgstr "按一下新增一條注釋..."
+
+#~ msgid "5 minutes before"
+#~ msgstr "五分鐘前"
+
+#~ msgid "Please select a due date before selecting a due time."
+#~ msgstr "請在選擇截止時間前先選擇截止日期。"
+
+#~ msgid "Register"
+#~ msgstr "註冊"
+
+#~ msgid "Filter Options"
+#~ msgstr "篩選器選項"
+
+#~ msgid "Filters tasks by assigned list member."
+#~ msgstr "按指定列表成員篩選工作。"
+
+#~ msgid "Move to Checklist"
+#~ msgstr "移動至檢查清單"
+
+#~ msgid ""
+#~ "Notebook was designed and developed in Utah by Appigo, Inc.  We are "
+#~ "focused on bringing high quality software to the iPhone."
+#~ msgstr ""
+#~ "Notebook 由位於美國猶他州的 Appigo, Inc. 設計並研發。我們專注于為 iPhone "
+#~ "開發高品質的軟體。"
+
+#~ msgid "30 minutes before"
+#~ msgstr "三十分鐘前"
+
+#~ msgid "Updating..."
+#~ msgstr "更新..."
+
+#~ msgid ""
+#~ "You are a member of: %@. Contact %@ (%@) for more information about your "
+#~ "account."
+#~ msgstr "您是一名 %1$@會員。聯繫 %2$@ (%3$@) 獲取更多關於您的帳戶的信息。"
+
+#~ msgid "Share"
+#~ msgstr "分享"
+
+#~ msgid "Due"
+#~ msgstr "截止"
+
+#~ msgid "More Themes"
+#~ msgstr "更多主題"
+
+#~ msgid "The 2nd %@ of each month"
+#~ msgstr "每月的第二個%@"
+
+#~ msgid "Repeat from Due Date"
+#~ msgstr "從到期日期開始重複"
+
+#~ msgid "In Six Days"
+#~ msgstr "六天後"
+
+#~ msgid "List Not Found"
+#~ msgstr "列表未找到"
+
+#~ msgid "Username and password do not match"
+#~ msgstr "使用者名稱與密碼不相符"
+
+#~ msgid ""
+#~ "If the Appigo Support team has requested a copy of your task data and you "
+#~ "agree to our Privacy Policy (http://www.appigo.com/company/privacy), "
+#~ "please tap the \"Include Tasks\" button."
+#~ msgstr ""
+#~ "如果Appigo支持團隊要求一份您的任務數據的副本，而且您同意我們的隱私政策的話"
+#~ "(http://www.appigo.com/company/privacy)，請按\"納入任務\"按鈕。 "
+
+#~ msgid "Due Date"
+#~ msgstr "截止日期"
+
+#~ msgid "Synchronization Interrupted"
+#~ msgstr "同步處理中斷"
+
+#~ msgid "Street address/GPS Location"
+#~ msgstr "街道地址/GPS 定位"
+
+#~ msgid "announcement emails"
+#~ msgstr "通知郵件"
+
+#~ msgid "Checklist"
+#~ msgstr "檢查清單"
+
+#~ msgid "Current Location"
+#~ msgstr "目前的位置"
+
+#~ msgid "Light Oblique"
+#~ msgstr "細體斜體"
+
+#~ msgid "Tasks are updated at lightning speed to each of your devices."
+#~ msgstr "任务正在以闪电般速度更新到您的每一个装置上.."
+
+#~ msgid "Are you sure you want to delete the Context \"%@\"?"
+#~ msgstr "您確定要刪除 \"%@\" 上下文嗎？"
+
+#~ msgid "Show:"
+#~ msgstr "顯示："
+
+#~ msgid "New password"
+#~ msgstr "新密碼"
+
+#~ msgid "Login Failed"
+#~ msgstr "登入失敗"
+
+#~ msgid "List Info"
+#~ msgstr "清單信息"
+
+#~ msgid "Priority Theme"
+#~ msgstr "優先順序主題"
+
+#~ msgid "Task Creation"
+#~ msgstr "創建任務"
+
+#~ msgid "An error occurred creating this folder."
+#~ msgstr "新增檔案夾時發生錯誤"
+
+#~ msgid ""
+#~ "Tasks on this device have been replaced with the tasks from the task "
+#~ "database file you selected."
+#~ msgstr "此設備上的任務已經替換為您所選則的任務資料庫檔中的任務。"
+
+#~ msgid "Sign up for Todo Cloud"
+#~ msgstr "註冊 Todo Cloud"
+
+#~ msgid "Todo for Mac not found"
+#~ msgstr "Mac版Todo 未找到"
+
+#~ msgid ""
+#~ "Unable to read the email notification settings for this list. Please "
+#~ "check your Internet connection and try again later."
+#~ msgstr "無法閱讀該清單的郵件通知設置。請檢查您的網絡連接并稍後重試。"
+
+#~ msgid "None"
+#~ msgstr "無"
+
+#~ msgid ""
+#~ "Allows you to work on multiple tasks at the same time or manually re-"
+#~ "order your tasks."
+#~ msgstr "允許您同時執行多項工作或者手動重新排序您的工作。"
+
+#~ msgid ""
+#~ "Shows all help tips specific to task lists.\n"
+#~ "\n"
+#~ "You can also press and hold certain buttons in Todo and get instant help "
+#~ "about what the button will do."
+#~ msgstr ""
+#~ "顯示有關工作清單的全部説明提示。\n"
+#~ "\n"
+#~ "您還可以在Todo中按下特定按鈕並停留來獲取關於此按鈕的即時説明。"
+
+#~ msgid "Star/Unstar task"
+#~ msgstr "對任務標注星號/取消標注星號"
+
+#~ msgid "Move this row to create spaces between your lists."
+#~ msgstr "移動此列為您的列表間建立空間。"
+
+#~ msgid "Create every"
+#~ msgstr "建立每個"
+
+#~ msgid "Appigo Sync with iCal"
+#~ msgstr "Appigo Sync with iCal"
+
+#~ msgid "Starting sync session..."
+#~ msgstr "正在開始同步工作階段..."
+
+#~ msgid "Keep Tasks Updated"
+#~ msgstr "一直更新任务"
+
+#~ msgid "This is a great start to a useful checklist."
+#~ msgstr "漂亮的開頭，繼續試試檢查清單。"
+
+#~ msgid "Unknown problem determining your location"
+#~ msgstr "測定您的位置時發生不明的錯誤"
+
+#~ msgid "One Year"
+#~ msgstr "一年"
+
+#~ msgid "Selected tasks will be deleted"
+#~ msgstr "選定的任務將被刪除"
+
+#~ msgid "Services"
+#~ msgstr "服務"
+
+#~ msgid "Synchronization Complete"
+#~ msgstr "同步處理完成"
+
+#~ msgid ""
+#~ "Corkulous™ idea board for iOS gives you an incredible new way to collect, "
+#~ "organize, and share your ideas."
+#~ msgstr "Corkulous™記事板為您提供了收集、整理和分享想法的絕佳途徑。"
+
+#~ msgid "Click the following link to import this task into Appigo Todo:"
+#~ msgstr "請按一下下列的連結來將這項工作匯入 Appigo Todo："
+
+#~ msgid "Strikeout"
+#~ msgstr "刪除線"
+
+#~ msgid "Focus"
+#~ msgstr "專注"
+
+#~ msgid "Unable to add notebook on Dropbox: %@"
+#~ msgstr "無法在Dropbox添加記事簿: %@"
+
+#~ msgid "Shows all help tips specific to tasks."
+#~ msgstr "顯示有關工作的前部幫助提示。"
+
+#~ msgid "Johnny"
+#~ msgstr "Johnny"
+
+#~ msgid "Synchronizing Notifications"
+#~ msgstr "正在同步處理通知"
+
+#~ msgid "Todo Cloud premium account has expired"
+#~ msgstr "Todo Cloud白金帳戶已失效"
+
+#~ msgid "1. Launch Todo on your iOS device"
+#~ msgstr "1. 在您的 iOS 裝置上啟動 Todo"
+
+#~ msgid "User Information"
+#~ msgstr "使用者資訊"
+
+#~ msgid "Item 2"
+#~ msgstr "Item 2"
+
+#~ msgid "Import Database File"
+#~ msgstr "導入資料庫檔"
+
+#~ msgid "Use Your Home Folder"
+#~ msgstr "使用您的主資料夾"
+
+#~ msgid "\"%@\" Sharing"
+#~ msgstr "\"%@\"正在分享"
+
+#~ msgid "Every 2 hours"
+#~ msgstr "每 2 小時"
+
+#~ msgid "Resend Invitation"
+#~ msgstr "重新发送邀请"
+
+#~ msgid "Context Actions"
+#~ msgstr "環境操作"
+
+#~ msgid "Verify Email*"
+#~ msgstr "驗證電子郵件*"
+
+#~ msgid ""
+#~ "This selection contains mutiple unfinished tasks with at least one "
+#~ "unfinished parent task.  Do you want to continue and complete all of the "
+#~ "tasks?"
+#~ msgstr ""
+#~ "此選項包含多個帶有至少一個未完成母任務的未完成任務。您要繼續並完成所有任務"
+#~ "嗎?"
+
+#~ msgid ""
+#~ "Use the Quick Add Hotkey to quickly add a new task from anywhere on your "
+#~ "desktop."
+#~ msgstr "使用「快速新增快速鍵」，在您的桌面上隨處快速新增新任務。"
+
+#~ msgid "There are other members using this list. "
+#~ msgstr "有其他成员正在使用此列表. "
+
+#~ msgid "On Wednesday"
+#~ msgstr "在星期三"
+
+#~ msgid "Extracting update..."
+#~ msgstr "正在提取更新..."
+
+#~ msgid ""
+#~ "Todo® Task Manager for iPad is the most connected to-do list app. Keep "
+#~ "your tasks with you anywhere you go."
+#~ msgstr ""
+#~ " iPad的Todo® 任务管理员是最好连接的列表应用程序，让您随地了解您的任务。"
+
+#~ msgid ""
+#~ "The authorization failed and the service cannot be located, make sure you "
+#~ "have Todo for Mac running on your desktop.  Would you like to re-"
+#~ "configure the desktop you sync with?"
+#~ msgstr ""
+#~ "授權失敗並且服務無法定位，您確定您擁有適用於運行在Mac桌上出版本的Todo，您"
+#~ "想重新配置您同步的桌面嗎？"
+
+#~ msgid ""
+#~ "From the notebooks screen, tap the add button (+) at the top-right of "
+#~ "your screen, enter a new notebook name, and press the \"Done\" button."
+#~ msgstr ""
+#~ "點選“記事本”介面右上角的“+”按鈕，然後輸入新記事本的名稱，之後點選“完成”按"
+#~ "鈕。"
+
+#~ msgid "Quick Add"
+#~ msgstr "快速新增"
+
+#~ msgid "Local Network Sync Busy"
+#~ msgstr "本地網路同步忙"
+
+#~ msgid "Import tasks from %@"
+#~ msgstr "從%@導入任務"
+
+#~ msgid "Offroad Brown"
+#~ msgstr "越野咖啡"
+
+#~ msgid "Include Subtasks"
+#~ msgstr "包括子任務"
+
+#~ msgid "Re-enter your passcode"
+#~ msgstr "請重新輸入密碼"
+
+#~ msgid "Theme"
+#~ msgstr "主題"
+
+#~ msgid "First Name Required"
+#~ msgstr "需要提供名字"
+
+#~ msgid "Set the task's start date"
+#~ msgstr "設定任務的開始日期"
+
+#~ msgid "Creates a normal task, a project, or a checklist."
+#~ msgstr "創建標準工作、專案或者檢查清單。"
+
+#~ msgid "Todo Registration"
+#~ msgstr "Todo 註冊"
+
+#~ msgid "Set"
+#~ msgstr "設定"
+
+#~ msgid ""
+#~ "Todo is designed and developed in Utah by Appigo, Inc.  We are focused on "
+#~ "bringing high quality software to iOS."
+#~ msgstr ""
+#~ "Todo 由Appigo公司在犹他州设计并开发的. 我们专门为iOS提供高质量的软件."
+
+#~ msgid "For Three Months"
+#~ msgstr "三個月"
+
+#~ msgid ""
+#~ "Are you sure you want to leave this list? All tasks will be removed from "
+#~ "your device."
+#~ msgstr "你想离开列表吗? 所有任务都将会被移除."
+
+#~ msgid ""
+#~ "Disconnect from %@ and connect to Todo Cloud? You can always reconnect to "
+#~ "%@ later."
+#~ msgstr "不再从%1$@ 连接或连接 Todo Cloud? 你能稍后经常从 %2$@ 连接."
+
+#~ msgid "Todo Build:"
+#~ msgstr "Todo 版本："
+
+#~ msgid "For Two Weeks"
+#~ msgstr "兩星期"
+
+#~ msgid "Please enter your email."
+#~ msgstr "請輸入您的電子郵件。"
+
+#~ msgid "Resolve"
+#~ msgstr "解決"
+
+#~ msgid "Combine"
+#~ msgstr "合併"
+
+#~ msgid "Updating Settings"
+#~ msgstr "更新設定"
+
+#~ msgid "Verification code is incorrect."
+#~ msgstr "驗證碼錯誤。"
+
+#~ msgid "Dropbox Sync Folder"
+#~ msgstr "Dropbox同步化檔案夾"
+
+#~ msgid "Create New Todo"
+#~ msgstr "創建新任務"
+
+#~ msgid "Enter an Address"
+#~ msgstr "請輸入地址"
+
+#~ msgid ""
+#~ "Your trial of Todo Cloud will expire soon (%@). Buy a one year "
+#~ "subscription and avoid any further interruptions."
+#~ msgstr ""
+#~ "Todo Cloud 試用期即將截止 (%@)。 購買一年的訂閱服務，避免服務再次中斷。"
+
+#~ msgid "Please verify that you have installed %@ on your device."
+#~ msgstr "請確認您已經在自己的裝置上安裝了 %@。"
+
+#~ msgid "%@ of %@"
+#~ msgstr "第 %1$@，共 %2$@"
+
+#~ msgid "Updating Todo data"
+#~ msgstr "更新Todo資料嗎？"
+
+#~ msgid "On My iPod"
+#~ msgstr "在我的iPod上"
+
+#~ msgid ""
+#~ "Todo for iPhone and iPod touch is the most connected to-do list app. Keep "
+#~ "your tasks with you anywhere you go."
+#~ msgstr ""
+#~ "iPhone和iPod touch版Todo是最常用的日程管理應用程序。您可以隨時隨地了解您的"
+#~ "任務詳情。"
+
+#~ msgid ""
+#~ "Deleting this list will also delete the list from other members if this "
+#~ "list is shared."
+#~ msgstr "如果該列表是共用的，刪除這個列表也將刪除列表中的其他成員."
+
+#~ msgid ""
+#~ "Reset Sync Data will remove all of the tasks on this computer and "
+#~ "download new tasks from the server if there are any. If you have not "
+#~ "uploaded new tasks to the server on any other device, this option will "
+#~ "remove all of your tasks.\n"
+#~ "\n"
+#~ "Perform Full Sync will upload all of the tasks on this computer to the "
+#~ "Todo Cloud server. If you already have tasks on the server, this option "
+#~ "could result in duplicated tasks."
+#~ msgstr ""
+#~ "重启同步数据将清除此计算机上所有任务并从服务器上下载新任务，如果有的话. 如"
+#~ "果您还未将新任务上传到任何一个装置的服务器上, 此选择将清除您的所有任务.\n"
+#~ "\n"
+#~ "进行完全同步将上传该计算机上的所有任务到Todo专业服务器。如果您在该服务器上"
+#~ "已有任务，该选项可能造成重复任务。"
+
+#~ msgid "Click the following link to import this note into Appigo Notebook:"
+#~ msgstr "點選下列鏈結將該筆記匯入 Appigo Notebook："
+
+#~ msgid "Drag items to this section to remove them from the quick menu."
+#~ msgstr "將物品拖動到這部分以便將它們從快速菜單移除。"
+
+#~ msgid "Personal"
+#~ msgstr "個人"
+
+#~ msgid "Edit Time"
+#~ msgstr "編輯時間"
+
+#~ msgid "Premium Account"
+#~ msgstr "白金帐号"
+
+#~ msgid "About Todo"
+#~ msgstr "關於 Todo"
+
+#~ msgid "SMS number not found"
+#~ msgstr "找不到 SMS 號碼"
+
+#~ msgid "Review"
+#~ msgstr "評論"
+
+#~ msgid ""
+#~ "Checklists are great, aren't they? Any other items that should be in this "
+#~ "checklist?"
+#~ msgstr "清單很棒，不是嗎？其他條目都在這個清單上嗎？"
+
+#~ msgid "Type an email address or contact name"
+#~ msgstr "輸入一個郵箱地址或者聯繫人姓名"
+
+#~ msgid "Create New Account..."
+#~ msgstr "建立新帳戶..."
+
+#~ msgid "Center"
+#~ msgstr "置中對齊"
+
+#~ msgid "Add to Notebook"
+#~ msgstr "新增至 Notebook"
+
+#~ msgid "After 4 hours"
+#~ msgstr "4 小時後"
+
+#~ msgid "Thank you for registering."
+#~ msgstr "感謝您進行註冊。"
+
+#~ msgid "Orange"
+#~ msgstr "橙色"
+
+#~ msgid "The key combination %@ can't be used!"
+#~ msgstr "%@ 組合鍵不能使用！"
+
+#~ msgid "Sync Service Unavailable"
+#~ msgstr "同步服務不可用"
+
+#~ msgid "Medium"
+#~ msgstr "中"
+
+#~ msgid "Added to Todo"
+#~ msgstr "已添加至 Todo"
+
+#~ msgid "Condensed Light"
+#~ msgstr "壓縮細體"
+
+#~ msgid "Switch Synchronization Services?"
+#~ msgstr "切換同步服務？"
+
+#~ msgid "Enter Phone Number"
+#~ msgstr "輸入電話號碼"
+
+#~ msgid "Use Growl for notifications"
+#~ msgstr "利用 Growl 通知"
+
+#~ msgid "Unable to pair device, try code again."
+#~ msgstr "無法配對裝置，請再試一次代碼。"
+
+#~ msgid "No"
+#~ msgstr "否"
+
+#~ msgid "Day"
+#~ msgstr "日"
+
+#~ msgid "Synchronizing Notifications..."
+#~ msgstr "正在同步處理通知..."
+
+#~ msgid ""
+#~ "Manage your subscription on your subscriptions page on Google Wallet."
+#~ msgstr "在您的Google Wallet上的訂閱頁面管理您的訂閱。"
+
+#~ msgid ""
+#~ "To connect, open the preferences of Appigo Sync on your desktop, select "
+#~ "\"%@\" from the devices list, and press the Authorize button."
+#~ msgstr ""
+#~ "要連線，請打開您的桌面上的 Appigo Sync 的偏好設定，從裝置清單中選擇 "
+#~ "「%@」，然後按「授權」按鈕。"
+
+#~ msgid "Clear Passcode"
+#~ msgstr "清除密碼"
+
+#~ msgid "Remove the start date"
+#~ msgstr "刪除開始日期"
+
+#~ msgid "There was an error connecting to Dropbox."
+#~ msgstr "連線到Dropbox時發生錯誤 "
+
+#~ msgid "Notebook: %@"
+#~ msgstr "記事簿: %@"
+
+#~ msgid "Add Task"
+#~ msgstr "添加工作"
+
+#~ msgid "Thu"
+#~ msgstr "星期四"
+
+#~ msgid "Reset Manual Sorting"
+#~ msgstr "重設手動排序"
+
+#~ msgid ""
+#~ "You are about to copy all notebooks and notes from \"%@\" to \"%@\". "
+#~ "Performing this multiple times may result in duplicates.\n"
+#~ "\n"
+#~ "Are you sure you want to continue?"
+#~ msgstr ""
+#~ "您即將從\"%1$@\" to \"%2$@\"拷貝所有記事簿和備註. 多次稻作可能導致重複。\n"
+#~ "\n"
+#~ "您確定要繼續嗎？"
+
+#~ msgid "Snake Pink"
+#~ msgstr "蛇粉紅"
+
+#~ msgid "This list is not shared"
+#~ msgstr "未共享該清單"
+
+#~ msgid "Review cabinet estimate"
+#~ msgstr "審查櫥櫃估價"
+
+#~ msgid "Enter your username and password to continue task sync."
+#~ msgstr "輸入您的用戶名和密碼以繼續任務同步。"
+
+#~ msgid "Shared List,"
+#~ msgstr "共用的列表，"
+
+#~ msgid "DOWNLOADING"
+#~ msgstr "下載中"
+
+#~ msgid "Include any selected tag (OR)"
+#~ msgstr "包括任何已選擇標記（或）"
+
+#~ msgid "Open Safari?"
+#~ msgstr "打開Safari?"
+
+#~ msgid "Unnamed Tag"
+#~ msgstr "未命名標記"
+
+#~ msgid "Use Siri for Tasks"
+#~ msgstr "使用Siri 完成任务"
+
+#~ msgid "pager"
+#~ msgstr "傳呼機"
+
+#~ msgid "1 binder"
+#~ msgstr "1 文件夾"
+
+#~ msgid "Password Error"
+#~ msgstr "密碼錯誤"
+
+#~ msgid ""
+#~ "Dropbox does not appear to be installed or your Dropbox folder is not in "
+#~ "your home folder.\n"
+#~ "\n"
+#~ "For additional security, Todo uses Mac OS X application sandboxing, which "
+#~ "currently prevents Todo from accessing the Dropbox folder in non-default "
+#~ "locations.\n"
+#~ "\n"
+#~ "Install Dropbox and configure your Dropbox folder to be directly inside "
+#~ "your home folder."
+#~ msgstr ""
+#~ "您可能未安裝 Dropbox，或者您的 Dropbox 資料夾不在主資料夾內。\n"
+#~ "\n"
+#~ "為了提高安全性，Todo 採用了 Mac OS X 應用沙箱，此功能目前阻止 Todo 存取非"
+#~ "預設位置的 Dropbox 資料夾。\n"
+#~ "\n"
+#~ "安裝 Dropbox，將您的 Dropbox 資料夾直接設置在您的主資料夾內。"
+
+#~ msgid "Thu Jan 6, 2011 8:00pm"
+#~ msgstr "2011 年 1 月 6 日（星期四） 8:00 pm"
+
+#~ msgid ""
+#~ "Your trial premium account has expired. Upgrade your account and keep "
+#~ "your tasks up to date anywhere."
+#~ msgstr "您的试用白金账户已过期. 更新您的账号，并随时随地保持任务更新。"
+
+#~ msgid "%@ would like to be notified that you are completing this task."
+#~ msgstr "%@ 希望在您完成此項工作時得到通知。"
+
+#~ msgid "Upgrade to Todo Cloud to join a shared task list."
+#~ msgstr "升級至Todo Cloud以便加入到一個已共用的任務列表。"
+
+#~ msgid "Ice Cream"
+#~ msgstr "冰淇淋"
+
+#~ msgid "Todo Not Installed"
+#~ msgstr "Todo未安裝"
+
+#~ msgid "Update Complete"
+#~ msgstr "升级完成"
+
+#~ msgid "Share Lists"
+#~ msgstr "分享列表"
+
+#~ msgid "Show Todo icon in menu bar"
+#~ msgstr "在菜單欄中顯示 Todo 圖示"
+
+#~ msgid "Next Wednesday"
+#~ msgstr "下個星期三"
+
+#~ msgid "Pad %@"
+#~ msgstr "Pad \"%@\""
+
+#~ msgid "Email"
+#~ msgstr "電子郵件"
+
+#~ msgid "Unassign a shared task"
+#~ msgstr "取消指定一個共用工作"
+
+#~ msgid "Cut"
+#~ msgstr "剪下"
+
+#~ msgid "Removing attachment: %@"
+#~ msgstr "刪除附件：%@"
+
+#~ msgid "Check for changes:"
+#~ msgstr "檢查變更..."
+
+#~ msgid "ALERT SOUND"
+#~ msgstr "提示音"
+
+#~ msgid "Privacy"
+#~ msgstr "隱私"
+
+#~ msgid "Condensed"
+#~ msgstr "壓縮"
+
+#~ msgid "Please enter your password."
+#~ msgstr "請輸入您的密碼"
+
+#~ msgid ""
+#~ "Name and email are required for alerts to function properly.\n"
+#~ "\n"
+#~ "*Denotes a required item."
+#~ msgstr ""
+#~ "必須填寫姓名和電子郵件，提醒才能正常運作。\n"
+#~ "\n"
+#~ "*表示必填項目。"
+
+#~ msgid "Updating Members..."
+#~ msgstr "正在升级成员..."
+
+#~ msgid "Table View Cell"
+#~ msgstr "表視圖單元格"
+
+#~ msgid "Passwords did not match, please try again"
+#~ msgstr "密碼不匹配。請重試。"
+
+#~ msgid "Available"
+#~ msgstr "可用"
+
+#~ msgid "STANDARD LISTS"
+#~ msgstr "標準列表"
+
+#~ msgid "Tags Filter"
+#~ msgstr "標籤篩選器"
+
+#~ msgid "Pull down to update..."
+#~ msgstr "下拉以更新..."
+
+#~ msgid "Your account expired on:"
+#~ msgstr "您的帳戶已于以下日期到期："
+
+#~ msgid "Open %@?"
+#~ msgstr "打開 %@？"
+
+#~ msgid "Offroad Orange"
+#~ msgstr "越野橘"
+
+#~ msgid "Removing member failed."
+#~ msgstr "清除成员失败."
+
+#~ msgid "Starts"
+#~ msgstr "開始"
+
+#~ msgid "Assign the task to yourself"
+#~ msgstr "為您自己分配工作"
+
+#~ msgid "Updated notification: %@"
+#~ msgstr "已更新通知：%@"
+
+#~ msgid "Sort By:"
+#~ msgstr "排序方式："
+
+#~ msgid "Your complimentary account will automatically renew on:"
+#~ msgstr "您的免費贈送帳戶會在以下日期自動續訂："
+
+#~ msgid "Welcome to Notebook"
+#~ msgstr "歡迎使用 Notebook"
+
+#~ msgid "People"
+#~ msgstr "人"
+
+#~ msgid "Med"
+#~ msgstr "中"
+
+#~ msgid "Local Sync"
+#~ msgstr "本地同步"
+
+#~ msgid "New project (tap return to create)"
+#~ msgstr "新的項目（點擊返回創建）"
+
+#~ msgid "Importing tasks from Todo 6 is quick and easy."
+#~ msgstr "從Todo 6 導入任務輕鬆且快速。"
+
+#~ msgid "Could not load members"
+#~ msgstr "無法載入會員"
+
+#~ msgid "Rename"
+#~ msgstr "重命名"
+
+#~ msgid "You will no longer be able to manage memberships for this list."
+#~ msgstr "您将无法管理此列表的成员."
+
+#~ msgid "Paws"
+#~ msgstr "腳掌"
+
+#~ msgid "Tags, Go, Here"
+#~ msgstr "標籤，前往，此處"
+
+#~ msgid ""
+#~ "Tasks on this device will be replaced with the tasks from the file you "
+#~ "choose.\n"
+#~ "\n"
+#~ "Add a Todo *.sqlitedb to the app using iTunes file sharing."
+#~ msgstr ""
+#~ "此設備上的任務將替換為您所選擇的檔中的任務。\n"
+#~ "\n"
+#~ "使用iTunes的檔共用添加一個Todo *.sqlitedb至該應用。"
+
+#~ msgid "Enter your new passcode"
+#~ msgstr "請輸入新密碼"
+
+#~ msgid "Set up the quick menu options"
+#~ msgstr "建立快速選單選項"
+
+#~ msgid "Move the task into a checklist"
+#~ msgstr "將任務移動到清單中"
+
+#~ msgid ""
+#~ "Todo® Task Manager for iPhone and iPod touch is the most connected to-do "
+#~ "list app. Keep your tasks with you everywhere."
+#~ msgstr ""
+#~ "iPhone and iPod 平板电脑的Todo® 任务管理员是最好连接的列表应用程序。使您在"
+#~ "任何一个地方都了解您的任务。"
+
+#~ msgid "Sync ended"
+#~ msgstr "同步處理終止"
+
+#~ msgid "Email:"
+#~ msgstr "電子郵件："
+
+#~ msgid "Sync"
+#~ msgstr "同步處理"
+
+#~ msgid "Mask"
+#~ msgstr "遮蔽"
+
+#~ msgid "Next Sun"
+#~ msgstr "下周日"
+
+#~ msgid "Any Tag"
+#~ msgstr "任何標籤"
+
+#~ msgid "Create Account"
+#~ msgstr "建立帳戶"
+
+#~ msgid "Sending contexts to device"
+#~ msgstr "正在傳送上下文到裝置"
+
+#~ msgid "Every 30 minutes"
+#~ msgstr "每30分钟"
+
+#~ msgid "Postpone"
+#~ msgstr "延迟"
+
+#~ msgid "Visit http://support.appigo.com/ for help using Todo."
+#~ msgstr "瀏覽 http://support.appigo.com/ 查看使用 Todo 的說明。"
+
+#~ msgid "Select an online synchronization service"
+#~ msgstr "選擇一個線上同步處理服務"
+
+#~ msgid "Roman"
+#~ msgstr "羅馬字體"
+
+#~ msgid "In Five Days"
+#~ msgstr "五天後"
+
+#~ msgid "This Fri"
+#~ msgstr "本週五"
+
+#~ msgid "Light"
+#~ msgstr "細體"
+
+#~ msgid ""
+#~ "Local Network Sync allows synchronization between your computer and other "
+#~ "devices on your local Wi-Fi network."
+#~ msgstr ""
+#~ "本地網路同步處理（Local Network Sync）可幫您的電腦與您本地 Wi-Fi 網路上的"
+#~ "其他裝置進步同步處理"
+
+#~ msgid "Please try again."
+#~ msgstr "請重試一次。"
+
+#~ msgid "People from your shared lists"
+#~ msgstr "來自您的共享清單的人"
+
+#~ msgid "Build: %@"
+#~ msgstr "建置： %@"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Windows-style"
+#~ msgstr "Windows 式"
+
+#~ msgid "The 1st Monday of each month"
+#~ msgstr "每月首个週一"
+
+#~ msgid "Canceling..."
+#~ msgstr "取消中..."
+
+#~ msgid "Convert the task into a checklist"
+#~ msgstr "把任務轉化為一個清單"
+
+#~ msgid "Keep Completed Tasks"
+#~ msgstr "保留完成的工作"
+
+#~ msgid ""
+#~ "Dropbox does not appear to be installed or your Dropbox folder is not "
+#~ "accessible. Please check your Dropbox installation and try again."
+#~ msgstr ""
+#~ "您可能未安裝 Dropbox，或者您的 Dropbox 資料夾不可存取。請檢查您的 Dropbox "
+#~ "安裝，然後重試。"
+
+#~ msgid "Schedule Today"
+#~ msgstr "定在今天"
+
+#~ msgid "TextExpander™"
+#~ msgstr "TextExpander™"
+
+#~ msgid "v %@"
+#~ msgstr "v %@"
+
+#~ msgid "I'm already a Todo Cloud user"
+#~ msgstr "我已经是 Todo Cloud 用户"
+
+#~ msgid "PURCHASING"
+#~ msgstr "購買"
+
+#~ msgid "Invitation Failed"
+#~ msgstr "邀请失败"
+
+#~ msgid "Released %@"
+#~ msgstr "發行 %@"
+
+#~ msgid "Leave List"
+#~ msgstr "离开列表"
+
+#~ msgid "Shows pending shared list invitations."
+#~ msgstr "顯示等待中的共用清單邀請。"
+
+#~ msgid "Scratchout Red"
+#~ msgstr "紅蠕動"
+
+#~ msgid "Replace"
+#~ msgstr "取代"
+
+#~ msgid "Mark Private"
+#~ msgstr "標記為私密"
+
+#~ msgid "Clear Filter"
+#~ msgstr "清除過濾器"
+
+#~ msgid "no tags"
+#~ msgstr "沒有標籤"
+
+#~ msgid "Total Number of Cores:"
+#~ msgstr "核心總數："
+
+#~ msgid "Create a new free account"
+#~ msgstr "創建新的免費帳戶"
+
+#~ msgid "Delete task"
+#~ msgstr "刪除工作"
+
+#~ msgid "Removing Invitation failed."
+#~ msgstr "清除邀请失败."
+
+#~ msgid "Announcement Emails"
+#~ msgstr "通知郵件"
+
+#~ msgid "Enter a URL"
+#~ msgstr "輸入URL"
+
+#~ msgid ""
+#~ "Dropbox folder names cannot contain the following characters: []/\\=+<>:;"
+#~ "\",*."
+#~ msgstr "Dropbox檔案夾名稱不可以包含以下字符: []/\\=+<>:;\",*."
+
+#~ msgid "Fri"
+#~ msgstr "星期五"
+
+#~ msgid "New Task Name"
+#~ msgstr "新任務名稱"
+
+#~ msgid "Renew..."
+#~ msgstr "續訂..."
+
+#~ msgid ""
+#~ "Enable Location Services for Todo in your device settings to receive "
+#~ "location-based alerts."
+#~ msgstr "在您的設備設定裏啓用Todo的定位服務以便接收基於當地的通知"
+
+#~ msgid "Perform Full Sync?"
+#~ msgstr "执行完全同步吗?"
+
+#~ msgid ""
+#~ "Customize the Quick Menu by dragging actions in the Enabled Actions "
+#~ "section."
+#~ msgstr "通過在已啟用操作部分拖動操作自訂快顯功能表。"
+
+#~ msgid "In-App Purchase Unavailable"
+#~ msgstr "應用程式內購買不可用"
+
+#~ msgid "Updating memberships..."
+#~ msgstr "正在更新會員..."
+
+#~ msgid ""
+#~ "Receive helpful information about using Todo. We promise not spam you and "
+#~ "you can unsubscribe at any time."
+#~ msgstr ""
+#~ "接收關於如何使用Todo的有用信息。我們保證不會向您發送垃圾郵件，並且，您可以"
+#~ "隨時退訂。"
+
+#~ msgid "Date & Time"
+#~ msgstr "日期和時間"
+
+#~ msgid "Email Diagnostic Report"
+#~ msgstr "以電郵傳送診斷報告"
+
+#~ msgid ""
+#~ "iOS 5.0 or newer and a device that supports location services are "
+#~ "required for location-based alerts."
+#~ msgstr "需要iOS 5.0或更新版本和支持定位服務的設備來接收基於當地的通知。"
+
+#~ msgid "Squiggle Blue"
+#~ msgstr "波浪藍"
+
+#~ msgid "Email Unavailable"
+#~ msgstr "電子郵件不可用"
+
+#~ msgid "Switch Services?"
+#~ msgstr "要切換服務嗎？"
+
+#~ msgid "Click to record shortcut"
+#~ msgstr "點擊以記錄捷徑"
+
+#~ msgid "Error: Check diagnostic log"
+#~ msgstr "錯誤: 檢查診斷日誌"
+
+#~ msgid "Enter a Web Address"
+#~ msgstr "請輸入網址"
+
+#~ msgid "%d days"
+#~ msgstr "%d 天"
+
+#~ msgid "Tags"
+#~ msgstr "標籤"
+
+#~ msgid "Reset Synchronization Data?"
+#~ msgstr "重設同步處理資料？"
+
+#~ msgid "No due date"
+#~ msgstr "無截止日期"
+
+#~ msgid "Error"
+#~ msgstr "錯誤"
+
+#~ msgid ""
+#~ "Your free premium account has expired. Upgrade your account and keep your "
+#~ "tasks up to date anywhere."
+#~ msgstr ""
+#~ "您的免费白金帐号已过期.请更新您的帐号，使您的任务在任何一个地方都处于更新"
+#~ "状态."
+
+#~ msgid "Update"
+#~ msgstr "更新"
+
+#~ msgid "Buy"
+#~ msgstr "購買"
+
+#~ msgid "Next Mon"
+#~ msgstr "下週一"
+
+#~ msgid "The X day of each month"
+#~ msgstr "每月的第 X 天"
+
+#~ msgid ""
+#~ "If you delete this list, all tasks associated with the list will be "
+#~ "assigned to the \"Inbox\"."
+#~ msgstr "如果您刪除此清單，所有與此清單相關聯的任務將會被分配到「收件匣」。"
+
+#~ msgid "Loading comments..."
+#~ msgstr "載入評論中..."
+
+#~ msgid "Email address not valid or not verified"
+#~ msgstr "電子郵件位址無效或未確認"
+
+#~ msgid "Synchronization Status Bar"
+#~ msgstr "同步處理狀態列"
+
+#~ msgid "List Filter"
+#~ msgstr "清單篩選器"
+
+#~ msgid "SMS number"
+#~ msgstr "SMS 號碼"
+
+#~ msgid "Todo for Mac"
+#~ msgstr "Todo for Mac"
+
+#~ msgid "For Six Months"
+#~ msgstr "六個月"
+
+#~ msgid "%d hidden"
+#~ msgstr "%d 已隱藏"
+
+#~ msgid "Synchronizing Lists"
+#~ msgstr "正在同步處理清單"
+
+#~ msgid ""
+#~ "Your registration information is invalid. Please update your email "
+#~ "address."
+#~ msgstr "您的註冊資訊無效。請更新您的電子郵件位址。"
+
+#~ msgid "Synchronize Todo tasks with an external service."
+#~ msgstr "將 Todo 工作與外部服務同步處理。"
+
+#~ msgid ""
+#~ "All data will be removed from your device and will be replaced with the "
+#~ "data from %@."
+#~ msgstr "所有的資料都會從您的裝置移除，並且將以 %@ 的資料取代。"
+
+#~ msgid "Loading Comments..."
+#~ msgstr "加载评论..."
+
+#~ msgid "Synchronizing Contexts..."
+#~ msgstr "正在同步處理內容..."
+
+#~ msgid "Upgrade..."
+#~ msgstr "更新..."
+
+#~ msgid ""
+#~ "Free your mind and let your checklist keep track of what you need to get."
+#~ msgstr "隨心所欲並讓您的檢查清單按照您的需要進行跟蹤。"
+
+#~ msgid "Log in to an existing account"
+#~ msgstr "登錄至已存在的帳戶"
+
+#~ msgid "Updating list: %@"
+#~ msgstr "正在更新清單：%@"
+
+#~ msgid "Import Task"
+#~ msgstr "匯入工作"
+
+#~ msgid "Dismiss"
+#~ msgstr "移除"
+
+#~ msgid "Enter a location"
+#~ msgstr "輸入位置"
+
+#~ msgid "unknown"
+#~ msgstr "不明"
+
+#~ msgid "Unrecognized repeat"
+#~ msgstr "無法識別的重複"
+
+#~ msgid "Toodledo"
+#~ msgstr "Toodledo"
+
+#~ msgid ""
+#~ "If you have not uploaded new tasks to the server on any other device, "
+#~ "this will remove all of your tasks."
+#~ msgstr "如果您還沒有將新任務上傳至其他設備的伺服器上，這將會移除所有任務。"
+
+#~ msgid "Print"
+#~ msgstr "列印"
+
+#~ msgid "< Back"
+#~ msgstr "< 返回"
+
+#~ msgid "Tasks with a lower priority are hidden"
+#~ msgstr "較低優先順序的工作已隱藏"
+
+#~ msgid "Quit Appigo Sync"
+#~ msgstr "退出 Appigo Sync"
+
+#~ msgid "Notebooks"
+#~ msgstr "記事本"
+
+#~ msgid "Please verify your username and password."
+#~ msgstr "請驗證您的使用者名稱和密碼。"
+
+#~ msgid "It's time to renew your license!"
+#~ msgstr "到了更新您授權的时间了！"
+
+#~ msgid "Scribble Blue"
+#~ msgstr "塗鴉藍"
+
+#~ msgid "Application Information"
+#~ msgstr "應用程式資訊"
+
+#~ msgid "Receive announcement emails"
+#~ msgstr "接收公告郵件"
+
+#~ msgid "Every 4 hours"
+#~ msgstr "每 4 小時"
+
+#~ msgid "Due After"
+#~ msgstr "截止於"
+
+#~ msgid "Address"
+#~ msgstr "地址"
+
+#~ msgid "Get apps that work with Todo"
+#~ msgstr "獲取可與 Todo 一起使用的應用程式"
+
+#~ msgid "Premium Account:"
+#~ msgstr "白金帐户:"
+
+#~ msgid "Recovery Options"
+#~ msgstr "恢復選項"
+
+#~ msgid "Every Sunday"
+#~ msgstr "每星期日"
+
+#~ msgid "Create a new account"
+#~ msgstr "創建新賬戶"
+
+#~ msgid "one overdue."
+#~ msgstr "1項工作逾期。"
+
+#~ msgid "Select a list to manage notification settings for that list."
+#~ msgstr "選擇一個列表來管理列表的通知設定."
+
+#~ msgid "List Icon"
+#~ msgstr "列表圖示"
+
+#~ msgid ""
+#~ "Access notes on all of your iOS devices, your Mac, and your PC. Notes are "
+#~ "standard text files and can be edited with any standard text editor."
+#~ msgstr ""
+#~ "從您的所有iOS設備、Mac以及PC上查看備註.備註為標準文本文件，並可以使用任何"
+#~ "標準文本編輯器進行編輯。"
+
+#~ msgid "Morse"
+#~ msgstr "摩爾斯密碼"
+
+#~ msgid "1 Task"
+#~ msgstr "1項工作"
+
+#~ msgid "Complete Project"
+#~ msgstr "完成專案"
+
+#~ msgid "In Two Days"
+#~ msgstr "兩天後"
+
+#~ msgid "No Owner"
+#~ msgstr "沒有所有者"
+
+#~ msgid ""
+#~ "Help information is provided on help.appigo.com.  After tapping the "
+#~ "\"Learn More\" button, this application will exit and your web browser "
+#~ "will load with help information."
+#~ msgstr ""
+#~ "help.appigo.com 網站上有提供說明資訊。按下 \"了解更多\" 按鈕後，這個應用程"
+#~ "式就會結束，網路流覽器會載入說明資訊。"
+
+#~ msgid "Todo Cloud Service Alert"
+#~ msgstr "Todo Cloud服務提示"
+
+#~ msgid "Take out the trash"
+#~ msgstr "把垃圾拿出去"
+
+#~ msgid "Please wait..."
+#~ msgstr "請稍候..."
+
+#~ msgid "Offroad Yellow"
+#~ msgstr "越野黃"
+
+#~ msgid "Error showing User"
+#~ msgstr "顯示使用者錯誤"
+
+#~ msgid "Tap and hold an action below to learn how it works."
+#~ msgstr "點擊下方的一個動作並停留來學習它是如何工作的。"
+
+#~ msgid "Paper"
+#~ msgstr "紙張"
+
+#~ msgid "Today's Date"
+#~ msgstr "今天的日期"
+
+#~ msgid "After 1 hour"
+#~ msgstr "1 小時後"
+
+#~ msgid "On Sat"
+#~ msgstr "在週六"
+
+#~ msgid "Error creating local notebook: %@"
+#~ msgstr "新建本地記事簿出錯: %@"
+
+#~ msgid "No Address"
+#~ msgstr "無地址"
+
+#~ msgid "%d subtasks"
+#~ msgstr "%d個子工作"
+
+#~ msgid "Error loading membership information."
+#~ msgstr "下载成员信息失误."
+
+#~ msgid "Every %d Months"
+#~ msgstr "每 %d 個月"
+
+#~ msgid "Color"
+#~ msgstr "顏色"
+
+#~ msgid "3rd"
+#~ msgstr "第三個"
+
+#~ msgid "Error adding note in Notebook: %@"
+#~ msgstr "在Notebook中添加備註出錯: %@"
+
+#~ msgid "Select a Synchronization Method"
+#~ msgstr "選擇一個同步處理方法"
+
+#~ msgid "The 5th %@ of each month"
+#~ msgstr "每月的第五個%@"
+
+#~ msgid "View"
+#~ msgstr "檢視"
+
+#~ msgid "Mark Public"
+#~ msgstr "標記為公共"
+
+#~ msgid ""
+#~ "Be more productive.\n"
+#~ "Use these Todo-friendly apps."
+#~ msgstr ""
+#~ "更富有成效。\n"
+#~ "使用這些好用的 Todo 應用程式。"
+
+#~ msgid "Printing"
+#~ msgstr "正在列印"
+
+#~ msgid ""
+#~ "Unable to read your subscription information. Please check your Internet "
+#~ "connection and try again later."
+#~ msgstr "無法閱讀您的訂閱信息。請檢查您的網絡連接并稍後重試。"
+
+#~ msgid "Update your information?"
+#~ msgstr "更新您的資訊？"
+
+#~ msgid "On days of the week"
+#~ msgstr "每星期的"
+
+#~ msgid "Thank you."
+#~ msgstr "謝謝。"
+
+#~ msgid "OtherViews"
+#~ msgstr "OtherViews"
+
+#~ msgid ""
+#~ "Todo Cloud is designed and developed in Utah by Appigo, Inc.  We focus on "
+#~ "building high quality software."
+#~ msgstr ""
+#~ "Todo Cloud是猶他州Appigo公司設計和開發的。我們專注于開發高品質軟體。"
+
+#~ msgid "TAGS"
+#~ msgstr "標籤"
+
+#~ msgid "work fax"
+#~ msgstr "工作傳真"
+
+#~ msgid "Share the task"
+#~ msgstr "共用此工作"
+
+#~ msgid "Hides the task filter options."
+#~ msgstr "隱藏工作篩選選項。"
+
+#~ msgid "Book Italic"
+#~ msgstr "正規斜体"
+
+#~ msgid "1 ring style"
+#~ msgstr "1 個圓環風格"
+
+#~ msgid ""
+#~ "This will remove all notes marked private.  If you synchronize with "
+#~ "Toodledo please re-enter your Toodledo password and synchronize again to "
+#~ "restore your private notes.  If you do not use Toodledo you will lose "
+#~ "your private notes.\n"
+#~ "\n"
+#~ "If you are sure, please enter the following verification code after "
+#~ "tapping the Reset button: %@"
+#~ msgstr ""
+#~ "該操作將刪除所有標記為“私密”的筆記。如果您配置了與 Toodledo 進行同步，請重"
+#~ "新輸入您的 Toodledo 密碼，並且通過再次同步來恢復您的私密筆記。如果您不使"
+#~ "用 Toodledo 進行同步，您將永久失去這些私密筆記。\n"
+#~ "\n"
+#~ "如果您確定要進行該操作，請在點選“重置”按鈕後輸入下列驗證碼：%@"
+
+#~ msgid "Apply to All?"
+#~ msgstr "全部應用?"
+
+#~ msgid "Reset Passcode?"
+#~ msgstr "重置密碼嗎？"
+
+#~ msgid "Multiple email addresses found"
+#~ msgstr "找到多個電子郵件位址"
+
+#~ msgid "(me)"
+#~ msgstr "（我）"
+
+#~ msgid "Select All"
+#~ msgstr "全選"
+
+#~ msgid "Create Tasks"
+#~ msgstr "建立工作"
+
+#~ msgid "Updating"
+#~ msgstr "正在升级"
+
+#~ msgid "View or hide the organizer"
+#~ msgstr "查看或隱藏管理器"
+
+#~ msgid "Apply to All"
+#~ msgstr "全部應用"
+
+#~ msgid "Shows options to change your personal app preferences."
+#~ msgstr "顯示更改您個人應用偏好設置的選項。"
+
+#~ msgid ""
+#~ "This will remove \"%@\" from the list of paired devices and prevent it "
+#~ "from synchronizing."
+#~ msgstr "此操作會從配對裝置列表中移除 \"%@\" 並防止其進行同步處理。"
+
+#~ msgid "%d minutes before"
+#~ msgstr "%d 分鐘前"
+
+#~ msgid "Not Completed"
+#~ msgstr "未完成"
+
+#~ msgid "Email a Contact"
+#~ msgstr "發郵件給聯絡人"
+
+#~ msgid "This app is built exclusively for Todo Cloud."
+#~ msgstr "该应用程序专为Todo专业设计。"
+
+#~ msgid "View Privacy Policy?"
+#~ msgstr "要檢視隱私權政策嗎？"
+
+#~ msgid ""
+#~ "Switching to a normal task will also convert all subtasks to normal tasks."
+#~ msgstr "切換到一般任務也會將所有的子任務切換到一般任務。"
+
+#~ msgid "Months"
+#~ msgstr "月"
+
+#~ msgid "Switch to Normal Task?"
+#~ msgstr "切換到一般任務嗎？"
+
+#~ msgid "%d weeks"
+#~ msgstr "%d 星期"
+
+#~ msgid ""
+#~ "Your subscription of Todo Cloud will expire soon (%@). Renew your one "
+#~ "year subscription and avoid any further interruptions."
+#~ msgstr ""
+#~ "Todo Cloud 訂閱即將過期 (%@)。 續訂一年的訂閱服務，避免服務再次中斷。"
+
+#~ msgid "Ok"
+#~ msgstr "確定"
+
+#~ msgid "Erase and Download"
+#~ msgstr "刪除並下載"
+
+#~ msgid "Two Weeks"
+#~ msgstr "兩星期"
+
+#~ msgid "Show list colors"
+#~ msgstr "顯示清單顔色"
+
+#~ msgid "Upgrade"
+#~ msgstr "更新"
+
+#~ msgid ""
+#~ "Your Todo Cloud Account is undergoing maintenance. Please wait a few "
+#~ "minutes and try updating again."
+#~ msgstr "您的Todo Cloud帳戶正在維護。請稍等幾分鐘再重新升級。"
+
+#~ msgid "Every 12 hours"
+#~ msgstr "每 12 小時"
+
+#~ msgid "Include Task Data?"
+#~ msgstr "納入任務數據?"
+
+#~ msgid "Brown"
+#~ msgstr "褐色"
+
+#~ msgid "Sign in"
+#~ msgstr "登入"
+
+#~ msgid ""
+#~ "%1$@ %2$@ has been downloaded and is ready to use! Would you like to "
+#~ "install it and relaunch %1$@ now?"
+#~ msgstr "%1$@ %2$@已經下載正準備使用！您想現在安裝並重新啟動%1$@ 嗎?"
+
+#~ msgid "Task Alert"
+#~ msgstr "工作提醒"
+
+#~ msgid "Number of Processors:"
+#~ msgstr "處理器數量："
+
+#~ msgid ""
+#~ "This will erase all notes and notebooks from your device before "
+#~ "downloading the latest version of your notes from %@.\n"
+#~ "\n"
+#~ "Are you sure this is what you want to do?"
+#~ msgstr ""
+#~ "這項操作將在您從%@下載最新版本前刪除您設備上的所有備註和記事簿。\n"
+#~ "\n"
+#~ "您確定要進行此操作嗎？"
+
+#~ msgid "Note Date"
+#~ msgstr "備註日期"
+
+#~ msgid "Show Appigo Sync icon in menu bar"
+#~ msgstr "在菜單欄中顯示 Appigo Sync 圖式"
+
+#~ msgid "There are no collections configured that can synchronize."
+#~ msgstr "沒有待同步的合集配製。"
+
+#~ msgid "%@ at %@"
+#~ msgstr "%1$@ %2$@"
+
+#~ msgid ""
+#~ "A newer version of Todo for Mac is required to continue synchronizing "
+#~ "tasks via your local network (Wi-Fi). If you were synchronizing with "
+#~ "Appigo Sync, please upgrade to Todo for Mac, as Appigo Sync has been "
+#~ "discontinued."
+#~ msgstr ""
+#~ "一個適用於Mac版Todo的更新版本需要通過您的本地網路（Wi-Fi）繼續同步任務，如"
+#~ "果您曾經使用Appigo Sync進行同步的話，請升級到Mac版本的Todo，因為Appigo "
+#~ "Sync已經終止。"
+
+#~ msgid "Advanced Repeat:"
+#~ msgstr "進階重複："
+
+#~ msgid "Deleting a Note"
+#~ msgstr "刪除筆記"
+
+#~ msgid ""
+#~ "The key combination \"%@\" can't be used because it's already used by the "
+#~ "menu item \"%@\"."
+#~ msgstr "\"%1$@\" 組合鍵不能使用，因為它已被菜單項 \"%2$@\" 使用。"
+
+#~ msgid ""
+#~ "Your free premium account has expired. Upgrade your premium account and "
+#~ "keep your tasks up to date anywhere."
+#~ msgstr ""
+#~ "您的免费白金帐户已过期. 请升级您的白金帐户，使您的任务在任何地方都处于更新"
+#~ "状态。"
+
+#~ msgid "Assign to Project"
+#~ msgstr "指派到專案"
+
+#~ msgid "Marker Pink"
+#~ msgstr "鉛字筆粉紅"
+
+#~ msgid "Sync Done, check log"
+#~ msgstr "同步處理完成，請查看日誌"
+
+#~ msgid "Restore App Store Purchases"
+#~ msgstr "恢復 App Store 購買"
+
+#~ msgid "Only send email notifications for tasks that are assigned to me"
+#~ msgstr "只給分配給我的任務發送郵件通知"
+
+#~ msgid "After 5 minutes"
+#~ msgstr "5 分鐘後"
+
+#~ msgid "Overdue Tasks"
+#~ msgstr "過期的工作"
+
+#~ msgid "Try Again Later"
+#~ msgstr "稍後嘗試"
+
+#~ msgid ""
+#~ "The Todo package found in iCloud requires a newer version of Todo.  "
+#~ "Please check for updates and try again."
+#~ msgstr "iCloud 中的 Todo 套件需要使用新版 Todo。請檢查更新，然後重試。"
+
+#~ msgid "Updating Member"
+#~ msgstr "更新成员"
+
+#~ msgid "Some features are only available with a Todo Cloud subscription."
+#~ msgstr "有些功能只有在訂閱了Todo Cloud的情況下才能使用。"
+
+#~ msgid "Sync on Launch"
+#~ msgstr "同步啟動"
+
+#~ msgid "Start date"
+#~ msgstr "開始日期"
+
+#~ msgid "On"
+#~ msgstr "在"
+
+#~ msgid "Set the due date to tomorrow"
+#~ msgstr "將過期日期設定在明天"
+
+#~ msgid "Are you sure you want to leave this list?"
+#~ msgstr "您确定要离开此列表?"
+
+#~ msgid ""
+#~ "Todo® Exchange Tasks is a powerful to-do list app designed specifically "
+#~ "for Microsoft Exchange users."
+#~ msgstr "Todo® 交换任务是个强大的执行列表应用程序，为微软交流用户专门设计."
+
+#~ msgid "Application Icon"
+#~ msgstr "應用程式圖示"
+
+#~ msgid "Ignore"
+#~ msgstr "忽略"
+
+#~ msgid "user name"
+#~ msgstr "使用者名稱"
+
+#~ msgid "New Subtask"
+#~ msgstr "新建子任務"
+
+#~ msgid "(touch and hold to edit collections)"
+#~ msgstr "(持續按住以編輯合集)"
+
+#~ msgid ""
+#~ "Tap the blue star action button above to visit Appigo's Facebook Page.\n"
+#~ "\n"
+#~ "http://www.facebook.com/appigo"
+#~ msgstr ""
+#~ "點擊上面的藍色星號操作按鈕，可瀏覽 Appigo 的 Facebook 頁面。\n"
+#~ "\n"
+#~ "http://www.facebook.com/appigo"
+
+#~ msgid "Press firmly to create a new task."
+#~ msgstr "用力按來創建一個新任務。"
+
+#~ msgid "Replace Task Data..."
+#~ msgstr "替換任務資料..."
+
+#~ msgid ""
+#~ "If you delete this context, all tasks associated with this context will "
+#~ "no longer have a context assigned."
+#~ msgstr ""
+#~ "如果您刪除此上下文，所有與此上下文相關聯的任務將不再有指定的上下文。"
+
+#~ msgid "Select Notebook"
+#~ msgstr "選擇記事本"
+
+#~ msgid "Yearly"
+#~ msgstr "年度"
+
+#~ msgid "Normal"
+#~ msgstr "一般"
+
+#~ msgid "Appigo Sync busy"
+#~ msgstr "Appigo Sync 忙"
+
+#~ msgid "Try Again"
+#~ msgstr "再試一次"
+
+#~ msgid "Looking for changes...."
+#~ msgstr "尋找變更中...."
+
+#~ msgid "Footsteps"
+#~ msgstr "足跡"
+
+#~ msgid "Repeats"
+#~ msgstr "重複"
+
+#~ msgid "\"All\" List Filter"
+#~ msgstr "「所有」清單篩選器"
+
+#~ msgid "Appigo's privacy policy is provided on www.appigo.com."
+#~ msgstr "Appigo 的隱私權政策提供於 www.appigo.com。"
+
+#~ msgid "Your transaction could not be completed."
+#~ msgstr "您的交易無法完成。"
+
+#~ msgid "Hide Others"
+#~ msgstr "隱藏其他"
+
+#~ msgid "Delay"
+#~ msgstr "延遲"
+
+#~ msgid "Get Our Newsletter"
+#~ msgstr "獲取我們的新聞通訊"
+
+#~ msgid "In-App Purchase is unavailable at this time. Please try again later."
+#~ msgstr "應用程式內購買這次不可用，請稍後重試 。"
+
+#~ msgid "Contexts"
+#~ msgstr "內容"
+
+#~ msgid ""
+#~ "Announcement emails may be disabled until you verify your new email "
+#~ "address."
+#~ msgstr "在您確認新的電子郵件地址之前，公告郵件可能會被禁用。"
+
+#~ msgid "ALERT DELIVERY"
+#~ msgstr "傳遞提示"
+
+#~ msgid "Passcode incorrect, try again"
+#~ msgstr "密碼不正確，請重試"
+
+#~ msgid ""
+#~ "Your account appears to be expired, but that may be in error. Please "
+#~ "contact us at support@appigo.com and we will look into the problem."
+#~ msgstr ""
+#~ "您的帳戶似乎已過期，但也可能出現了錯誤。請聯繫我們：support@appigo.com，我"
+#~ "們會對問題進行調查。"
+
+#~ msgid "Pending"
+#~ msgstr "待发"
+
+#~ msgid "You already have the newest version of %@."
+#~ msgstr "您已經擁有 %@. 最新的版本"
+
+#~ msgid "Searching \"%@\""
+#~ msgstr "正在搜索 \"%@\""
+
+#~ msgid "Show Title Only"
+#~ msgstr "只顯示標題"
+
+#~ msgid "Password Required"
+#~ msgstr "需要密碼"
+
+#~ msgid "%d Members"
+#~ msgstr "%d 成员"
+
+#~ msgid "Off"
+#~ msgstr "關閉"
+
+#~ msgid ""
+#~ "Todo Cloud updates your tasks between all of your devices. Todo Cloud is "
+#~ "the only service that fully supports every feature available in Todo and "
+#~ "lets you do things like create tasks with Siri, share lists with others, "
+#~ "and use advanced projects."
+#~ msgstr ""
+#~ "Todo Cloud 在您的所有設備間更新任務。只有Todo Cloud 完全支持 Todo 上的所有"
+#~ "功能，並能夠讓您用Siri 創建任務，和別人共用列表，並使用高級項目。"
+
+#~ msgid "Sending notifications to device"
+#~ msgstr "正在傳送通知到裝置"
+
+#~ msgid "home fax"
+#~ msgstr "家用傳真"
+
+#~ msgid "ALERT_BTN"
+#~ msgstr "檢視"
+
+#~ msgid "Sync canceled"
+#~ msgstr "同步處理取消"
+
+#~ msgid "Show Appigo Sync icon in dock"
+#~ msgstr "在 dock 中顯示 Appigo Sync 圖示"
+
+#~ msgid "Dropbox"
+#~ msgstr "Dropbox"
+
+#~ msgid "Unlink Dropbox Account"
+#~ msgstr "取消Dropbox帳戶連結"
+
+#~ msgid "Updated"
+#~ msgstr "已更新"
+
+#~ msgid "Todo (Local)"
+#~ msgstr "Todo（本機）"
+
+#~ msgid "Notify %@?"
+#~ msgstr "通知 %@？"
+
+#~ msgid "Intelligent Task Parsing"
+#~ msgstr "智能任務解析"
+
+#~ msgid "There are other members using this list"
+#~ msgstr "有其他成员正在使用此列表"
+
+#~ msgid "Next Tuesday"
+#~ msgstr "下個星期二"
+
+#~ msgid "Learn More?"
+#~ msgstr "瞭解更多嗎？"
+
+#~ msgid "New Task Defaults"
+#~ msgstr "新工作預設值"
+
+#~ msgid "ShortenedSampleEmail"
+#~ msgstr "user@example.com"
+
+#~ msgid "Opens task search."
+#~ msgstr "打開工作搜索。"
+
+#~ msgid "Synchronize tasks"
+#~ msgstr "同步處理任務"
+
+#~ msgid "Configure Sync..."
+#~ msgstr "設定同步處理..."
+
+#~ msgid ""
+#~ "Perform a full synchronization between Todo and %@.  All data will be "
+#~ "requested from %@ and all local data will be sent to %@."
+#~ msgstr ""
+#~ "在 Todo 和 %1$@ 之間執行完整的同步處理。  所有的資料都將從 %2$@ 要求，並且"
+#~ "所有的本機資料都將傳送到 %3$@。"
+
+#~ msgid "1"
+#~ msgstr "1"
+
+#~ msgid "Location could not be determined"
+#~ msgstr "無法測定您的位置"
+
+#~ msgid "Collections"
+#~ msgstr "合集"
+
+#~ msgid ""
+#~ "Help information is provided on help.appigo.com.  After tapping the \"Help"
+#~ "\" button, this application will exit and your web browser will load with "
+#~ "help information."
+#~ msgstr ""
+#~ "help.appigo.com 網站上有提供說明資訊。按下 \"說明\" 按鈕後，這個應用程式就"
+#~ "會結束，網路流覽器會載入說明資訊。"
+
+#~ msgid "Pushing to Dropbox..."
+#~ msgstr "推入 Dropbox..."
+
+#~ msgid "New Context..."
+#~ msgstr "新內容..."
+
+#~ msgid "Show Tasks"
+#~ msgstr "顯示工作"
+
+#~ msgid "Your account will expire on:"
+#~ msgstr "您的帳戶會在以下日期到期："
+
+#~ msgid "Checking for updates..."
+#~ msgstr "正在檢查更新..."
+
+#~ msgid "Updating Notebooks..."
+#~ msgstr "正在更新記事本..."
+
+#~ msgid "Every Tuesday"
+#~ msgstr "每星期二"
+
+#~ msgid "Apps"
+#~ msgstr "應用程式"
+
+#~ msgid "Invalid Email Address."
+#~ msgstr "无效的电子邮件地址."
+
+#~ msgid "Years"
+#~ msgstr "年"
+
+#~ msgid "The \"All\" Notebook"
+#~ msgstr "“全部”記事本"
+
+#~ msgid "Remove the due date"
+#~ msgstr "移除到期日"
+
+#~ msgid "Invite"
+#~ msgstr "邀请"
+
+#~ msgid "Heading"
+#~ msgstr "頁眉"
+
+#~ msgid ""
+#~ "Toodledo and TextExpander and their logos are copyrights and/or "
+#~ "trademarks of each respective company. Contains TextExpander engine "
+#~ "library, Copyright © 2009 SmileOnMyMac, LLC. TextExpander is a trademark "
+#~ "of SmileOnMyMac, LLC."
+#~ msgstr ""
+#~ "Toodledo 與 TextExpander 及其圖誌為相應公司的著作權和/或商標。 包含 "
+#~ "TextExpander 引擎庫，版權所有 © 2009 SmileOnMyMac, LLC. TextExpander 是 "
+#~ "SmileOnMyMac, LLC 的商標。"
+
+#~ msgid "1 task"
+#~ msgstr "1 個任務"
+
+#~ msgid ""
+#~ "This checklist contains unfinished tasks.  Do you want to continue and "
+#~ "complete the checklist and all of its tasks?"
+#~ msgstr ""
+#~ "您即將完成的檢查清單包含未完成的子工作。您要繼續進行，並完成檢查清單和所有"
+#~ "的子工作嗎？"
+
+#~ msgid "Add to Todo"
+#~ msgstr "添加至 Todo"
+
+#~ msgid "Monday"
+#~ msgstr "星期一"
+
+#~ msgid "Select a synchronization method"
+#~ msgstr "選擇同步處理方法"
+
+#~ msgid "Check account settings"
+#~ msgstr "檢查帳戶設定"
+
+#~ msgid ""
+#~ "Adjust your preferences to receive emails when other people add or update "
+#~ "tasks in this list."
+#~ msgstr ""
+#~ "調整您的偏好設置以在其他人添加或者更新該列表中的任務時接收電子郵件。"
+
+#~ msgid "About"
+#~ msgstr "關於"
+
+#~ msgid "A list cannot have an empty name. Please try again."
+#~ msgstr "列表名稱不能為空，請重試。"
+
+#~ msgid "To use iCloud you must upgrade your device to iOS 5 or later."
+#~ msgstr "欲使用 iCloud，您需要將裝置升級到 iOS 5 或更高版本。"
+
+#~ msgid "Appigo Sync: %@"
+#~ msgstr "Appigo Sync：%@"
+
+#~ msgid ""
+#~ "Switching this project to a checklist will remove due dates and other "
+#~ "properties from your subtasks."
+#~ msgstr "切換專案到清單會從您的子任務中移除到期日和其它屬性。"
+
+#~ msgid "Repeat from Completion Date"
+#~ msgstr "從完成日期開始重複"
+
+#~ msgid "Do Not Move"
+#~ msgstr "請勿移動"
+
+#~ msgid "Available Desktops"
+#~ msgstr "可用的桌面"
+
+#~ msgid "On My iPhone"
+#~ msgstr "在我的iPhone上"
+
+#~ msgid "Diagnostics"
+#~ msgstr "診斷資訊"
+
+#~ msgid "Note Lists"
+#~ msgstr "筆記列表"
+
+#~ msgid "AppigoSync"
+#~ msgstr "AppigoSync"
+
+#~ msgid "\"Focus\" List Tasks"
+#~ msgstr "「專注」 清單工作"
+
+#~ msgid "Patents pending."
+#~ msgstr "專利申請中。"
+
+#~ msgid ""
+#~ "Todo™ for iPhone and iPod touch is the most connected to-do list app. "
+#~ "Keep your tasks with you anywhere you go."
+#~ msgstr ""
+#~ "適用 iPhone 和 iPod touch 的 Todo™ 是連接人數最多的計劃工作清單程式。您可"
+#~ "以隨身攜帶工作去任何地方。"
+
+#~ msgid "More"
+#~ msgstr "更多"
+
+#~ msgid "Your subscription will expire on:"
+#~ msgstr "您的訂閱會在以下日期到期："
+
+#~ msgid "Email %@"
+#~ msgstr "發郵件給 %@"
+
+#~ msgid "For One Year"
+#~ msgstr "一年"
+
+#~ msgid "Synchronization Done"
+#~ msgstr "同步處理完畢"
+
+#~ msgid "One Month"
+#~ msgstr "一個月"
+
+#~ msgid "Wednesday"
+#~ msgstr "星期三"
+
+#~ msgid ""
+#~ "This will change the folder that Todo uses to synchronize tasks using "
+#~ "Dropbox.\n"
+#~ "\n"
+#~ "Note: The folder you choose should be inside of your Dropbox folder."
+#~ msgstr ""
+#~ "這將通過使用Dropbox同步處理任務變更Todo使用的資料夾。\n"
+#~ "\n"
+#~ "注意：您選擇的資料夾應該在Dropbox資料夾的內部。"
+
+#~ msgid "Acknowledgments"
+#~ msgstr "著作權聲明"
+
+#~ msgid "Enter a new list name"
+#~ msgstr "輸入一個新清單名稱"
+
+#~ msgid "Email Sent"
+#~ msgstr "電子郵件已傳送"
+
+#~ msgid "Email*"
+#~ msgstr "電子郵件*"
+
+#~ msgid "Scratchout Black"
+#~ msgstr "黑蠕動"
+
+#~ msgid "Watercolor Cyan"
+#~ msgstr "水彩青藍"
+
+#~ msgid "Todo was not able to process the action due to missing data."
+#~ msgstr "由於缺少資訊，Todo無法處理此動作。"
+
+#~ msgid "Quick Add Hotkey:"
+#~ msgstr "快速新增快速鍵："
+
+#~ msgid "> Project"
+#~ msgstr "> 項目"
+
+#~ msgid "All (filtered)"
+#~ msgstr "全部 (已過濾)"
+
+#~ msgid "Connection Error"
+#~ msgstr "連線發生錯誤"
+
+#~ msgid "Keep Going"
+#~ msgstr "繼續"
+
+#~ msgid "Completed:"
+#~ msgstr "已完成："
+
+#~ msgid "Hide Todo"
+#~ msgstr "隱藏 Todo"
+
+#~ msgid "Tasks due after: "
+#~ msgstr "任務到期日期： "
+
+#~ msgid "Updating tasks"
+#~ msgstr "更新工作中"
+
+#~ msgid "Authorize Todo with your Dropbox account."
+#~ msgstr "使用Dropbox授权Todo。"
+
+#~ msgid "Bells"
+#~ msgstr "鈴聲"
+
+#~ msgid "Rings"
+#~ msgstr "圓環"
+
+#~ msgid "A new version of %@ is available!"
+#~ msgstr " %@的新版本可用！"
+
+#~ msgid "Ultra Light Italic"
+#~ msgstr "特细斜体"
+
+#~ msgid "Third Party Apps"
+#~ msgstr "第三方應用程式"
+
+#~ msgid ""
+#~ "Windows - Sync your tasks with Microsoft Outlook using Appigo Sync for "
+#~ "Windows"
+#~ msgstr " Windows -使用Windows Appigo同步與Microsoft Outlook同步你的任務"
+
+#~ msgid "Arriving"
+#~ msgstr "即將到達"
+
+#~ msgid "Set the task's list"
+#~ msgstr "設定任務列表"
+
+#~ msgid ""
+#~ "Todo for iPad makes task management simple, easy, and fun.  We encourage "
+#~ "you to visit our website where you'll find tips & tricks, frequently "
+#~ "asked questions, and additional information about Todo for iPad."
+#~ msgstr ""
+#~ "適用 iPad 的 Todo 使工作管理變得簡單、容易又有趣。  我們歡迎您瀏覽我們的網"
+#~ "站，在此您可找到適用 iPad 的 Todo 使用技巧、常見問題解答及其他資訊。"
+
+#~ msgid "Slide to zoom task details"
+#~ msgstr "滑動以縮放任務詳情"
+
+#~ msgid "New Notebook"
+#~ msgstr "新記事本"
+
+#~ msgid "Email Address"
+#~ msgstr "電子郵件位址"
+
+#~ msgid "New Notebook..."
+#~ msgstr "新記事簿..."
+
+#~ msgid ""
+#~ "This task was imported from %@.  Tap the open button to quit Todo and "
+#~ "open %@"
+#~ msgstr "此工作從 %1$@ 匯入。  按一下打開按鈕，結束 Todo 並打開 %2$@"
+
+#~ msgid ""
+#~ "It appears that your device does not have a valid connection to the "
+#~ "Internet."
+#~ msgstr "您的裝置似乎沒有連線可以連接到 Internet。"
+
+#~ msgid "Removing task: %@"
+#~ msgstr "正在移除任務：%@"
+
+#~ msgid "Create"
+#~ msgstr "建立"
+
+#~ msgid ""
+#~ "The Todo Cloud service is being upgraded. Please wait a few minutes and "
+#~ "try updating again."
+#~ msgstr "Todo Cloud正在升级. 请等待几分钟，再次升级"
+
+#~ msgid "Next Monday"
+#~ msgstr "下個星期一"
+
+#~ msgid "Error creating user."
+#~ msgstr "产生用户名错误。"
+
+#~ msgid "WiFi Host"
+#~ msgstr "WiFi 主機"
+
+#~ msgid "Show List Names"
+#~ msgstr "顯示清單名稱"
+
+#~ msgid "Or"
+#~ msgstr "或者"
+
+#~ msgid "New Theme Available"
+#~ msgstr "新主題可用"
+
+#~ msgid ""
+#~ "Receive an email notification when someone is added or removed from the "
+#~ "list"
+#~ msgstr "當有人從列表中被新增或刪除時，收到一封電子郵件通知"
+
+#~ msgid "This Thu"
+#~ msgstr "本週四"
+
+#~ msgid "On Thursday"
+#~ msgstr "在星期四"
+
+#~ msgid "Build"
+#~ msgstr "建置"
+
+#~ msgid "MB"
+#~ msgstr "MB"
+
+#~ msgid "Show the location on a map"
+#~ msgstr "在地圖上顯示位置"
+
+#~ msgid "Create Task"
+#~ msgstr "創建工作"
+
+#~ msgid "On Sun"
+#~ msgstr "在周日"
+
+#~ msgid ""
+#~ "As an alternate to TextExpander, keyboard shortcuts are a built-in "
+#~ "feature of iOS 5 and newer (see Device Settings > General > Keyboard > "
+#~ "Shortcuts)."
+#~ msgstr ""
+#~ "作為TextExpander的替代功能，iOS 5或更新產品中內置了鍵盤快捷鍵功能(參看 設"
+#~ "備設置>常規>鍵盤>快捷鍵)。"
+
+#~ msgid "This Tuesday"
+#~ msgstr "星期二"
+
+#~ msgid "Open \"%@\" in New Window"
+#~ msgstr "在開新視窗中打開 \"%@\" "
+
+#~ msgid "%d overdue."
+#~ msgstr "%d個逾期工作."
+
+#~ msgid "Authorize"
+#~ msgstr "授權"
+
+#~ msgid "Renew"
+#~ msgstr "續訂"
+
+#~ msgid ""
+#~ "Tap anywhere on the screen to advance through these tips to help get you "
+#~ "started."
+#~ msgstr "點擊螢幕上的任何位置，流覽提示來幫助您開始使用。"
+
+#~ msgid "15 minutes before"
+#~ msgstr "十五分钟前"
+
+#~ msgid ""
+#~ "Replace or merge Todo's tasks on your Mac with Todo tasks in Dropbox."
+#~ msgstr "用 Dropbox 中的 Todo 工作取代或合併您 Mac 電腦中的 Todo 工作。"
+
+#~ msgid "Read a website (http) or other URL"
+#~ msgstr "讀取網址(http)或者其他URL"
+
+#~ msgid "Todo Lite"
+#~ msgstr "Todo Lite"
+
+#~ msgid "Version"
+#~ msgstr "版本"
+
+#~ msgid "Due time to create all tasks"
+#~ msgstr "建立所有工作的截止時間"
+
+#~ msgid "Keep"
+#~ msgstr "保留"
+
+#~ msgid "Help"
+#~ msgstr "說明"
+
+#~ msgid "Semiannually"
+#~ msgstr "每半年"
+
+#~ msgid "Use the built-in automatic lists to quickly access your tasks."
+#~ msgstr "使用內置的自動列表來快速訪問您的工作。"
+
+#~ msgid "App Settings"
+#~ msgstr "應用設定"
+
+#~ msgid ""
+#~ "The feature you selected is only available in Todo Cloud. Learn more "
+#~ "about the features of Todo Cloud by visiting www.todopro.com."
+#~ msgstr ""
+#~ "您选择的特点只在Todo Cloud上可用. 访问www.todopro.com网站了解能过关于Todo "
+#~ "Cloud的特点。"
+
+#~ msgid "Scribble Green"
+#~ msgstr "塗鴉綠"
+
+#~ msgid "Corkulous"
+#~ msgstr "Corkulous"
+
+#~ msgid "Welcome to %@"
+#~ msgstr "歡迎來到%@"
+
+#~ msgid "This task has no comments."
+#~ msgstr "该任务无评论."
+
+#~ msgid "Receiving updates from iCloud."
+#~ msgstr "正在從iCloud接收更新資料。"
+
+#~ msgid "Adding task: %@"
+#~ msgstr "正在新增任務：%@"
+
+#~ msgid ""
+#~ "Todo for iPad was designed and developed in Utah by Appigo, Inc.  We "
+#~ "focus on building high quality software."
+#~ msgstr ""
+#~ "適用 iPad 的 Todo 由位於美國猶他州的 Appigo, Inc. 設計並研發。我們專註於開"
+#~ "發高質量的軟件。"
+
+#~ msgid "To search, start typing a word or phrase"
+#~ msgstr "如要搜索，請開始輸入字詞或片語"
+
+#~ msgid "Condensed Medium"
+#~ msgstr "壓縮中字體"
+
+#~ msgid "No Tasks"
+#~ msgstr "無任務"
+
+#~ msgid "0 Subtasks"
+#~ msgstr "0 子任務"
+
+#~ msgid "Status Message (DO NOT TRANSLATE)"
+#~ msgstr "Status Message (DO NOT TRANSLATE)"
+
+#~ msgid "Repeat Frequency"
+#~ msgstr "重複頻率"
+
+#~ msgid "List Invitations"
+#~ msgstr "清單共享邀請"
+
+#~ msgid "Theme Pack"
+#~ msgstr "主題套件"
+
+#~ msgid "Focus List"
+#~ msgstr "專注清單"
+
+#~ msgid "Local Network Sync busy"
+#~ msgstr "本地網路同步忙"
+
+#~ msgid "Task Sort Order"
+#~ msgstr "工作排列順序"
+
+#~ msgid "This Wed"
+#~ msgstr "本週三"
+
+#~ msgid "Include Tasks"
+#~ msgstr "納入任務"
+
+#~ msgid "Save"
+#~ msgstr "儲存"
+
+#~ msgid ""
+#~ "Toodledo is a third party online task management service and provides "
+#~ "support for projects with a Toodledo Pro account."
+#~ msgstr "Toodledo 是第三方在线任务管理服务，为有Toodledo Pro的项目提供支持."
+
+#~ msgid ""
+#~ "Todo cannot process the repeating schedule for this task.  To repeat this "
+#~ "task please complete it in the system you are synchronizing with."
+#~ msgstr ""
+#~ "Todo 無法處理此工作的重複排程。  如要重複此工作，請在您正在與之同步處理的"
+#~ "系統中完成。"
+
+#~ msgid "Sending deleted notifications to device"
+#~ msgstr "正在傳送已刪除通知到裝置"
+
+#~ msgid "synchronization status..."
+#~ msgstr "同步處理狀態..."
+
+#~ msgid "Number of tasks to create (2000 max)"
+#~ msgstr "可建立的工作數量（最多可達 2000 項）"
+
+#~ msgid "Privacy Policy"
+#~ msgstr "隱私權政策"
+
+#~ msgid "The 1st %@ of each month"
+#~ msgstr "每月的第一個%@"
+
+#~ msgid "Enter Information for New Account"
+#~ msgstr "輸入新帳戶資訊"
+
+#~ msgid ""
+#~ "You've reached the maximum number of tasks allowed in\n"
+#~ "Todo Lite.\n"
+#~ "\n"
+#~ "Please upgrade to the full version of Todo to remove this restriction."
+#~ msgstr ""
+#~ "您已達到使用 \n"
+#~ "Todo Lite 中所容許的最多工作數量。\n"
+#~ "\n"
+#~ "請升級至完整版的 Todo，以取消此項限制。"
+
+#~ msgid "Wallpaper"
+#~ msgstr "牆紙"
+
+#~ msgid "Todo for Mac busy"
+#~ msgstr "Mac版Todo 繁忙"
+
+#~ msgid "Delete Confirmation"
+#~ msgstr "删除确认"
+
+#~ msgid "Calendar"
+#~ msgstr "行事曆"
+
+#~ msgid "Invited by: %@"
+#~ msgstr "邀請人：%@"
+
+#~ msgid "Sync Service:"
+#~ msgstr "同步處理服務："
+
+#~ msgid "You must select a file path inside your home folder."
+#~ msgstr "必須在您的主資料夾內部選擇一個檔案路徑。"
+
+#~ msgid "%d Tasks"
+#~ msgstr "%d項工作"
+
+#~ msgid "URL not found"
+#~ msgstr "找不到 URL"
+
+#~ msgid ""
+#~ "A passcode is used to lock notes that contain sensitive information. The "
+#~ "same passcode is used for all locked notes"
+#~ msgstr "使用密碼鎖定包含敏感信息的備註。所有鎖定備註使用相同密碼"
+
+#~ msgid "Waves One"
+#~ msgstr "波形一"
+
+#~ msgid "Task name"
+#~ msgstr "工作名稱"
+
+#~ msgid "Multi-Edit"
+#~ msgstr "多工作編輯"
+
+#~ msgid ""
+#~ "Replace or merge Todo's tasks on your device with Todo tasks in iCloud."
+#~ msgstr "用 iCloud 中的 Todo 工作取代或合併您裝置中的 Todo 工作。"
+
+#~ msgid "Enter your passcode"
+#~ msgstr "請輸入密碼"
+
+#~ msgid "Downloading update..."
+#~ msgstr "正在下載更新..."
+
+#~ msgid "Remove Invitation"
+#~ msgstr "清除邀请"
+
+#~ msgid "Modify"
+#~ msgstr "修改"
+
+#~ msgid "Visit Appigo on Facebook: http://www.facebook.com/appigo"
+#~ msgstr "瀏覽 Facebook 上的 Appigo：http://www.facebook.com/appigo"
+
+#~ msgid "On Monday"
+#~ msgstr "在星期一"
+
+#~ msgid ""
+#~ "Toodledo and the Toodledo logo are trademarks of Toodledo.com. Notebook "
+#~ "contains the TextExpander engine library, Copyright © 2009 SmileOnMyMac, "
+#~ "LLC. TextExpander is a trademark of SmileOnMyMac, LLC."
+#~ msgstr ""
+#~ "Toodledo和Toodledo商標是Toodledo.com的註冊商標。記事簿含有TextExpander引擎"
+#~ "信息库，© 2009 SmileOnMyMac, LLC 版權所有. TextExpander是SmileOnMyMac股份"
+#~ "有限公司的商标。"
+
+#~ msgid "Upgrade to Todo Cloud"
+#~ msgstr "升級至 Todo Cloud"
+
+#~ msgid "Owner Information"
+#~ msgstr "所有者資訊"
+
+#~ msgid "DO NOT TRANSLATE"
+#~ msgstr "DO NOT TRANSLATE"
+
+#~ msgid "Perform Full Sync"
+#~ msgstr "执行完全同步"
+
+#~ msgid ""
+#~ "Once your premium account expires, you will be able to renew it using In-"
+#~ "App Purchase."
+#~ msgstr "一旦你的白金帳戶過期，你可以使用應用程式內購買更新。"
+
+#~ msgid "Move out of Project"
+#~ msgstr "從專案移出"
+
+#~ msgid "Loading Settings..."
+#~ msgstr "載入設定..."
+
+#~ msgid "Delete a Notebook"
+#~ msgstr "刪除記事本"
+
+#~ msgid "Service"
+#~ msgstr "服務"
+
+#~ msgid "Unlink"
+#~ msgstr "取消連結"
+
+#~ msgid "Sending pending invitations..."
+#~ msgstr "发送待发邀请..."
+
+#~ msgid "Empty List Name"
+#~ msgstr "空列表名稱"
+
+#~ msgid ""
+#~ "The feature you selected is not supported by your configured sync "
+#~ "service. Switch your sync service to Todo Cloud in Preferences > "
+#~ "Synchronization to use this feature."
+#~ msgstr ""
+#~ "您配置的同步服務不支援您選定的功能。在首選項中切換您的同步服務到Todo "
+#~ "Cloud>同步使用這個功能。"
+
+#~ msgid "Move to Applications folder?"
+#~ msgstr "移至應用程式資料夾？"
+
+#~ msgid "Search private notes..."
+#~ msgstr "搜索私人備註..."
+
+#~ msgid ""
+#~ "Your tasks have been reset on the server since you last updated. You must "
+#~ "resolve this issue to continue syncing."
+#~ msgstr ""
+#~ "自上次更新后，您的任务已经在服务器上重启. 您必须解决好此事，继续保持同步."
+
+#~ msgid "Updating Lists..."
+#~ msgstr "正在升级列表..."
+
+#~ msgid "Under Construction"
+#~ msgstr "建設中"
+
+#~ msgid "When I Leave"
+#~ msgstr "離開時"
+
+#~ msgid ""
+#~ "Resetting synchronization data will remove all iCal tasks and iCal "
+#~ "calendars without events from your computer. It will synchronize a fresh "
+#~ "copy of your tasks from your configured sync service."
+#~ msgstr ""
+#~ "重新設置同步資料將移除所有的iCal任務，iCal日曆沒有來自您電腦的事件，它會從"
+#~ "您配置的同步服務中同步刷新您的任務副本。"
+
+#~ msgid "Last Synchronized"
+#~ msgstr "上次同步處理"
+
+#~ msgid "Offroad Blue"
+#~ msgstr "越野藍"
+
+#~ msgid ""
+#~ "Todo for Mac sync is configured.  Click the Validate button above to "
+#~ "verify your authorization."
+#~ msgstr "Mac版本的Todo已配置，點擊上面的驗證按鈕驗證授權。"
+
+#~ msgid "Context: %@"
+#~ msgstr "上下文：%@"
+
+#~ msgid ""
+#~ "Update your email or password to match a recent change you made to your "
+#~ "Toodledo account.\n"
+#~ "\n"
+#~ "If you wish to switch to a different Toodledo account, please use the "
+#~ "\"Switch Services...\" button below."
+#~ msgstr ""
+#~ "更新您的電子郵件或密碼，以符合您最近在 Toodledo 帳戶上所做的變更。\n"
+#~ "\n"
+#~ "如果您想切換到不同的 Toodledo 帳戶，請使用下面的「切換服務...」按鈕。"
+
+#~ msgid ""
+#~ "Receive an email notification when someone adds, deletes, or changes a "
+#~ "task"
+#~ msgstr "當有人新增、刪除或更改一個任務時，收到一封電子郵件通知"
+
+#~ msgid "Extra Black"
+#~ msgstr "極黑體"
+
+#~ msgid "Error Updating"
+#~ msgstr "升级错误"
+
+#~ msgid "Create a Todo Task"
+#~ msgstr "創建 Todo 任務"
+
+#~ msgid "Invited by %@"
+#~ msgstr "受%@邀请"
+
+#~ msgid "No start date"
+#~ msgstr "沒有起始日期"
+
+#~ msgid "Blend Red"
+#~ msgstr "混合紅色"
+
+#~ msgid "Show list names"
+#~ msgstr "顯示清單名稱"
+
+#~ msgid "Resend"
+#~ msgstr "重新发送"
+
+#~ msgid ""
+#~ "Know immediately when someone updates a task with email notifications."
+#~ msgstr "当别人更新任务，可以通过邮件提示马上获知."
+
+#~ msgid "(touch and hold to edit notebooks)"
+#~ msgstr "(持續按住以編輯記事簿)"
+
+#~ msgid "Send TPS Report"
+#~ msgstr "傳送 TPS 報告"
+
+#~ msgid ""
+#~ "Registration requires a working network connection.  Please try again "
+#~ "later."
+#~ msgstr "註冊需要一個正在工作的網路連結，請稍候重試一次。"
+
+#~ msgid ""
+#~ "Resetting synchronization data will clear out all task data from your "
+#~ "computer and synchronize a fresh copy of your tasks from your configured "
+#~ "sync service."
+#~ msgstr ""
+#~ "重設同步處理資料將會從您的電腦中清除所有的任務資料，並將從您的已配置同步處"
+#~ "理服務同步化一份最新版本的任務。"
+
+#~ msgid "Buy milk and bread on the way home from work"
+#~ msgstr "下班回家的路上買牛奶和麵包"
+
+#~ msgid ""
+#~ "Import notes directly into Appigo Notebook. See more information on the "
+#~ "App Store."
+#~ msgstr "將筆記直接匯入 Appigo Notebook。 在  App Store 上查看詳情。"
+
+#~ msgid ""
+#~ "Connect Notebook with your Dropbox account to access your notes "
+#~ "everywhere."
+#~ msgstr "將Notebook輿您的Dropbox賬戶關聯，您將可以在任何地方查看備註。"
+
+#~ msgid "Change Dropbox Sync Folder?"
+#~ msgstr "變更Dropbox同步資料夾嗎？"
+
+#~ msgid "Start Date:"
+#~ msgstr "開始日期："
+
+#~ msgid ""
+#~ "A passcode is required when you launch Todo and prevents unauthorized "
+#~ "access to your tasks."
+#~ msgstr "在啟動 Todo 時需要輸入密碼，以防止有人未經授權存取您的工作。"
+
+#~ msgid "Enter an email address..."
+#~ msgstr "输入邮箱地址..."
+
+#~ msgid "Show Organizer"
+#~ msgstr "顯示管理器"
+
+#~ msgid "Prefix"
+#~ msgstr "稱謂"
+
+#~ msgid "Updating Tasks"
+#~ msgstr "正在升级任务"
+
+#~ msgid "This will remove the context from these tasks"
+#~ msgstr "此操作將會從這些任務中刪除該上下文"
+
+#~ msgid "Sending updates to iCloud."
+#~ msgstr "正在向iCloud發送更新資料。"
+
+#~ msgid ""
+#~ "If you unlink Notebook from your Dropbox account this will remove all "
+#~ "Dropbox collections from this device."
+#~ msgstr ""
+#~ "如果您將Notebook輿保管箱賬戶取消關聯，此設備上的所有保管箱合集將被移除。"
+
+#~ msgid "Appigo Sync Version:"
+#~ msgstr "Appigo Sync 版本："
+
+#~ msgid "Synchronizing Subtasks..."
+#~ msgstr "正在同步處理子工作..."
+
+#~ msgid "One Day"
+#~ msgstr "一天"
+
+#~ msgid "Duplicate"
+#~ msgstr "重複"
+
+#~ msgid "Tasks to create"
+#~ msgstr "待建立工作"
+
+#~ msgid ""
+#~ "If you have Appigo Todo installed on your iPhone/iPod touch, create a new "
+#~ "task by tapping the share button at the bottom-center of your screen when "
+#~ "viewing a note.  Select the \"Create New Todo\" option, and the contents "
+#~ "of your note will be imported directly to your task list."
+#~ msgstr ""
+#~ "如果您在 iPhone/iPod Touch 上安裝了 Appigo Todo，在查看一條筆記時，點選底"
+#~ "部中間的“分享”按鈕，然後選擇“創建新任務”，這條筆記就會自動匯入至 Todo 程式"
+#~ "中。"
+
+#~ msgid "Uncomplete"
+#~ msgstr "未完成"
+
+#~ msgid "Unable to verify folder creation on Dropbox: %@"
+#~ msgstr "無法在Dropbox創建新文件夾: %@"
+
+#~ msgid "Tomorrow"
+#~ msgstr "明天"
+
+#~ msgid "Delete this list?"
+#~ msgstr "要刪除這個清單嗎？"
+
+#~ msgid "Remove Due Date"
+#~ msgstr "移除到期日期"
+
+#~ msgid "Font"
+#~ msgstr "字體"
+
+#~ msgid "http://www.example.com"
+#~ msgstr "http://www.example.com"
+
+#~ msgid "Blend Colors"
+#~ msgstr "混合顏色"
+
+#~ msgid "Every Saturday"
+#~ msgstr "每星期六"
+
+#~ msgid "View on App Store..."
+#~ msgstr "在 App Store 上檢視..."
+
+#~ msgid "Manually"
+#~ msgstr "手動"
+
+#~ msgid "No Associated User"
+#~ msgstr "無關聯用戶"
+
+#~ msgid "Add Person"
+#~ msgstr "增加人员"
+
+#~ msgid "On Friday"
+#~ msgstr "在星期五"
+
+#~ msgid "Due Time"
+#~ msgstr "截止時間"
+
+#~ msgid "Shows tasks that are marked with a star."
+#~ msgstr "顯示加星標記的工作。"
+
+#~ msgid "Unnamed List"
+#~ msgstr "未命名清單"
+
+#~ msgid "Convert the task into a project"
+#~ msgstr "把任務轉化為一個項目"
+
+#~ msgid "Could not determine location"
+#~ msgstr "無法確定地點"
+
+#~ msgid "Appigo Sync"
+#~ msgstr "Appigo Sync"
+
+#~ msgid "Enter a Phone Number"
+#~ msgstr "請輸入電話號碼"
+
+#~ msgid ""
+#~ "Todo for Mac or Appigo Sync for Windows could not be located on your "
+#~ "local network."
+#~ msgstr "Mac 版的Todo或Windows版的 Appigo同步無法找到你的本地網路."
+
+#~ msgid "Release to update..."
+#~ msgstr "移除以便更新..."
+
+#~ msgid "Filter:"
+#~ msgstr "篩選器："
+
+#~ msgid "Launches the TextExpander app"
+#~ msgstr "啟動TextExpander應用程式"
+
+#~ msgid "Sending Invitation"
+#~ msgstr "正在发送邀请"
+
+#~ msgid "Follow Appigo on Twitter: http://twitter.com/appigo"
+#~ msgstr "在 Twitter 上關注 Appigo：http://twitter.com/appigo"
+
+#~ msgid "Add a note..."
+#~ msgstr "添加注解..."
+
+#~ msgid "Personalized Lists"
+#~ msgstr "個人化列表"
+
+#~ msgid "Updating list icons..."
+#~ msgstr "列表圖示更新中..."
+
+#~ msgid "Updating lists"
+#~ msgstr "更新清單中"
+
+#~ msgid "Private Notes"
+#~ msgstr "私密筆記"
+
+#~ msgid "Email address not found"
+#~ msgstr "找不到電子郵件位址"
+
+#~ msgid "Saturday"
+#~ msgstr "星期六"
+
+#~ msgid "Notebook: Unfiled"
+#~ msgstr "記事簿: 未歸檔"
+
+#~ msgid ""
+#~ "Appigo Sync is configured.  Click the Validate button above to verify "
+#~ "your authorization."
+#~ msgstr "Appigo Sync 已設定。請按一下上面的「驗證」按鈕 來確認您的授權。"
+
+#~ msgid "Gone Fishin'"
+#~ msgstr "釣魚去了"
+
+#~ msgid "+"
+#~ msgstr "+"
+
+#~ msgid "Current Time"
+#~ msgstr "當前時間"
+
+#~ msgid "Membership"
+#~ msgstr "會員"
+
+#~ msgid "This Friday"
+#~ msgstr "星期五"
+
+#~ msgid "mobile"
+#~ msgstr "行動電話"
+
+#~ msgid "Share and Print"
+#~ msgstr "分享和打印"
+
+#~ msgid "Could not save %@ setting."
+#~ msgstr "無法保存%@設定。"
+
+#~ msgid "Sorry, we couldn't delete the invitation at this time."
+#~ msgstr "对不起，我们无法此时清除邀请."
+
+#~ msgid "Todo for iPad"
+#~ msgstr "適用 iPad 的 Todo"
+
+#~ msgid "Update Todo?"
+#~ msgstr "更新Todo嗎？"
+
+#~ msgid "Repeat With Parent Task"
+#~ msgstr "隨上層工作重複"
+
+#~ msgid "You have not created any custom lists yet. "
+#~ msgstr "您還沒有創建任何自訂列表. "
+
+#~ msgid "When filtering by tags, show tasks that:"
+#~ msgstr "以標記進行篩選時，顯示此類任務："
+
+#~ msgid "Quarterly"
+#~ msgstr "每季度"
+
+#~ msgid "Determining Current Location..."
+#~ msgstr "正在確定當前地點..."
+
+#~ msgid "View Apps"
+#~ msgstr "檢視應用程式"
+
+#~ msgid "Select a location"
+#~ msgstr "選擇一個位置"
+
+#~ msgid "now"
+#~ msgstr "現在"
+
+#~ msgid "1 year"
+#~ msgstr "1 年"
+
+#~ msgid "Failed: Check settings"
+#~ msgstr "失敗：請檢查設定"
+
+#~ msgid "Mac - Sync your tasks with Todo for Mac"
+#~ msgstr " Mac -使用Mac版的Todo同步你的任務"
+
+#~ msgid "Invited"
+#~ msgstr "已邀請"
+
+#~ msgid "Purchase Problem"
+#~ msgstr "購買問題"
+
+#~ msgid "This account is already in use."
+#~ msgstr "該賬戶已在使用中。"
+
+#~ msgid "%u tasks"
+#~ msgstr "%u 任務"
+
+#~ msgid "Save a task as a note using Appigo's Notebook Application."
+#~ msgstr "使用 Appigo 的 Notebook 應用程式來將工作儲存為備註。"
+
+#~ msgid "Another email will be sent to %@."
+#~ msgstr "另一封邮件将发送至 %@."
+
+#~ msgid ""
+#~ "You must have a valid network connection to register location-based "
+#~ "alerts."
+#~ msgstr "您一定要有網絡連綫才能註冊基於當地的通知。"
+
+#~ msgid "Insert Spacer"
+#~ msgstr "插入空格"
+
+#~ msgid "Update Interrupted"
+#~ msgstr "升级中断"
+
+#~ msgid ""
+#~ "There was an error communicating with the service. Check your connection "
+#~ "and try again."
+#~ msgstr "与服务器交流出现错误。请检查你的网络连接后重试。"
+
+#~ msgid "Linking"
+#~ msgstr "正在連結"
+
+#~ msgid "Sync Service"
+#~ msgstr "同步處理服務"
+
+#~ msgid "Email Notifications"
+#~ msgstr "電子郵件通知"
+
+#~ msgid "Registration Failure."
+#~ msgstr "註冊失敗。"
+
+#~ msgid "Reset Passcode"
+#~ msgstr "重置密碼"
+
+#~ msgid "Last Sent: %@"
+#~ msgstr "上一次发送: %@"
+
+#~ msgid "Shows options to modify the details of your to-do list."
+#~ msgstr "顯示修改您的待完成清單詳情的選項。"
+
+#~ msgid "Every hour"
+#~ msgstr "每小時"
+
+#~ msgid ""
+#~ "Linking will allow this app to access and modify files in your Dropbox"
+#~ msgstr "連結將允許這個應用程式存取和修改您Dropbox的檔案"
+
+#~ msgid "Immediately"
+#~ msgstr "立即"
+
+#~ msgid "Weekday"
+#~ msgstr "工作日"
+
+#~ msgid "Email a Note"
+#~ msgstr "發送筆記給朋友"
+
+#~ msgid "Signing in..."
+#~ msgstr "正在登入..."
+
+#~ msgid ""
+#~ "Thank you for taking a minute to share your positive experiences with "
+#~ "others on the App Store."
+#~ msgstr "感謝您花時間在 App Store 上與他人分享您的滿意體驗。"
+
+#~ msgid "Unfiled"
+#~ msgstr "未分類"
+
+#~ msgid "user@example.com"
+#~ msgstr "user@example.com"
+
+#~ msgid "For One Week"
+#~ msgstr "一星期"
+
+#~ msgid "Add Person..."
+#~ msgstr "增加人员..."
+
+#~ msgid "Tag Name"
+#~ msgstr "標籤名稱"
+
+#~ msgid "Daisy"
+#~ msgstr "小雛菊"
+
+#~ msgid "Error opening URL"
+#~ msgstr "打開URL錯誤"
+
+#~ msgid "no date"
+#~ msgstr "無日期"
+
+#~ msgid ""
+#~ "Import tasks directly into Appigo Todo for iPad available on the App "
+#~ "Store."
+#~ msgstr "將工作直接匯入適用 iPad 的 Appigo Todo；App Store 上可下載此程式。"
+
+#~ msgid "Blend Blue"
+#~ msgstr "混合藍色"
+
+#~ msgid "Quit Todo"
+#~ msgstr "退出 Todo"
+
+#~ msgid "Sorry, we couldn't load the task comments at this time."
+#~ msgstr "对不起，我们无法此时加载评论."
+
+#~ msgid "Back"
+#~ msgstr "返回"
+
+#~ msgid "Switch"
+#~ msgstr "切換"
+
+#~ msgid "1 overdue"
+#~ msgstr "1項工作逾期"
+
+#~ msgid "New Tag..."
+#~ msgstr "新建標籤..."
+
+#~ msgid ""
+#~ "Great news! Your email qualifies for a FREE Todo Cloud Premium account. "
+#~ "We just need you to verify your email address."
+#~ msgstr ""
+#~ "好消息！您的電子郵件獲取了一個Todo Could高級賬戶。我們只需要您去確認一下您"
+#~ "的電子郵件地址。"
+
+#~ msgid "Filters tasks by tags."
+#~ msgstr "按標記篩選工作。"
+
+#~ msgid "Todo"
+#~ msgstr "Todo"
+
+#~ msgid "Appearance"
+#~ msgstr "外觀"
+
+#~ msgid "Selected tasks will be deleted."
+#~ msgstr "選取的工作將被刪除"
+
+#~ msgid "Synchronizing Tasks..."
+#~ msgstr "正在同步處理工作..."
+
+#~ msgid ""
+#~ "You've reached the maximum number of tasks allowed in this project using "
+#~ "Todo Lite.\n"
+#~ "\n"
+#~ "Please upgrade to the full version of Todo to remove this restriction."
+#~ msgstr ""
+#~ "您已達到使用 Todo Lite 的此專案中所容許的最多工作數量。\n"
+#~ "\n"
+#~ "請升級至完整版的 Todo，以取消此項限制。"
+
+#~ msgid "In 1 week"
+#~ msgstr "在1 周內"
+
+#~ msgid "Access denied"
+#~ msgstr "拒绝访问"
+
+#~ msgid "Recovery"
+#~ msgstr "恢復"
+
+#~ msgid "List Name"
+#~ msgstr "List Name"
+
+#~ msgid "%ld/%ld done"
+#~ msgstr "%1$ld/%2$ld完成"
+
+#~ msgid "Sharing..."
+#~ msgstr "正在分享..."
+
+#~ msgid "Removing List..."
+#~ msgstr "清除列表..."
+
+#~ msgid "Rename List"
+#~ msgstr "重命名列表"
+
+#~ msgid "Synchronizing Lists..."
+#~ msgstr "正在同步處理清單..."
+
+#~ msgid "Edit Context"
+#~ msgstr "編輯內容"
+
+#~ msgid "Thank you for downloading Todo."
+#~ msgstr "感謝您下載Todo."
+
+#~ msgid ""
+#~ "Corkulous™ Idea Board for iOS gives you an incredible new way to collect, "
+#~ "organize, and share your ideas."
+#~ msgstr ""
+#~ "iOS的Corkulous™ 点子版为您带来不可思议的新方法去收集、管理、分享您的想法。"
+
+#~ msgid "Touch to switch to the %@"
+#~ msgstr "觸摸切換至 %@"
+
+#~ msgid ""
+#~ "A newer version of Todo for Mac or Appigo Sync for Windows is required to "
+#~ "continue synchronizing tasks via your local network (Wi-Fi)."
+#~ msgstr ""
+#~ "一個新的MacTodo或Windows Appigo同步版本需要通過你的本地網路(wi- fi)繼續同"
+#~ "步任務."
+
+#~ msgid "Updating Database"
+#~ msgstr "正在更新資料庫"
+
+#~ msgid "Display Options"
+#~ msgstr "顯示選項"
+
+#~ msgid ""
+#~ "Appigo Sync must be running on your desktop.  If it is not discovered "
+#~ "automatically on your local network, use the \"Other Desktop\" button "
+#~ "above to enter its address manually."
+#~ msgstr ""
+#~ "Appigo Sync 必須在您的電腦執行。 如果在本機網路中沒有自動偵測到， 請使用上"
+#~ "方的 「其他 電腦」 按鈕，以手動方式輸入其位址。"
+
+#~ msgid "New List Name"
+#~ msgstr "新列表名稱"
+
+#~ msgid "Creates a new to-do list."
+#~ msgstr "創建新工作清單。"
+
+#~ msgid "Determines how long completed tasks are kept on your device."
+#~ msgstr "決定要將完成的工作存放在您的裝置上多久時間。"
+
+#~ msgid ""
+#~ "Please provide a brief description (in English) to explain why you are "
+#~ "sending this report:"
+#~ msgstr "請用英文輸入一段簡介，說明您為何要傳送該報告："
+
+#~ msgid "KB"
+#~ msgstr "KB"
+
+#~ msgid "Sorry, we could't load new invitations at this time."
+#~ msgstr "很抱歉，我們暫時無法加載新邀請。"
+
+#~ msgid "Thursday"
+#~ msgstr "星期四"
+
+#~ msgid "Delete this task?"
+#~ msgstr "刪除該任務？"
+
+#~ msgid "AccuFuel"
+#~ msgstr "AccuFuel"
+
+#~ msgid "Spelling"
+#~ msgstr "拼字"
+
+#~ msgid "Two Months"
+#~ msgstr "兩個月"
+
+#~ msgid "Task Name"
+#~ msgstr "工作名稱"
+
+#~ msgid ""
+#~ "Delegate tasks to friends or co-workers and get things done as a group."
+#~ msgstr "删除给朋友或合作者的任务以使所有任务成为一体."
+
+#~ msgid "Get Help with Todo"
+#~ msgstr "獲取有關 Todo 的說明"
+
+#~ msgid ""
+#~ "Thank you for purchasing Notebook by Appigo, Inc.  We appreciate your "
+#~ "support and look forward to adding value to your purchase.\n"
+#~ "\n"
+#~ "Notebook integrates with Toodledo.com, a powerful online task manager.  "
+#~ "You can access your notes and tasks from any web browser by visiting "
+#~ "Toodledo.com.\n"
+#~ "\n"
+#~ "Notebook also integrates directly with Appigo Todo, a powerful iPhone-"
+#~ "based application that makes task management simple and fun.\n"
+#~ "\n"
+#~ "You can find more information about our products along with tutorials and "
+#~ "videos on our website at: http://www.appigo.com/"
+#~ msgstr ""
+#~ "感謝您購買 Appigo Notebook。我們將努力改進軟體來報答您的支援。\n"
+#~ "\n"
+#~ "Notebook 與功能強大的線上任務管理網站 Toodledo.com 集成。您可以使用任何流"
+#~ "覽器訪問 Toodledo.com 來管理筆記和待辦事項。\n"
+#~ "\n"
+#~ "Notebook 還與我們開發的 iPhone 高效任務管理軟體 Todo 直接集成。\n"
+#~ "\n"
+#~ "在我們的網站上 (http://www.appigo.com/)，您可以找到更多產品資訊，以及教"
+#~ "程、演示視頻等內容。"
+
+#~ msgid "Reveals filter options."
+#~ msgstr "顯示篩選選項。"
+
+#~ msgid ""
+#~ "This project contains unfinished tasks.  Do you want to continue and "
+#~ "complete the project and all of its tasks?"
+#~ msgstr "此專案包含未完成的工作。  您要繼續並完成此專案和所有工作嗎?"
+
+#~ msgid "Error uploading to iCloud.  See diagnostic log for more details."
+#~ msgstr "上載至 iCloud 時出現錯誤。更多詳細資料請參見診斷記錄檔。"
+
+#~ msgid "This Thursday"
+#~ msgstr "星期四"
+
+#~ msgid "Select a Contact..."
+#~ msgstr "選擇聯絡人..."
+
+#~ msgid "Schedule Tomorrow"
+#~ msgstr "定在明天"
+
+#~ msgid ""
+#~ "Todo for Mac must be running on your desktop.  If it is not discovered "
+#~ "automatically on your local network, use the \"Other Desktop\" button "
+#~ "above to enter its address manually."
+#~ msgstr ""
+#~ "Mac版的Todo必須運行在您的桌面上。如果您在您的本地網路沒有自動查找到，使用"
+#~ "上面的 \"其它桌面\" 按鈕手動輸入位址。"
+
+#~ msgid "Use checklists inside of your projects for better organization."
+#~ msgstr "使用您項目內的清單，更好進行組織。"
+
+#~ msgid "Sorry, we could not remove the list at this time."
+#~ msgstr "对不起，我们此时无法移除列表。"
+
+#~ msgid "Synchronization Error"
+#~ msgstr "同步處理錯誤"
+
+#~ msgid "Create a Personal List"
+#~ msgstr "創建一份私人清單"
+
+#~ msgid "Checking for notebook changes in Dropbox..."
+#~ msgstr "在Dropbox中查看記事簿變更..."
+
+#~ msgid "2nd"
+#~ msgstr "第二個"
+
+#~ msgid "Removing member..."
+#~ msgstr "清除成员..."
+
+#~ msgid "Verify"
+#~ msgstr "驗證"
+
+#~ msgid ""
+#~ "Manage your subscription by using the App Store App > Tap on your Apple "
+#~ "ID > Account Settings > Manage App Subscriptions."
+#~ msgstr ""
+#~ "通過“App Store 應用 > 點擊您的 Apple ID >帳戶設置 > 管理應用訂閱”管理您的"
+#~ "訂閱。"
+
+#~ msgid "Medium Italic"
+#~ msgstr "中度斜體"
+
+#~ msgid ""
+#~ "Todo for Mac or Appigo Sync for Windows must be running on your desktop.  "
+#~ "If neither is discovered automatically, use the \"Other Desktop\" button "
+#~ "above to enter its address manually."
+#~ msgstr ""
+#~ "適用於Mac的Todo或Windows 版的 Appigo Sync 必須運行在你的桌面上。如果都沒有"
+#~ "被自動發現，使用\"其他桌面\"按鈕手動進入其位址."
+
+#~ msgid "Email Report?"
+#~ msgstr "用電郵傳送報告？"
+
+#~ msgid "Communication error"
+#~ msgstr "通訊錯誤"
+
+#~ msgid "no time"
+#~ msgstr "沒有時間"
+
+#~ msgid "On Fri"
+#~ msgstr "在週五"
+
+#~ msgid "2 days before"
+#~ msgstr "兩天前"
+
+#~ msgid "Please verify your email address."
+#~ msgstr "請確認您的電子郵件地址。"
+
+#~ msgid "Add Another Item"
+#~ msgstr "新增另外一個條目"
+
+#~ msgid "Resolution:"
+#~ msgstr "解決方案："
+
+#~ msgid "Contacts Access"
+#~ msgstr "連絡人訪問"
+
+#~ msgid "No tasks."
+#~ msgstr "無工作"
+
+#~ msgid "Completed Tasks"
+#~ msgstr "已完成的工作"
+
+#~ msgid "Select the collection you wish to copy your notes and notebooks to"
+#~ msgstr "選擇你要將備註和記事簿拷貝到哪個和集"
+
+#~ msgid "Hide this window after creating task"
+#~ msgstr "建立任務後隱藏此視窗"
+
+#~ msgid "no lists are hidden"
+#~ msgstr "無隱藏清單"
+
+#~ msgid "On Tue"
+#~ msgstr "在週二"
+
+#~ msgid "Local Network Sync"
+#~ msgstr "本地網路同步處理"
+
+#~ msgid "Removing Member"
+#~ msgstr "清除成员"
+
+#~ msgid "Simplify your life."
+#~ msgstr "簡化您的生活"
+
+#~ msgid ""
+#~ "This will delete all Todo items off your device and replace them with the "
+#~ "data on your sync service."
+#~ msgstr ""
+#~ "這樣會刪除您裝置上所有的 Todo 項目，並用同步處理服務上的資料取代那些項目。"
+
+#~ msgid ""
+#~ "Error attemping to sync notes in a folder that could not be found: %@"
+#~ msgstr "同步備註出錯，備註所在文件夾沒有找到: %@"
+
+#~ msgid "Every Month"
+#~ msgstr "每個月"
+
+#~ msgid "Discard Tasks"
+#~ msgstr "放棄任務"
+
+#~ msgid ""
+#~ "This home remodel project is an example of how you can use projects in "
+#~ "Todo to accomplish something which requires many steps."
+#~ msgstr ""
+#~ "這個房屋裝潢專案是如何在 Todo 使用專案來完成需要許多步驟之工作的範例。"
+
+#~ msgid "Tap to open the app."
+#~ msgstr "用力按來打開應用"
+
+#~ msgid ""
+#~ "You've reached the maximum number of tasks allowed in this checklist "
+#~ "using Todo Lite.\n"
+#~ "\n"
+#~ "Please upgrade to the full version of Todo to remove this restriction."
+#~ msgstr ""
+#~ "您已達到 Todo Lite 允許的工作數量上限。\n"
+#~ "\n"
+#~ "請升級至完整版的 Todo 即可移除該限制。"
+
+#~ msgid "Overdue Section"
+#~ msgstr "過期部分"
+
+#~ msgid "Notebook"
+#~ msgstr "記事簿"
+
+#~ msgid "Scribble Gold"
+#~ msgstr "塗鴉金"
+
+#~ msgid "Getting Notes..."
+#~ msgstr "正在獲取筆記..."
+
+#~ msgid "Check your email for reset instructions"
+#~ msgstr "查看電子郵件中的重設說明"
+
+#~ msgid "Loading Members"
+#~ msgstr "加载成员名单"
+
+#~ msgid "Delete selected tasks"
+#~ msgstr "刪除選定任務"
+
+#~ msgid "Do you want to delete the comment?"
+#~ msgstr "您想要删除此评论?"
+
+#~ msgid "In Three Days"
+#~ msgstr "三天後"
+
+#~ msgid "Regular"
+#~ msgstr "正常體"
+
+#~ msgid "Create Email"
+#~ msgstr "建立電子郵件"
+
+#~ msgid "Enter at least six characters."
+#~ msgstr "輸入至少六個字符。"
+
+#~ msgid "Adding Context: %@"
+#~ msgstr "正在新增上下文：%@"
+
+#~ msgid "This Tue"
+#~ msgstr "本週二"
+
+#~ msgid "Install and Relaunch"
+#~ msgstr "安裝並重新啟動"
+
+#~ msgid "Check username or password"
+#~ msgstr "檢查使用者名稱或密碼"
+
+#~ msgid ""
+#~ "If you unlink Todo from your Dropbox account your tasks will no longer "
+#~ "synchronize with Dropbox."
+#~ msgstr "如果您從您的Dropbox帳戶取消Todo連結，您的任務將不再同Dropbox同步。"
+
+#~ msgid "Apple ''"
+#~ msgstr "蘋果 ''"
+
+#~ msgid "Appigo Sync Service not found"
+#~ msgstr "Appigo Sync 服務未找到"
+
+#~ msgid "  Verifying..."
+#~ msgstr "  確認中..."
+
+#~ msgid "Defaults"
+#~ msgstr "預設值"
+
+#~ msgid "Last Name Required"
+#~ msgstr "需要提供姓氏"
+
+#~ msgid "Trigger Location Alert"
+#~ msgstr "觸發位置提示"
+
+#~ msgid ""
+#~ "An error occurred while relaunching %1$@, but the new version will be "
+#~ "available next time you run %1$@."
+#~ msgstr ""
+#~ "重新啟動%1$@時發生了一個錯誤，但是下次您運行 %1$@.時，可以使用新版本。"
+
+#~ msgid ""
+#~ "Your free Todo Cloud premium account will expire soon (%@). Upgrade your "
+#~ "premium account and avoid any further interruptions."
+#~ msgstr ""
+#~ "您的免费Todo Cloud 白金帐号即将过期 (%@). 更新您的白金帐号，避免再次受到中"
+#~ "断."
+
+#~ msgid "Condensed Bold"
+#~ msgstr "壓縮粗體"
+
+#~ msgid "Every X Days"
+#~ msgstr "每隔X天"
+
+#~ msgid "Passcode"
+#~ msgstr "密碼"
+
+#~ msgid "Last Sync:"
+#~ msgstr "上次同步處理："
+
+#~ msgid "Starred Tasks"
+#~ msgstr "帶星號的"
+
+#~ msgid ""
+#~ "By pressing the \"Accept\" button, you acknowledge that you've read, "
+#~ "understand, and agree with Todo's End User License Agreement."
+#~ msgstr ""
+#~ "通過按下\"接受\"按鈕，表示您承認已經閱讀、理解並同意Todo的使用者授權合約。"
+
+#~ msgid "New checklist (tap return to create)"
+#~ msgstr "新的清單（點擊返回創建）"
+
+#~ msgid ""
+#~ "Get your iPhone app listed here by adding Todo support. Find out how: "
+#~ "http://www.appigo.com/developer"
+#~ msgstr ""
+#~ "新增 Todo 支援，讓您的 iPhone 應用程式列在這裡。 查看方法：http://www."
+#~ "appigo.com/developer"
+
+#~ msgid "Star"
+#~ msgstr "標注星號"
+
+#~ msgid "Visit a Website"
+#~ msgstr "瀏覽網站"
+
+#~ msgid ""
+#~ "The authorization failed and the service cannot be located, make sure you "
+#~ "have Appigo Sync running on your desktop.  Would you like to re-configure "
+#~ "the desktop you sync with?"
+#~ msgstr ""
+#~ "授權失敗，無法找到服務，請確定您的電腦在執行 Appigo Sync。您想重新設定正在"
+#~ "同步處理的的電腦嗎？"
+
+#~ msgid "After 1 minute"
+#~ msgstr "1 分鐘後"
+
+#~ msgid "Organize your tasks into personalized lists."
+#~ msgstr "將您的工作組織到個人化列表。"
+
+#~ msgid "Reset"
+#~ msgstr "重設"
+
+#~ msgid "Enter a passcode"
+#~ msgstr "請輸入密碼"
+
+#~ msgid "it's already used"
+#~ msgstr "已被使用"
+
+#~ msgid "Convert to a normal task"
+#~ msgstr "轉換到一般任務"
+
+#~ msgid "5. Pairing step 5 (DON'T translate)"
+#~ msgstr "5. Pairing step 5"
+
+#~ msgid "Mark Read"
+#~ msgstr "標記已讀"
+
+#~ msgid "@Context"
+#~ msgstr "@環境"
+
+#~ msgid "Service Priority Names"
+#~ msgstr "服務優先順序名稱"
+
+#~ msgid "Automatic Lists"
+#~ msgstr "自動清單"
+
+#~ msgid "Learn More"
+#~ msgstr "了解更多"
+
+#~ msgid "Owner"
+#~ msgstr "所有者"
+
+#~ msgid "Show overdue section"
+#~ msgstr "顯示過期部分"
+
+#~ msgid "Create a New Notebook"
+#~ msgstr "創建新記事本"
+
+#~ msgid "Memory:"
+#~ msgstr "記憶體："
+
+#~ msgid ""
+#~ "Tap the green action button above to see a list of Todo-friendly apps."
+#~ msgstr "點選上面的綠色操作按鈕，可查看好用的 Todo 應用程式清單。"
+
+#~ msgid "Registration"
+#~ msgstr "註冊"
+
+#~ msgid "List Actions"
+#~ msgstr "列表操作"
+
+#~ msgid "  Resetting..."
+#~ msgstr "  重設中..."
+
+#~ msgid "Next Three Days"
+#~ msgstr "未來三天內"
+
+#~ msgid "Updating alerts"
+#~ msgstr "正在更新提醒"
+
+#~ msgid "Updating Notifications..."
+#~ msgstr "正在升级提示..."
+
+#~ msgid "Complete All Tasks"
+#~ msgstr "完成所有任務"
+
+#~ msgid "Crayon Purple"
+#~ msgstr "蠟筆紫"
+
+#~ msgid "Black"
+#~ msgstr "黑色"
+
+#~ msgid "The Todo package found in iCloud is possibly corrupt."
+#~ msgstr "iCloud 中的 Todo 套件可能已損壞。"
+
+#~ msgid "location"
+#~ msgstr "位置"
+
+#~ msgid "This Mon"
+#~ msgstr "本週一"
+
+#~ msgid "These features are available when you connect with Todo Cloud:"
+#~ msgstr "当你连接Todo Cloud，就可以有这些特点:"
+
+#~ msgid "Move the task into a project"
+#~ msgstr "將任務移動到一個項目中"
+
+#~ msgid "Error Copying DB File"
+#~ msgstr "複製資料庫檔錯誤"
+
+#~ msgid "This Saturday"
+#~ msgstr "星期六"
+
+#~ msgid ""
+#~ "Online Sync allows you to synchronize tasks to multiple devices like your "
+#~ "iPhone, iPod touch, and to other computers over your Internet connection."
+#~ msgstr ""
+#~ "線上同步（Online Sync）可幫您將任務同步到多個裝置，例如您的 iPhone、iPod "
+#~ "touch，以及您網路連接中的其他電腦。"
+
+#~ msgid "Valid until: "
+#~ msgstr "有效至： "
+
+#~ msgid "Select from Contacts"
+#~ msgstr "從聯絡人中選擇"
+
+#~ msgid "Location services are not enabled"
+#~ msgstr "定位服務未啟動"
+
+#~ msgid "Feature not enabled for this demo"
+#~ msgstr "此示範未啟用功能"
+
+#~ msgid "Watercolor Blue"
+#~ msgstr "水彩藍"
+
+#~ msgid "Waves Two"
+#~ msgstr "波形二"
+
+#~ msgid ""
+#~ "You may not be connected to the Internet or there was a problem "
+#~ "communicating with our service. Please try again later."
+#~ msgstr ""
+#~ "您可能未連接至互聯網，或者與我們的服務溝通時出現了問題。請稍後重試。"
+
+#~ msgid "No due time"
+#~ msgstr "沒有截止時間"
+
+#~ msgid "File Path"
+#~ msgstr "文件路徑"
+
+#~ msgid "Badge Shows:"
+#~ msgstr "徽章顯示："
+
+#~ msgid "Call a Contact"
+#~ msgstr "呼叫聯絡人"
+
+#~ msgid "Unstar"
+#~ msgstr "取消標注星號"
+
+#~ msgid "Complete All"
+#~ msgstr "完成全部"
+
+#~ msgid "Blend Green"
+#~ msgstr "混合綠色"
+
+#~ msgid "After 15 minutes"
+#~ msgstr "15 分鐘後"
+
+#~ msgid "Unable to download file from Dropbox: %@"
+#~ msgstr "無法從Dropbox下載文件: %@"
+
+#~ msgid "Use Notebook to:"
+#~ msgstr "使用 Notebook 來："
+
+#~ msgid "Email Address Required"
+#~ msgstr "必須有電子郵件地址"
+
+#~ msgid "Registration..."
+#~ msgstr "註冊..."
+
+#~ msgid "Delete this Notebook?"
+#~ msgstr "要刪除此記事本嗎？"
+
+#~ msgid "Monthly"
+#~ msgstr "月度"
+
+#~ msgid ""
+#~ "Switching projects to checklists will remove due dates and other "
+#~ "properties from your subtasks."
+#~ msgstr "將專案切換至檢查清單將移除您的子工作的到期日期和其他屬性。"
+
+#~ msgid "Add folder..."
+#~ msgstr "新增資料夾…"
+
+#~ msgid "Enter a phone number"
+#~ msgstr "輸入電話號碼"
+
+#~ msgid "Account error"
+#~ msgstr "帳戶錯誤"
+
+#~ msgid "Cyan"
+#~ msgstr "青色"
+
+#~ msgid ""
+#~ "Select the types of items you would like to receive notifications about "
+#~ "for each of your lists:"
+#~ msgstr "選擇你想為你的每一個列表所收到通知的專案類型:"
+
+#~ msgid "Enter key words for search"
+#~ msgstr "請輸入關鍵字"
+
+#~ msgid "Resolution"
+#~ msgstr "解決方案"
+
+#~ msgid "No Priority"
+#~ msgstr "沒有優先順序"
+
+#~ msgid ""
+#~ "Todo® Task Manager is designed and developed by Appigo, Inc. in Utah."
+#~ msgstr "Todo 由 Appigo, Inc. 於美國猶他州設計與開發。"
+
+#~ msgid "Send changes automatically:"
+#~ msgstr "自動傳送變更："
+
+#~ msgid "Move to List"
+#~ msgstr "移動至清單"
+
+#~ msgid "Unassign"
+#~ msgstr "取消指定"
+
+#~ msgid "Minimize"
+#~ msgstr "最小化"
+
+#~ msgid "Subtasks"
+#~ msgstr "子工作"
+
+#~ msgid "A new version of %@ is ready to install!"
+#~ msgstr " %@的新版本正準備安裝！"
+
+#~ msgid "Set No Time"
+#~ msgstr "設定無時間"
+
+#~ msgid "Visible Lists"
+#~ msgstr "可見的清單"
+
+#~ msgid "Green"
+#~ msgstr "綠色"
+
+#~ msgid ""
+#~ "Access your tasks from your iPhone or iPod touch using Todo for iPhone: "
+#~ "http://www.appigo.com/todo"
+#~ msgstr ""
+#~ "使用 iPhone 版 Todo，在 iPhone 或 iPod touch 上瀏覽您的任務：http://www."
+#~ "appigo.com/todo"
+
+#~ msgid "Network Unavailable"
+#~ msgstr "網路不提供使用"
+
+#~ msgid "*Denotes a required item."
+#~ msgstr "*表示必填項目。"
+
+#~ msgid "Adding list: %@"
+#~ msgstr "正在新增清單：%@"
+
+#~ msgid "Device Pairing Error (DO NOT TRANSLATE)"
+#~ msgstr "Device Pairing Error (DO NOT TRANSLATE)"
+
+#~ msgid "Default Sound"
+#~ msgstr "預設聲音"
+
+#~ msgid "No Location Alert"
+#~ msgstr "無位置通知"
+
+#~ msgid "Notifications"
+#~ msgstr "通知"
+
+#~ msgid "Passcode Lock"
+#~ msgstr "密碼鎖定"
+
+#~ msgid "Test Notifications"
+#~ msgstr "測試通知"
+
+#~ msgid "You're up to date!"
+#~ msgstr "您是最新的！"
+
+#~ msgid "Discard"
+#~ msgstr "放棄"
+
+#~ msgid "B"
+#~ msgstr "B"
+
+#~ msgid "Last Sync: "
+#~ msgstr "上次同步處理： "
+
+#~ msgid "Drag items to this section to add them to the quick menu."
+#~ msgstr "將物品拖動到這部分以便將它們添加到快速菜單。"
+
+#~ msgid ""
+#~ "Please review your device's restriction settings (In-App Purchases) to "
+#~ "allow purchasing this theme."
+#~ msgstr "請檢查裝置的限制設定（In-App Purchases），以便能夠購買此主題。"
+
+#~ msgid "Select Project"
+#~ msgstr "選擇專案"
+
+#~ msgid "You've been invited to share a task list."
+#~ msgstr "您已被邀請共享一個任務清單。"
+
+#~ msgid "Sat"
+#~ msgstr "週六"
+
+#~ msgid "Update Failed"
+#~ msgstr "升级失败"
+
+#~ msgid "Wi-Fi Device Synchronization"
+#~ msgstr "Wi-Fi 裝置同步處理"
+
+#~ msgid "Default Settings"
+#~ msgstr "默認設定"
+
+#~ msgid "View Help?"
+#~ msgstr "要檢視說明嗎？"
+
+#~ msgid "Appigo Sync must be running on the desktop you've specified."
+#~ msgstr "您指定的電腦必需執行 Appigo Sync。"
+
+#~ msgid "Close"
+#~ msgstr "關閉"
+
+#~ msgid "Order your lists"
+#~ msgstr "排列您的列表"
+
+#~ msgid "Waiting on account upgrade..."
+#~ msgstr "正在等待帐户升级..."
+
+#~ msgid "Project: %@"
+#~ msgstr "專案：%@"
+
+#~ msgid "  Registering..."
+#~ msgstr "  註冊中..."
+
+#~ msgid "Updating Notes..."
+#~ msgstr "正在更新筆記..."
+
+#~ msgid "Semi Bold"
+#~ msgstr "半粗體"
+
+#~ msgid ""
+#~ "Reset Sync Data will remove all of the Todo tasks on this device and pull "
+#~ "new tasks from the server if there are any. If you have not uploaded new "
+#~ "tasks to the server on any other device, this option will remove all of "
+#~ "your tasks."
+#~ msgstr ""
+#~ "重启同步数据将清除该装置上的所有Todo 任务并从服务器下拉新任务，如果有的"
+#~ "话. 如果你未上传新任务到另外任何一个装置的服务器上，该选项将清除您的所有任"
+#~ "务."
+
+#~ msgid "Add Collection"
+#~ msgstr "添加合集"
+
+#~ msgid "Actions"
+#~ msgstr "動作"
+
+#~ msgid "Turn Passcode Off"
+#~ msgstr "關閉密碼"
+
+#~ msgid ""
+#~ "You may leave the list or remove all other members from the list and then "
+#~ "delete it."
+#~ msgstr "您可以退出列表或者將其他所有成員移除後刪除列表。"
+
+#~ msgid "Account Information"
+#~ msgstr "帳戶資訊"
+
+#~ msgid "Renew your Todo Cloud subscription to join a shared list."
+#~ msgstr "更新您的 Todo Cloud訂閱以便加入到共用列表。"
+
+#~ msgid "Assign"
+#~ msgstr "分配"
+
+#~ msgid "Phone number not found"
+#~ msgstr "電話號碼未找到"
+
+#~ msgid "No tasks"
+#~ msgstr "無任務"
+
+#~ msgid "High Priority"
+#~ msgstr "高優先順序"
+
+#~ msgid "Space"
+#~ msgstr "空間"
+
+#~ msgid "Removing notification: %@"
+#~ msgstr "正在移除通知：%@"
+
+#~ msgid "Please enter your desired password"
+#~ msgstr "請輸入您正確的密碼"
+
+#~ msgid "This will reset any manual sorting on tasks."
+#~ msgstr "這樣會重設工作項目上的所有手動排序。"
+
+#~ msgid "0 Comments"
+#~ msgstr "0 評論"
+
+#~ msgid ""
+#~ "This version of Todo has been created specifically for demonstration "
+#~ "purposes"
+#~ msgstr "此版本的 Todo 是專為示範而建立的。"
+
+#~ msgid "Watercolor Pink"
+#~ msgstr "水彩粉紅"
+
+#~ msgid "Done Stamp"
+#~ msgstr "完成戳印"
+
+#~ msgid "Edit Checklist"
+#~ msgstr "編輯檢查清單"
+
+#~ msgid "The key combination \"%@\" can't be used because %@."
+#~ msgstr "由於%2$@，\"%1$@\" 組合鍵不能使用。"
+
+#~ msgid "Overdue"
+#~ msgstr "已過期"
+
+#~ msgid "Next"
+#~ msgstr "下一個"
+
+#~ msgid "Record"
+#~ msgstr "錄音"
+
+#~ msgid ""
+#~ "Your Todo Cloud premium account will expire soon (%@). Renew your premium "
+#~ "account and avoid any further interruptions."
+#~ msgstr ""
+#~ "您的Todo Cloud 白金帐户即将过期 (%@)。更新您的白金帐户以避免进一步中断。"
+
+#~ msgid "REPEAT FREQUENCY"
+#~ msgstr "重複頻率"
+
+#~ msgid "Call %@"
+#~ msgstr "呼叫 %@"
+
+#~ msgid "Unnamed Context"
+#~ msgstr "未命名上下文"
+
+#~ msgid ""
+#~ "Deleting this list will also remove the corresponding folder on Toodledo "
+#~ "which may affect any notes inside this folder."
+#~ msgstr ""
+#~ "刪除這個清單也會將 Toodledo 中的對應資料夾移除，這樣可能會影響到這個資料夾"
+#~ "中的備註。"
+
+#~ msgid "Error removing note from Dropbox: %@"
+#~ msgstr "從Dropbox中移除備註出錯: %@"
+
+#~ msgid "Light Italic"
+#~ msgstr "細斜體"
+
+#~ msgid "Unable to verify upload to Dropbox: %@"
+#~ msgstr "無法向Dropbox上傳文件: %@"
+
+#~ msgid "I'm new to Todo Cloud"
+#~ msgstr "我没有使用过Todo Cloud"
+
+#~ msgid ""
+#~ "Todo Cloud gives you power to accomplish your tasks on your own or with a "
+#~ "team. Share your lists and get things done anywhere."
+#~ msgstr ""
+#~ "Todo Cloud 能幫助您獨立的或者同別人合作完成任務。共用您的列表，隨地完成任"
+#~ "務。"
+
+#~ msgid "Get Todo for iPad"
+#~ msgstr "獲取 iPad 版 Todo"
+
+#~ msgid "Email address not available"
+#~ msgstr "電子郵件位址無法使用"
+
+#~ msgid "5. Select \"%@\""
+#~ msgstr "5. 選擇 \"%@\""
+
+#~ msgid "Unknown Error, check log"
+#~ msgstr "不明的錯誤，請檢查日誌"
+
+#~ msgid "Yellow"
+#~ msgstr "黃色"
+
+#~ msgid "New Contact"
+#~ msgstr "新聯絡人"
+
+#~ msgid "In %d months"
+#~ msgstr "在%d 月內"
+
+#~ msgid "Every "
+#~ msgstr "每 "
+
+#~ msgid "Added notification: %@"
+#~ msgstr "已新增通知：%@"
+
+#~ msgid "Delete Failed"
+#~ msgstr "删除失败"
+
+#~ msgid "Next Friday"
+#~ msgstr "下個星期五"
+
+#~ msgid "Your location could not be determined"
+#~ msgstr "您的位置無法測定"
+
+#~ msgid ""
+#~ "Notebook for iPhone and iPod touch gives you access to your notes "
+#~ "anywhere."
+#~ msgstr ""
+#~ "適用 iPhone 和 iPod touch 的 Notebook 讓您可在任何地方存取自己的筆記。"
+
+#~ msgid "Marker Green & Blue"
+#~ msgstr "鉛字筆綠和藍"
+
+#~ msgid "Test color"
+#~ msgstr "測試顏色"
+
+#~ msgid ""
+#~ "An error occurred while extracting the archive. Please try again later."
+#~ msgstr "解壓縮封存時發生了一個錯誤，請稍候重試一次。"
+
+#~ msgid "Deleting Comment..."
+#~ msgstr "删除评论..."
+
+#~ msgid "Every Friday"
+#~ msgstr "每星期五"
+
+#~ msgid "Error uploading to Dropbox.  See diagnostic log for more details."
+#~ msgstr "上載至 Dropbox 時出現錯誤。更多詳細資料請參見診斷記錄檔。"
+
+#~ msgid "Context"
+#~ msgstr "上下文"
+
+#~ msgid "Client Timed out"
+#~ msgstr "客戶端超時"
+
+#~ msgid "Ultra Light"
+#~ msgstr "特细体"
+
+#~ msgid ""
+#~ "If you delete this tag, all tasks associated with the tag will be "
+#~ "effected."
+#~ msgstr "若您刪除此標籤，与其相关的所有任務將受到影響。"
+
+#~ msgid "This Sat"
+#~ msgstr "本週六"
+
+#~ msgid "Registration in Progress"
+#~ msgstr "註冊進行中"
+
+#~ msgid ""
+#~ "Your email address is not verified. Please follow the instructions you "
+#~ "received in your registration email."
+#~ msgstr "您的電子郵件位址未確認。請按照註冊電郵中的說明操作。"
+
+#~ msgid "(These settings will be applied to future lists you create or join)"
+#~ msgstr "(這些設定將被應用到你創建或加入的未來列表)"
+
+#~ msgid "%d Alerts"
+#~ msgstr "%d通知"
+
+#~ msgid "1 bracket style"
+#~ msgstr "1 托架風格"
+
+#~ msgid ""
+#~ "Notifications will be disabled until you verify your new email address."
+#~ msgstr "通知被禁用，直到您確認您的新電子郵件位址。"
+
+#~ msgid "Sync Now"
+#~ msgstr "馬上同步處理"
+
+#~ msgid "Repeat From"
+#~ msgstr "重複開始於"
+
+#~ msgid "Online Sync Busy"
+#~ msgstr "線上同步作業忙碌"
+
+#~ msgid "%@ - Todo"
+#~ msgstr "%@ - Todo"
+
+#~ msgid "In 1 year"
+#~ msgstr "在 1 年內"
+
+#~ msgid "Local Network Sync not found"
+#~ msgstr "本地網路同步未找到"
+
+#~ msgid ""
+#~ "Buy a one year subscription to Todo Cloud and synchronize your tasks "
+#~ "everywhere your device has a network connection."
+#~ msgstr ""
+#~ "購買一年的 Todo Cloud 訂閱服務，即可在您的裝置能夠上網的任何地方同步處理您"
+#~ "的工作。"
+
+#~ msgid "Registration could not be completed."
+#~ msgstr "註冊無法完成。"
+
+#~ msgid "Connecting..."
+#~ msgstr "連線中..."
+
+#~ msgid "Undo"
+#~ msgstr "復原"
+
+#~ msgid "Choose a Location"
+#~ msgstr "選擇地點"
+
+#~ msgid "Select lists to determine which tasks will appear in your All List."
+#~ msgstr "選擇清單以確定哪些任務将出現在您的“所有清單”中。"
+
+#~ msgid "Replace or merge Todo's tasks on your Mac with Todo tasks in iCloud."
+#~ msgstr "用 iCloud 中的 Todo 工作取代或合併您 Mac 電腦中的 Todo 工作。"
+
+#~ msgid "1 Member"
+#~ msgstr "1 成员"
+
+#~ msgid "Box"
+#~ msgstr "方塊"
+
+#~ msgid ""
+#~ "To connect, open the preferences of Todo for Mac, select Local Network "
+#~ "Sync, and enter the code below."
+#~ msgstr ""
+#~ "要連接，打開適用於Mac版本的Todo的首選項，選擇本地網路同步，或輸入下麵的編"
+#~ "碼。"
+
+#~ msgid "Next Tue"
+#~ msgstr "下週二"
+
+#~ msgid "Unknown"
+#~ msgstr "未知"
+
+#~ msgid "Follow Appigo on Twitter"
+#~ msgstr "在 Twitter 上追蹤 Appigo"
+
+#~ msgid "1 month"
+#~ msgstr "1 月"
+
+#~ msgid "Never synchronized"
+#~ msgstr "從不同步"
+
+#~ msgid ""
+#~ "This option clears all notes from your device and restores the latest "
+#~ "version of your notes from %@. Select this option if %@ holds the most "
+#~ "recent version of your notes."
+#~ msgstr ""
+#~ "該選項會清除您設備上的所有備註，並從%1$@上恢復最新版本的備註。如果%2$@上保"
+#~ "存了您最近的備註，請選擇此選項。"
+
+#~ msgid "Purchase..."
+#~ msgstr "購買..."
+
+#~ msgid ""
+#~ "Dropbox is a free service that lets you bring all your photos, docs, and "
+#~ "videos anywhere, and share them easily. Use your Dropbox account to "
+#~ "synchronize your Notebook notes."
+#~ msgstr ""
+#~ "Dropbox是一項免費服務，您可以用於保存照片、穩當和視頻並方便的進行分享。使"
+#~ "用您的Dropbox賬戶同步Notebook備註。"
+
+#~ msgid "Dropbox folder names cannot be blank."
+#~ msgstr "Dropbox檔案夾名稱不可空白"
+
+#~ msgid "Context:"
+#~ msgstr "內容："
+
+#~ msgid "Organize"
+#~ msgstr "組織"
+
+#~ msgid "Untitled"
+#~ msgstr "未命名"
+
+#~ msgid "Update Snippets"
+#~ msgstr "更新片段"
+
+#~ msgid ""
+#~ "%1$@ can't be updated when it's running from a read-only volume like a "
+#~ "disk image or an optical drive. Move %1$@ to your Applications folder, "
+#~ "relaunch it from there, and try again."
+#~ msgstr ""
+#~ "當%1$@ 從類似於磁碟映射或光碟機的唯讀磁碟區運行時，不能進行更新， 移動 "
+#~ "%1$@ 到您的應用程式資料夾，從那裏進行重新啟動，請重試一次。"
+
+#~ msgid "Next Wed"
+#~ msgstr "下週三"
+
+#~ msgid "Include Notes"
+#~ msgstr "包括筆記"
+
+#~ msgid "Low"
+#~ msgstr "低"
+
+#~ msgid "%d paper styles"
+#~ msgstr "%d 紙張風格"
+
+#~ msgid "%@ will no longer be able to join this list."
+#~ msgstr "%@ 将不能加入列表."
+
+#~ msgid "Members"
+#~ msgstr "成员"
+
+#~ msgid "Password:"
+#~ msgstr "密碼："
+
+#~ msgid "AppigoSync Help"
+#~ msgstr "AppigoSync 說明"
+
+#~ msgid "Priority"
+#~ msgstr "優先順序"
+
+#~ msgid "Add an Item to Your Checklist"
+#~ msgstr "新增一個條目至您的檢查清單"
+
+#~ msgid "Reset the Data?"
+#~ msgstr "要重設資料嗎？"
+
+#~ msgid "Incomplete"
+#~ msgstr "未完成"
+
+#~ msgid "Uploading %d of %d"
+#~ msgstr "正在上載 %2$d 中的 %1$d"
+
+#~ msgid ""
+#~ "We've experienced a problem sending you an email. If the problem happens "
+#~ "again, please contact us: support@appigo.com"
+#~ msgstr ""
+#~ "給您發送郵件遇到了問題。如果問題再次出現，請致函support@appigo.com聯絡我們"
+
+#~ msgid "Every Year"
+#~ msgstr "每年"
+
+#~ msgid ""
+#~ "Create tasks in Appigo's Todo app directly from a note. Would you like to "
+#~ "open the App Store for more information on Todo?"
+#~ msgstr ""
+#~ "在 Appigo's Todo應用程式中通過便簽直接創建任務。你想要打開應用程式商店了解"
+#~ "更多關於 Todo的信息嗎?"
+
+#~ msgid "Sorry, we couldn't add your comment at this time."
+#~ msgstr "对不起，我们无法此时为您添加评论."
+
+#~ msgid "Keep Existing Tasks?"
+#~ msgstr "要保留現有的工作嗎？"
+
+#~ msgid "Waiting on account maintenance..."
+#~ msgstr "等待帳戶維護..."
+
+#~ msgid "Loading Comments"
+#~ msgstr "加载评论"

@@ -1,0 +1,30 @@
+
+#header, #controls, #task_toolbar, .list_section_header, #FOOTER, #OVERLAY, .tasks_footer_links {display:none;}
+html {.font-size: 10px;height: auto !important;background: none;overflow: visible !important}
+body {height: auto !important;background: none}
+* {opacity: 1 !important;overflow: auto !important}
+
+#content {width: 100% !important;height:auto !important;overflow: visible !important;background: none;border: none;margin: 0}
+#task_sections_wrapper, .content_wrap {min-height: 0 !important;height: auto !important;overflow: visible !important}
+
+/*
+
+.list_tasks_container {margin: 0}
+#content{margin: 0;width: 600px}
+.content_wrap {background: none;border:none;overflow: visible}
+.tasks_c
+*/ontainer{width: 600px !important;border:none}
+
+/*
+#main_container{margin: 0;box-shadow: none;}
+#content {margin:0;border:none;width: 68%;}
+body {background: none;}
+.left_properties {width: 5%;}
+.top_properties, .bottom_properties {width: 95%}
+.top_left_properties{width: 68%;}
+.bottom_left_properties {width: 60%}
+.top_right_properties, .bottom_right_properties {width:20%;}
+.task_tag_icon {display: none;}
+
+.top_left_properties .new_task_name {width: 100px;}
+*/

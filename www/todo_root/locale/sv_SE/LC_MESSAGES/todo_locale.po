@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Todo Cloud\n"
+"POT-Creation-Date: 2016-01-29 12:19+0300\n"
+"PO-Revision-Date: 2016-01-29 12:19+0300\n"
+"Last-Translator: Kopot Vladimir <phpwolf007@gmail.com>\n"
+"Language-Team: Appigo\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext_noop;_e\n"
+"X-Poedit-Basepath: ../../../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: TodoOnline/content/LandingPageContent.php:35
+msgid "Sign Up"
+msgstr ""
+
+#: TodoOnline/content/AppSettingsContentAccount.php:139
+msgid "Name"
+msgstr ""
+
+#: TodoOnline/content/AppSettingsContentAccount.php:167
+msgid "Username"
+msgstr ""
+
+#: TodoOnline/content/AppSettingsContentAccount.php:192
+msgid "Password"
+msgstr ""
+
+#~ msgid ""
+#~ "An error occurred in retrieving update information. Please try again "
+#~ "later."
+#~ msgstr "Kunde inte hämta information om uppdateringar. Försök igen senare."
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid ""
+#~ "An error occurred while downloading the update. Please try again later."
+#~ msgstr "Ett fel uppstod när uppdateringen laddades ned. Försök igen senare."
+
+#~ msgid "An error occurred while parsing the update feed."
+#~ msgstr "Ett fel uppstod vid tydandet av uppdateringsinformationen."
+
+#~ msgid "Installing update..."
+#~ msgstr "Installerar uppdatering…"
+
+#~ msgid ""
+#~ "Should %1$@ automatically check for updates? You can always check for "
+#~ "updates manually from the %1$@ menu."
+#~ msgstr ""
+#~ "Ska %1$@ automatiskt söka efter uppdateringar? Du kan alltid söka "
+#~ "manuellt från %1$@-menyn."
+
+#~ msgid "Cancel"
+#~ msgstr "Avbryt"
+
+#~ msgid "Updating %@"
+#~ msgstr "Uppdaterar %@"
+
+#~ msgid "%@ %@ is currently the newest version available."
+#~ msgstr "%1$@ %2$@ är just nu den nyaste versionen."
+
+#~ msgid "Ready to Install"
+#~ msgstr "Klar att installera"
+
+#~ msgid "Update Error!"
+#~ msgstr "Uppdateringsfel!"
+
+#~ msgid "GB"
+#~ msgstr "GB"
+
+#~ msgid ""
+#~ "%@ %@ is now available--you have %@. Would you like to download it now?"
+#~ msgstr ""
+#~ "%1$@ %2$@ finns nu att tillgå, du har %3$@. Vill du ladda hem den nyare "
+#~ "versionen nu?"
+
+#~ msgid ""
+#~ "An error occurred while installing the update. Please try again later."
+#~ msgstr ""
+#~ "Ett fel uppstod när uppdateringen installerades. Försök igen senare."
+
+#~ msgid "Cancel Update"
+#~ msgstr "Avbryt uppdateringen"
+
+#~ msgid "Extracting update..."
+#~ msgstr "Extraherar uppdatering…"
+
+#~ msgid "%@ of %@"
+#~ msgstr "%1$@ av %2$@"
+
+#~ msgid ""
+#~ "%1$@ %2$@ has been downloaded and is ready to use! Would you like to "
+#~ "install it and relaunch %1$@ now?"
+#~ msgstr ""
+#~ "%1$@ %2$@ har laddats ned och är redo att användas! Vill du installera "
+#~ "det och därefter starta om %1$@?"
+
+#~ msgid "You already have the newest version of %@."
+#~ msgstr "Du har redan den senaste versionen av %@."
+
+#~ msgid "Checking for updates..."
+#~ msgstr "Söker efter uppdateringar..."
+
+#~ msgid "A new version of %@ is available!"
+#~ msgstr "En ny version av %@ finns tillgänglig!"
+
+#~ msgid "MB"
+#~ msgstr "MB"
+
+#~ msgid "Downloading update..."
+#~ msgstr "Hämtar uppdatering…"
+
+#~ msgid "KB"
+#~ msgstr "KB"
+
+#~ msgid "Install and Relaunch"
+#~ msgstr "Installera och starta om"
+
+#~ msgid ""
+#~ "An error occurred while relaunching %1$@, but the new version will be "
+#~ "available next time you run %1$@."
+#~ msgstr ""
+#~ "Ett fel uppstod vid omstarten av %1$@. Den nya versionen kommer startas "
+#~ "nästa gång du manuellt kör %1$@."
+
+#~ msgid "A new version of %@ is ready to install!"
+#~ msgstr "En ny version av %@ finns för installation!"
+
+#~ msgid "You're up to date!"
+#~ msgstr "Du har senaste versionen."
+
+#~ msgid "B"
+#~ msgstr "B"
+
+#~ msgid ""
+#~ "An error occurred while extracting the archive. Please try again later."
+#~ msgstr "Kunde inte extrahera arkivet. Försök igen senare."

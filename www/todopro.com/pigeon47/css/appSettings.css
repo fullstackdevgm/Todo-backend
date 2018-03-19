@@ -1,0 +1,503 @@
+/*---------------------*/
+/*      !Contents       */
+/*---------------------*/
+/*
+	+ modules
+	+settings
+		- subscriptions
+
+
+*/
+/*---------------------*/
+/*       !Modules       */
+/*---------------------*/
+
+/*		!___Settings___		*/
+
+.setting { /*div*/width: 100%;border-bottom: 1px solid lightgray;padding:14px 0 10px;
+			-webkit-transition: background 1s;
+			   -moz-transition: background 1s;
+			     -o-transition: background 1s;
+			        transition: background 1s;
+}
+.setting > * {display:inline-block;cursor: default;}
+.setting label {display:inline-block;padding-left: 10px;}
+.setting input, .setting .select_wrapper {margin:0;}
+.setting:hover .setting_edit{visibility: visible;}
+	.setting_name {width:200px;}
+	.setting_details {width: 450px;vertical-align: top;}
+	.setting_edit {width:64px;visibility: hidden;cursor: pointer;text-align: right;text-transform: uppercase;font-weight: bold;}
+	.setting_edit:hover {text-decoration: underline;}
+	.setting_config {background:rgb(245, 245, 245);margin-left: 200px;margin-top: 10px;padding: 8px 14px 12px;display: none;}
+	.save_cancel_button_wrap {margin-top: 10px;text-align: center;}
+	
+#settings_inner_content {width: 1020px}
+
+#list_filter_config {display: none;}
+
+#settingOptions .selected_option .option_name {color:white}
+
+.general_settings_icon {	background-position: -123px -317px;margin-right: 2px;position: relative;top: -6px;width: 16px}
+.focus_list_settings_icon {	width:16px;margin-right:2px;background-position:-155px -326px;height: 16px;top:4px}
+.task_creation_icon {		width:16px;margin-right:2px;background-position: -187px -326px;height: 16px;top:4px}
+.account_settings_icon{		height:16px;width:16px;margin-right:2px;top:2px;background-position:-50px -342px;position:relative;top:4px}
+.subscription_settings_icon{width:16px;margin-right:2px;top:2px;background-position:-85px -342px;position:relative;top:4px}
+.referrals_settings_icon{width:16px;margin-right:2px;top:2px;background-position:-85px -342px;position:relative;top:4px}
+.gifts_settings_icon {      width:16px;margin-right:2px;top:2px;background-position:-149px -342px;position:relative;top:3px}
+.announcements_icon {		height:16px;width:16px;margin-right:2px;top:2px;position:relative;top:4px;background-position: -49px -358px}
+.notifications_icon {		height:16px;width:16px;margin-right:2px;top:2px;position:relative;top:2px;background-position: -181px -342px}
+
+.general_settings_icon.selected_option {	background-position: -139px -326px;height: 16px;top: 3px}
+.focus_list_settings_icon.selected_option {	background-position:-171px -326px}
+.task_creation_icon.selected_option {		background-position: -203px -326px}
+.account_settings_icon.selected_option{		background-position:-68px -342px}
+.subscription_settings_icon.selected_option{background-position:-101px -342px}
+.referrals_settings_icon.selected_option{	background-position:-101px -342px}
+.gifts_settings_icon.selected_option{		background-position:-165px -342px}
+.announcements_icon.selected_option{		background-position: -65px -358px}
+.notifications_icon.selected_option{		background-position: -197px -342px}
+
+.mc_center.control_link .option_name{width: 160px;position: relative}
+.mc_center.control_link .count {position:absolute;top:4px;right:0;display:none;min-width:10px;min-height:12px;border-radius:8px; background-color: rgb(233, 139, 140);border:1px solid rgb(126, 135, 142);color: white;font-size: .9rem;line-height:1rem;padding: 1px 6px;text-align:center}
+.mc_center.control_link .count.on {display: block}
+.mc_buttons_wrap {width:98%;max-width:700px;text-align: right;margin-bottom: 14px;padding-left:22px}
+.msg_center.button {display:inline-block;margin: 0 0 0 10px}
+.messages_container {font-size: 0;width: 98%;max-width: 700px}
+.messages_container > * {font-size: 1rem}
+.mc_message {background-color:rgb(230,230,230);width: 100%;min-width:500px;border: 1px solid lightgray;border-top-width:0;padding:10px;cursor:pointer;
+	-webkit-transition: background-color 300ms;
+	   -moz-transition: background-color 300ms;
+	     -o-transition: background-color 300ms;
+	     	transition: background-color 300ms;
+}
+.mc_message:first-child {border-top-width: 1px}
+.mc_message.unread {font-weight:bold;background-color: white}
+
+
+.mc_message_label {white-space:nowrap;text-overflow: ellipsis;display:inline-block;overflow:hidden;line-height: 100%;vertical-align: middle}
+.mc_message_label.subject {width:67.123287671%;font-size:1.1em;padding:0 5px 0 15px}
+.mc_message_label.preview {width:350px;font-size:.9em}
+.mc_message_label.date {text-align:right;width:180px;float:right;margin:4px 4px 0 0 }
+.mc_message_content {box-shadow:0 0 2px 0 rgba(100,100,100,.1) inset;background-color:rgb(235,235,235);display:none;width:95%;margin-left: 5%;height:0;border: 1px solid lightgray;border-top-width: 0;padding: 20px 10px}
+.mc_message_content.open {display:block;height: auto}
+
+
+/*---------! Subscriptions-------*/
+
+.subs_marketing_wrap {width: 512px;display:inline-block;vertical-align: top;margin-top: 10px}
+.subs_marketing {background: none repeat scroll 0 0 white;border: 1px solid black;margin: 0 20px;padding: 20px;width:85%;z-index: 2;position:relative}
+.subs_summary {width:440px}
+.subs_summary > h2, .subs_marketing > h2 {color:black;font-size: 2em;margin-bottom: 40px;font-weight: bold;width:500px;margin-top: 10px;font-family: helvetica}
+.subs_summary > p {margin: 10px auto;width: 90%;}
+.subs_summary a {color:blue}
+
+.subs_billing {width: 440px}
+.subs_marketing_dropshadow {height: 10px;margin: 0 auto;position: relative;width: 88%;z-index: 1}
+.subs_marketing_dropshadow:before {position:absolute;height:10px;display:block;width:50%;top:-14px;box-shadow: 0 0 7px 2px black;bottom:0;z-index:1;left:0;content:"";
+									-webkit-transform:rotate(-2deg);
+									   -moz-transform:rotate(-2deg);
+									    -ms-transform:rotate(-2deg);
+									        transform:rotate(-2deg);
+}
+.subs_marketing_dropshadow:after { position:absolute;height:10px;display:block;width:50%;top:-14px;box-shadow: 0 0 7px 2px black;bottom:0;z-index:1;right:0;content:"";
+									-webkit-transform:rotate(2deg);
+									   -moz-transform:rotate(2deg);
+									    -ms-transform:rotate(2deg);
+									        transform:rotate(2deg);
+}
+
+	
+
+.acc_type_wrapper {width: 400px;margin: 40px auto 0;text-align: center;}
+.acc_type_info_wrapper {display:inline-block;width:180px;height: 204px;}
+.acc_type_info {height:160px; width:150px; background:white; margin-top:20px;border:1px dotted gray;border-radius: 4px;position: relative;opacity: 0.6;z-index: 1;}
+.acc_type_info:hover {background: rgba(204,204,204,.6);}
+	.acc_type_info > label {text-align: center;}
+	.acc_type_info > label.time {font-size: 2em;margin-top: 5%;}
+	.acc_type_info > label.price {font-size: 1.2em;}
+	.acc_type_info > label.savings {opacity: .8;font-style: italic;}
+	.acc_type_info > label.date {position: absolute;bottom:0px;width: 92%;}
+.acc_type_info.active {height: 200px;width:170px;opacity: 1.0;z-index: 2;border:4px solid gray;}
+.acc_type_info.active:hover {background: white;}
+.acc_type_info_wrapper.left{}
+	.acc_type_info_wrapper.left > .acc_type_info {float:right;}
+.acc_type_info_wrapper.right{margin-left: -10px;}
+	.acc_type_info_wrapper.right > .acc_type_info {float:left;}
+
+.acc_type_info.active {width:170px;height: 200px;margin-top: 0;}
+
+.purchase{}
+.purchase.header {border:none;background: none;z-index: 0}
+.purchase.header > div {font-weight: bold;}
+.purchase.header .p-details{}
+.purchase > div {display:inline-block;margin-left: 10px;}
+	.p-date{width:150px;}
+	.p-type{width:100px;text-align: center;}
+	.p-details{width:152px;text-align: center;overflow: hidden;}
+
+
+.subscription_container {
+	border-bottom: 1px solid lightgray;
+    height: 26px;
+    margin-bottom: 10px;
+    margin-left: 14px;
+    overflow: hidden;
+    padding-bottom: 4px;
+    width: 710px;
+}
+.subscription_container div {
+
+}
+
+.subscription_container img {
+    height: 26px;
+    margin-right: 4px;
+    display: inline-block;
+}
+
+.subscription_container .labels_wrapper {
+	display: inline-block;
+	position: relative;
+	bottom: 5px;
+}
+
+#owned_subscriptions_wrapper, #member_subscription_wrapper {
+	margin-bottom: 40px;
+}
+.subscription_container *
+{
+	color: inherit;
+}
+.subscription_container {
+
+}
+.subscription_container .button {
+	display: inline-block;
+    margin-left: 8px;
+    margin-top: 32px;
+    min-width: 60px;
+    text-align: center;
+}
+.subscription_container input[type="checkbox"] {
+	bottom: 9px;
+    display: inline-block;
+    margin-right: 8px;
+    position: relative;
+    margin-bottom: 60px;
+}
+
+#member_subscription_header {
+	display: none;
+}
+.sub_owner_label {
+	font-weight: bold;
+}
+
+.sub_owner_label span {
+	font-weight: normal;
+}
+
+.sub_expire_label, .sub_owner_label {
+	bottom: 4px;
+    display: inline-block;
+    position: relative;
+    min-width: 220px;
+}
+
+#renew_subscription_button {
+	display: inline;
+    margin: 0 4px;
+    text-align: center;
+    width: 150px;
+}
+#add_subscription_button {
+	display: inline-block;
+    float: right;
+    margin-right: 12px;
+    margin-top: -35px;
+    position: relative;
+}
+
+.sub_action_button {
+	float: right;
+    margin-top: -32px;
+    vertical-align: top;
+}
+#primary_assign_options {
+	width: 281px;
+}
+#primary_assign_options label {
+	display: block;
+	margin-bottom: 6px;
+}
+
+#primary_assign_options input[type="radio"]{
+	margin-right: 4px;
+}
+
+#secondary_assign_options div {
+	border: 1px solid gray;
+    cursor: pointer;
+    display: inline-block;
+    margin: 4px -4px 0 0;
+    padding: 4px;
+    text-align: center;
+    width: 131px;
+}
+
+#secondary_assign_options_body {
+	border: 1px solid gray;
+    height: 150px;
+    margin-top: -1px;
+    padding: 10px 0;
+    width: 279px;
+}
+
+#fb_friend_option {
+
+}
+
+#other_friend_option {
+
+}
+
+#friend_email, #friend_message {
+    padding: 4px;
+    width: 200px;
+}
+#friend_message {
+	height: 99px;
+    padding: 6px;
+    width: 200px;
+}
+.option_wrapper {
+	margin-bottom: 8px;
+}
+.option_wrapper .label {
+	margin-top: 7px;
+	display: inline-block;
+    text-align: right;
+    width: 54px;
+    vertical-align: top;
+}
+.card_info_wrap {
+	border: 1px solid gray;
+	border-radius: 0 4px 4px 4px;
+	margin-bottom: 2px;
+	z-index: 1;
+	background: rgb(254, 252, 241);
+	padding: 16px 0;
+}
+.setting_options_container .tab {
+	margin-top: 6px;
+	display: inline-block;
+	position: relative;
+	padding: 3px 14px;
+	border-right: 1px solid gray;
+	 border-left: 1px solid gray;
+	  border-top: 1px solid gray;
+	vertical-align: bottom;
+	color: rgb(52,52,52);
+	background: rgb(254, 252, 241);
+	z-index: 2;
+	border-radius: 4px 4px 0 0;
+	opacity: 0.6;
+	cursor: default;
+}
+.setting_options_container .tab:hover {
+	opacity: 1.0;
+}
+.setting_options_container .tab.active {
+	top: 1px;
+	padding: 6px 14px;
+	opacity: 1.0;
+}
+
+.setting_options_container h3 {
+	margin-bottom: 18px;
+}
+
+#purchase_pricing_container div {
+	text-align: right;
+}
+
+#purchase_pricing_container {
+	margin-bottom: 54px;
+    width: 718px;
+}
+#purchase_pricing_container span {
+	width: 20px;
+	line-height: 20px;
+	display: inline-block;
+}
+
+#purchase_pricing_container #subtotal_label, #purchase_pricing_container #discount_label, #purchase_pricing_container #total_label {
+	font-weight: bold;
+	width: 100px;
+}
+#total_amount{
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 3px;
+}
+#total_amount:before {
+	content : "$";
+}
+
+.payment_image.cards {background-position: 0 -374px;height: 29px;margin-left: 149px;width: 226px}
+.payment_image.cvc_help {background-position: -133px -342px;height: 16px;width: 16px;position:relative}
+.cvc_help_wrapper:hover  .cvc_help_image_wrap{display:block;opacity: 1}
+.cvc_help_image_wrap {display:none;top:0;background: white;border: 1px solid gray;padding-top:10px;opacity: 0;position: absolute;transition: opacity 0.5s ease 0s;width: 564px;z-index: 4;text-align: center;
+				 -webkit-transition: opacity .5s;
+				    -moz-transition: opacity .5s;
+				      -o-transition: opacity .5s;
+				      	 transition: opacity .5s;}
+.cvc_cc_back_image{ height: 140px;top: 0;width: 210px;margin:0 auto}
+.cvc_cc_front_image{height: 140px;top: 0;width: 210px;margin:0 auto}
+.cvc_help_item {display: inline-block;margin: 10px 20px;width: 240px;vertical-align: top}
+
+#add_subscription_button_wrapper {margin-top:-40px; padding-top:8px;}
+	#add_subscription_button_wrapper:hover {background:lightgray;}
+
+#main_subscription_buttons_wrapper{margin-top:20px; text-align: center;}
+#purchase_confirmation_prompt {width:300px;margin:0 20px;}
+.sub_price_label {
+	bottom: 9px;
+    left: 143px;
+    position: relative;
+}
+
+#pricing_payment_info_wrapper {
+	display: block;
+	text-align: center;
+}
+.purchase_summary {
+	display: block;
+	padding: 10px 0;
+}
+#discounts_table {
+    display: block;
+    float: left;
+    height: 237px;
+    margin-left: 51px;
+    width: 230px;
+}
+#discounts_table div {
+	margin: 10px;
+}
+#discounts_table h3 {
+	margin-bottom: 20px;
+    margin-top: 10px;
+}
+#discounts_table .label {
+	display: inline-block;
+    text-align: right;
+    width: 140px;
+    margin-left: -24px;
+}
+#discounts_table .value {
+	display: inline-block;
+    text-align: left;
+    width: 30px;
+    font-weight: bold;
+}
+/*payment info*/
+#payment_info_container {display: inline-block;margin: 0 auto 0 30px;padding-top: 10px;width: 394px}
+.purchase_confirmation {
+	display: inline-block;
+	width:290px;
+	text-align: right;
+	vertical-align: bottom;
+	margin-left: 110px;
+}
+
+.terms_service_check {
+	margin-bottom: 14px;
+    padding: 8px 0;
+    position: relative;
+    right: 11px;
+    width: 300px;
+}
+#payment_info_container h3 {
+	margin-top: 10px;
+    text-align: center;
+}
+
+.payment_info_option label {
+	display: inline-block;
+    margin-right: 5px;
+    text-align: right;
+    width: 124px;
+    line-height: 23px;
+}
+
+.payment_info_option img {
+	height: 20px;
+    margin-left: 146px;
+}
+.payment_info_option{
+	display: block;
+	margin: 6px auto;
+}
+.payment_info_option input
+{
+	padding: 4px;
+	border: 1px solid gray;
+}
+
+.purchace_cancel_buttons_wrapper {
+	margin: 18px 0 15px;
+    padding-left: 70px;
+    text-align: center;
+}
+#name_on_card, #cc_number {
+	width: 216px;
+}
+#exp_date_month {
+	width: 110px;
+}
+#exp_date_year {
+	width: 60px;
+}
+#cvc, #update_cc_cvc {
+	width: 30px;
+	min-width: 30px;
+}
+#cvc_help_wrapper {
+	position: relative;
+	display: inline-block;
+	top: 8px;
+}
+
+#cvc_help {
+	border: 1px solid gray;
+    position: absolute;
+    width: 260px;
+    height: 180px;
+    top: -198px;
+    background: rgb(255,255,255);
+    padding: 10px;
+    display: none;
+
+
+    transition: opacity 1s;
+	-moz-transition: opacity 1s; /* Firefox 4 */
+	-webkit-transition: opacity 1s; /* Safari and Chrome */
+	-o-transition: opacity 1s; /* Opera */
+
+}
+
+#lock_img {
+	float: right;
+    height: 12px;
+    margin-right: 47px;
+    margin-top: -27px;
+}
+#lock_help {
+	display: none;
+}
+
+
+
+
+

@@ -1,0 +1,37 @@
+.listColor {
+	height: 12px;
+	width: 12px;
+	border: 1px solid gray;
+	border-radius: 4px;
+}
+
+#colorPickerWrapper {
+    display: block;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.setting_option_details .setting_label{
+	display: block;
+    margin-left: 10px;
+}
+#colorPickerWrapper .listColor {
+	height: 17px;
+	width: 17px;
+	margin: 2px;
+	float: left;
+	cursor: pointer;
+}
+
+#colorPickerWrapper li {
+	display: block;
+}
+
+.colorPickerRow {
+	display: block;
+	clear: both;
+    width: 140px;
+    margin: 0 auto;
+}
+
+.no_display {display: none;}

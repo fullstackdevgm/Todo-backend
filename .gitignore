@@ -1,0 +1,9 @@
+/logs
+/.vagrant*
+*.sublime-*
+sensitive
+*.DS_Store*
+*project.xcworkspace*
+*/**/xcuserdata/*
+**/node_modules/*
+/api/lambda.zip

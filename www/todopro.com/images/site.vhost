@@ -1,0 +1,20 @@
+<VirtualHost *:80>
+
+    ServerAdmin webmaster@localhost
+
+    DocumentRoot /vagrant/www
+    <Directory /vagrant/www/>
+        Options Indexes FollowSymLinks MultiViews
+        AllowOverride None
+        #Order allow,deny allow from all
+    </Directory>
+
+    <IfModule mpm_itk_module>
+      AssignUserId root root
+    </IfModule>
+
+    # Possible values include: debug, info, notice, warn, error, crit, # alert, emerg.
+    LogLevel warn
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>

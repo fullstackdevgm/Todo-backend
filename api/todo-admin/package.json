@@ -1,0 +1,29 @@
+{
+  "name": "todo-admin",
+  "version": "0.0.1-beta.1",
+  "description": "Command-line admin tools for the Todo Cloud system.",
+  "main": "admin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Appigo, Inc.",
+  "license": "UNLICENSED",
+  "bin": {
+    "todo-admin": "./admin.js"
+  },
+  "dependencies": {
+    "@log4js-node/log4js-api": "^1.0.0",
+    "async": "^2.5.0",
+    "aws-sdk": "^2.171.0",
+    "better-sqlite3": "^4.0.3",
+    "chalk": "^2.3.0",
+    "clear": "0.0.1",
+    "clui": "^0.3.6",
+    "configstore": "^3.1.1",
+    "figlet": "^1.2.0",
+    "inquirer": "^3.3.0",
+    "jwt-simple": "^0.5.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}

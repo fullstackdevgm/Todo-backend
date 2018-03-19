@@ -1,0 +1,13 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure("2") do |config|
+  config.vm.provider :aws do |aws|
+    aws.ami = "ami-fcbbff94"
+    aws.availability_zone = "us-east-1e"
+    aws.instance_type = "m3.medium"
+    aws.keypair_name = "appigokey"
+    aws.region = "us-east-1"
+    aws.security_groups = ["Todo Online","staging"]
+  end
+end

@@ -1,0 +1,29 @@
+<VirtualHost *:80>
+
+    ServerAdmin webmaster@localhost
+
+    DocumentRoot /vagrant/www/todopro.com
+    <Directory /vagrant/www/todopro.com/>
+        Options -Indexes FollowSymLinks MultiViews
+        AllowOverride None
+        #Order allow,deny allow from all
+		Header set Access-Control-Allow-Origin "*"
+		Header set Access-Control-Allow-Headers "content-type, authorization"
+    </Directory>
+
+    <IfModule mpm_itk_module>
+      AssignUserId root root
+    </IfModule>
+
+    # Possible values include: debug, info, notice, warn, error, crit, # alert, emerg.
+    LogLevel warn
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+
+    # Make the /api/v1 path get redirected to ExpressJS running with Node.js
+    # which is serving up the same API that our production site runs inside
+    # of Amazon API Gateway & Lambda. In the case of here, it's accessing the
+    # local MySQL instance. In production, it accesses the production
+    # database running inside Amazon RDS (Aurora DB).
+    ProxyPass /api/v1 http://localhost:8080
+</VirtualHost>

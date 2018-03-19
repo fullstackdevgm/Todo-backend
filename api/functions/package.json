@@ -1,0 +1,33 @@
+{
+  "name": "todo-api-functions",
+  "version": "1.0.0",
+  "description": "Todo Cloud API Node.js functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Appigo, Inc.",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@log4js-node/log4js-api": "1.0.0",
+    "any-db": "2.1.0",
+    "any-db-mysql": "2.1.2",
+    "any-db-sqlite3": "2.1.4",
+    "any-db-transaction": "2.2.2",
+    "async": "2.1.4",
+    "aws-sdk": "2.53.0",
+    "datejs": "1.0.0-rc3",
+    "jwt-simple": "0.5.1",
+    "mandrill-api": "1.0.45",
+    "md5": "2.2.1",
+    "moment-timezone": "0.5.11",
+    "parse-db-url": "github:joulupukki/parse-db-url",
+    "path": "0.12.7",
+    "semaphore": "1.0.5",
+    "semver": "5.4.1",
+    "shortid": "2.2.6",
+    "stripe": "4.22.0",
+    "uuid": "3.0.1",
+    "validator": "6.2.0"
+  }
+}

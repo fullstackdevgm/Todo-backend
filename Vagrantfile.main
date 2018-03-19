@@ -1,0 +1,31 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure("2") do |config|
+
+  config.vm.box = "todocloud-main"
+
+  config.vm.provider :aws do |aws, override|
+    #Original Ubuntu 12.04 in Amazon's old system
+    #aws.ami = "ami-fcbbff94"
+    # Ubuntu 12.04 LTS for Amazon's VPC HVM-based
+    aws.ami = "ami-ed135687"
+    aws.availability_zone = "us-east-1e"
+    #aws.instance_type = "c3.large"
+    aws.instance_type = "c4.xlarge"
+    aws.keypair_name = "appigokey"
+    aws.region = "us-east-1"
+    #aws.security_groups = ["Todo Online", "staging"]
+    aws.security_groups = ["sg-f40e3f92"]
+    aws.subnet_id = "subnet-099f8822"
+    aws.associate_public_ip = true
+
+    aws.access_key_id = ENV['AWS_ACCESS_KEY_ID']
+    aws.secret_access_key = ENV['AWS_SECRET_ACCESS_KEY']
+
+    override.ssh.username = "ubuntu"
+    override.ssh.private_key_path = "/Users/boyd/.ssh/appigokey.pem"
+  end
+
+  config.vm.provision "shell", path: "conf/setup.sh", args: ENV['SHELL_ARGS']
+end
